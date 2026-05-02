@@ -87,11 +87,11 @@ export const CATEGORY_COLORS: Record<Category, string> = {
 };
 
 export const CATEGORY_ICONS: Record<Category, string> = {
-  concert: "♪",
-  theater: "♦",
-  sport: "●",
-  festival: "✦",
-  "stand-up": "!",
-  musical: "♫",
-  other: "•",
+  concert: "🎵",
+  theater: "🎭",
+  sport: "⚽",
+  festival: "🎪",
+  "stand-up": "🎤",
+  musical: "🎼",
+  other: "🎟️",
 };

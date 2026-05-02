@@ -83,31 +83,30 @@ export default function EventMap({
       const color = CATEGORY_COLORS[event.category];
       const icon = CATEGORY_ICONS[event.category];
       const count = event.sources.length;
-      const size = count > 1 ? 30 : 24;
       el.style.cssText = `
-        width: ${size}px;
-        height: ${size}px;
-        background: ${color};
-        border: 2px solid #fff;
+        width: 34px;
+        height: 34px;
+        background: #fff;
+        border: 2px solid ${color};
         border-radius: 50%;
-        box-shadow: 0 2px 6px rgba(0,0,0,0.35);
+        box-shadow: 0 3px 8px rgba(0,0,0,0.35);
         display: flex; align-items: center; justify-content: center;
-        color: #fff; font-size: ${count > 1 ? 11 : 13}px;
-        font-weight: 700; cursor: pointer; line-height: 1;
+        font-size: 18px; cursor: pointer; line-height: 1;
         position: relative;
       `;
-      el.textContent = count > 1 ? String(count) : icon;
+      el.textContent = icon;
       if (count > 1) {
         const badge = document.createElement("div");
         badge.style.cssText = `
-          position: absolute; bottom: -4px; right: -4px;
-          width: 14px; height: 14px; border-radius: 50%;
-          background: #fff; border: 1.5px solid ${color};
-          font-size: 9px; color: ${color};
+          position: absolute; top: -5px; right: -5px;
+          min-width: 16px; height: 16px; padding: 0 4px;
+          border-radius: 8px;
+          background: #1e293b; border: 1.5px solid #fff;
+          font-size: 10px; color: #fff;
           display: flex; align-items: center; justify-content: center;
           font-weight: 700; line-height: 1;
         `;
-        badge.textContent = icon;
+        badge.textContent = String(count);
         el.appendChild(badge);
       }
 
