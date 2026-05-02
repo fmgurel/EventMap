@@ -5,6 +5,7 @@ import dynamic from "next/dynamic";
 import {
   Category,
   CATEGORY_LABELS,
+  CATEGORY_COLORS,
   Event,
   Source,
   SOURCE_COLORS,
@@ -152,6 +153,11 @@ export default function HomePage() {
               key={c}
               className={`chip ${activeCategory === c ? "active" : ""}`}
               onClick={() => setActiveCategory(c)}
+              style={
+                activeCategory === c
+                  ? { background: CATEGORY_COLORS[c], borderColor: CATEGORY_COLORS[c] }
+                  : { borderLeft: `3px solid ${CATEGORY_COLORS[c]}` }
+              }
             >
               {CATEGORY_LABELS[c]}
             </button>

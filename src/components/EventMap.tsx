@@ -2,7 +2,14 @@
 
 import { useEffect, useRef } from "react";
 import maplibregl, { Marker, Popup } from "maplibre-gl";
-import { Event, SOURCE_COLORS, SOURCE_LABELS, CATEGORY_LABELS } from "@/lib/types";
+import {
+  Event,
+  SOURCE_COLORS,
+  SOURCE_LABELS,
+  CATEGORY_LABELS,
+  CATEGORY_COLORS,
+  CATEGORY_ICONS,
+} from "@/lib/types";
 
 type Props = {
   events: Event[];
@@ -73,20 +80,36 @@ export default function EventMap({
       if (markers.has(event.id)) continue;
 
       const el = document.createElement("div");
-      const dominant = event.sources[0]?.source ?? "biletix";
-      const color = SOURCE_COLORS[dominant];
+      const color = CATEGORY_COLORS[event.category];
+      const icon = CATEGORY_ICONS[event.category];
       const count = event.sources.length;
+      const size = count > 1 ? 30 : 24;
       el.style.cssText = `
-        width: ${count > 1 ? 28 : 22}px;
-        height: ${count > 1 ? 28 : 22}px;
+        width: ${size}px;
+        height: ${size}px;
         background: ${color};
         border: 2px solid #fff;
         border-radius: 50%;
-        box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+        box-shadow: 0 2px 6px rgba(0,0,0,0.35);
         display: flex; align-items: center; justify-content: center;
-        color: #fff; font-size: 11px; font-weight: 700; cursor: pointer;
+        color: #fff; font-size: ${count > 1 ? 11 : 13}px;
+        font-weight: 700; cursor: pointer; line-height: 1;
+        position: relative;
       `;
-      if (count > 1) el.textContent = String(count);
+      el.textContent = count > 1 ? String(count) : icon;
+      if (count > 1) {
+        const badge = document.createElement("div");
+        badge.style.cssText = `
+          position: absolute; bottom: -4px; right: -4px;
+          width: 14px; height: 14px; border-radius: 50%;
+          background: #fff; border: 1.5px solid ${color};
+          font-size: 9px; color: ${color};
+          display: flex; align-items: center; justify-content: center;
+          font-weight: 700; line-height: 1;
+        `;
+        badge.textContent = icon;
+        el.appendChild(badge);
+      }
 
       el.addEventListener("click", (ev) => {
         ev.stopPropagation();

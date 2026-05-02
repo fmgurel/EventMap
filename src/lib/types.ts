@@ -75,3 +75,23 @@ export const CATEGORY_LABELS: Record<Category, string> = {
   musical: "Müzikal",
   other: "Diğer",
 };
+
+export const CATEGORY_COLORS: Record<Category, string> = {
+  concert: "#ef4444",
+  theater: "#a855f7",
+  sport: "#22c55e",
+  festival: "#f97316",
+  "stand-up": "#eab308",
+  musical: "#3b82f6",
+  other: "#94a3b8",
+};
+
+export const CATEGORY_ICONS: Record<Category, string> = {
+  concert: "♪",
+  theater: "♦",
+  sport: "●",
+  festival: "✦",
+  "stand-up": "!",
+  musical: "♫",
+  other: "•",
+};
