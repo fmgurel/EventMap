@@ -1,0 +1,8 @@
+node_modules
+.next
+out
+dist
+.env*.local
+*.log
+.scraper-research/
+data/geocode-cache.json
