@@ -103,31 +103,66 @@ function knownVenueLookup(venue: string, city: string): { lat: number; lng: numb
   return null;
 }
 
-async function nominatim(query: string): Promise<{ lat: number; lng: number } | null> {
+type CityBox = { minLat: number; maxLat: number; minLng: number; maxLng: number };
+
+const CITY_BOX: Record<string, CityBox> = {
+  istanbul: { minLat: 40.80, maxLat: 41.30, minLng: 28.50, maxLng: 29.55 },
+  ankara: { minLat: 39.78, maxLat: 40.10, minLng: 32.45, maxLng: 33.10 },
+  izmir: { minLat: 38.20, maxLat: 38.65, minLng: 26.85, maxLng: 27.40 },
+  antalya: { minLat: 36.78, maxLat: 37.10, minLng: 30.45, maxLng: 31.30 },
+  bursa: { minLat: 40.10, maxLat: 40.30, minLng: 28.85, maxLng: 29.30 },
+  adana: { minLat: 36.95, maxLat: 37.10, minLng: 35.20, maxLng: 35.45 },
+  konya: { minLat: 37.78, maxLat: 38.05, minLng: 32.30, maxLng: 32.75 },
+  gaziantep: { minLat: 36.95, maxLat: 37.20, minLng: 37.20, maxLng: 37.55 },
+  eskisehir: { minLat: 39.65, maxLat: 39.85, minLng: 30.30, maxLng: 30.75 },
+  kocaeli: { minLat: 40.70, maxLat: 40.90, minLng: 29.70, maxLng: 30.20 },
+  mersin: { minLat: 36.70, maxLat: 36.90, minLng: 34.40, maxLng: 34.85 },
+  mugla: { minLat: 36.90, maxLat: 37.45, minLng: 27.40, maxLng: 28.80 },
+};
+
+function withinCity(lat: number, lng: number, city: string): boolean {
+  const box = CITY_BOX[norm(city)];
+  if (!box) return true;
+  return lat >= box.minLat && lat <= box.maxLat && lng >= box.minLng && lng <= box.maxLng;
+}
+
+async function photon(
+  query: string,
+  city?: string,
+): Promise<{ lat: number; lng: number } | null> {
   const now = Date.now();
-  const wait = Math.max(0, lastRequest + 1100 - now);
+  const wait = Math.max(0, lastRequest + 600 - now);
   if (wait > 0) await new Promise((r) => setTimeout(r, wait));
   lastRequest = Date.now();
 
-  const url = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(query)}&format=json&limit=1&countrycodes=tr`;
+  const url = `https://photon.komoot.io/api?q=${encodeURIComponent(query)}&limit=5&lang=tr`;
   const ctrl = new AbortController();
   const timer = setTimeout(() => ctrl.abort(), 10000);
   try {
     const res = await fetch(url, {
-      headers: {
-        "User-Agent": "EventMapDemo/0.1 (https://example.com/bot)",
-        "Accept-Language": "tr,en",
-      },
+      headers: { "User-Agent": "EventMapDemo/0.1" },
       signal: ctrl.signal,
     });
     clearTimeout(timer);
     if (!res.ok) return null;
-    const data = (await res.json()) as Array<{ lat: string; lon: string }>;
-    if (!data[0]) return null;
-    const lat = Number(data[0].lat);
-    const lng = Number(data[0].lon);
-    if (!Number.isFinite(lat) || !Number.isFinite(lng)) return null;
-    return { lat, lng };
+    const data = (await res.json()) as {
+      features?: Array<{
+        geometry?: { coordinates?: [number, number] };
+        properties?: { country?: string; countrycode?: string; city?: string; state?: string };
+      }>;
+    };
+    const features = data.features ?? [];
+    for (const f of features) {
+      const coords = f.geometry?.coordinates;
+      if (!coords) continue;
+      const [lng, lat] = coords;
+      if (!Number.isFinite(lat) || !Number.isFinite(lng)) continue;
+      const cc = (f.properties?.countrycode ?? "").toUpperCase();
+      if (cc && cc !== "TR") continue;
+      if (city && !withinCity(lat, lng, city)) continue;
+      return { lat, lng };
+    }
+    return null;
   } catch {
     clearTimeout(timer);
     return null;
@@ -165,26 +200,26 @@ export async function geocodeVenue(
 
   const cache = await loadCache();
   const key = `${norm(venue)}|${norm(city)}`;
-  if (key in cache && cache[key]) return cache[key];
+  if (key in cache) return cache[key];
 
   let result =
-    (await nominatim(`${venue}, ${city}, Türkiye`)) ??
-    (await nominatim(`${venue}, ${city}`));
+    (await photon(`${venue}, ${city}`, city)) ??
+    (await photon(`${venue} ${city}`, city));
 
   if (!result) {
-    const lastWord = venue.split(/[,\s]+/).filter(Boolean).pop();
-    if (lastWord && lastWord.length > 3) {
-      result = await nominatim(`${lastWord}, ${city}`);
+    const lastTwo = venue
+      .split(/[,]+/)
+      .map((s) => s.trim())
+      .filter(Boolean)
+      .slice(-2)
+      .join(", ");
+    if (lastTwo && lastTwo !== venue) {
+      result = await photon(`${lastTwo}, ${city}`, city);
     }
   }
 
-  if (!result) {
-    const fallback = cityCenter(city);
-    if (fallback) {
-      const jitterLat = (Math.random() - 0.5) * 0.04;
-      const jitterLng = (Math.random() - 0.5) * 0.05;
-      result = { lat: fallback.lat + jitterLat, lng: fallback.lng + jitterLng };
-    }
+  if (result && !withinCity(result.lat, result.lng, city)) {
+    result = null;
   }
 
   cache[key] = result;

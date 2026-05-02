@@ -4,6 +4,20 @@ import { politeGet, throttled } from "./fetchUtils";
 import { extractItemprop, extractAllItemprop, extractMeta, decodeEntities } from "./microdata";
 import { cityFromCoords } from "./cityFromCoords";
 
+const CITY_BBOX: Record<string, { minLat: number; maxLat: number; minLng: number; maxLng: number }> = {
+  İstanbul: { minLat: 40.80, maxLat: 41.30, minLng: 28.50, maxLng: 29.55 },
+  Ankara: { minLat: 39.78, maxLat: 40.10, minLng: 32.45, maxLng: 33.10 },
+  İzmir: { minLat: 38.20, maxLat: 38.65, minLng: 26.85, maxLng: 27.40 },
+  Antalya: { minLat: 36.78, maxLat: 37.10, minLng: 30.45, maxLng: 31.30 },
+  Bursa: { minLat: 40.10, maxLat: 40.30, minLng: 28.85, maxLng: 29.30 },
+};
+
+function isInCityBbox(lat: number, lng: number, city: string): boolean {
+  const b = CITY_BBOX[city];
+  if (!b) return true;
+  return lat >= b.minLat && lat <= b.maxLat && lng >= b.minLng && lng <= b.maxLng;
+}
+
 const SITEMAP = "https://biletinial.com/sitemap-event";
 const MAX_EVENTS = 80;
 const REQUEST_SPACING_MS = 500;
@@ -89,11 +103,22 @@ function parseEvent(html: string, url: string): RawEvent | null {
 
   const latStr = extractItemprop(html, "latitude");
   const lngStr = extractItemprop(html, "longitude");
-  const lat = latStr ? Number(latStr) : NaN;
-  const lng = lngStr ? Number(lngStr) : NaN;
+  let lat = latStr ? Number(latStr) : NaN;
+  let lng = lngStr ? Number(lngStr) : NaN;
   if (!Number.isFinite(lat) || !Number.isFinite(lng)) return null;
   if (Math.abs(lat) < 1 && Math.abs(lng) < 1) return null;
   if (lat < 35 || lat > 43 || lng < 25 || lng > 45) return null;
+  const addrCity = extractItemprop(html, "addressLocality") ?? "";
+  const cityHint = /İstanbul/i.test(addrCity) ? "İstanbul"
+    : /Ankara/i.test(addrCity) ? "Ankara"
+    : /İzmir/i.test(addrCity) ? "İzmir"
+    : /Bursa/i.test(addrCity) ? "Bursa"
+    : /Antalya/i.test(addrCity) ? "Antalya"
+    : null;
+  if (cityHint) {
+    const inBox = isInCityBbox(lat, lng, cityHint);
+    if (!inBox) return null;
+  }
 
   const names = extractAllItemprop(html, "name");
   const venueName =
