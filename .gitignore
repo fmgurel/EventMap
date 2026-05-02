@@ -6,3 +6,4 @@ dist
 *.log
 .scraper-research/
 data/geocode-cache.json
+tsconfig.tsbuildinfo
