@@ -261,9 +261,10 @@ export default function HomePage() {
                 key={e.id}
                 className={`event-card ${selectedId === e.id ? "selected" : ""}`}
                 onClick={() => {
-                  setSelectedId(e.id);
                   flyToEvent(e);
                   setDrawerOpen(false);
+                  const url = e.sources[0]?.url;
+                  if (url) window.open(url, "_blank", "noopener,noreferrer");
                 }}
               >
                 <div className="title">{e.title}</div>
@@ -279,13 +280,17 @@ export default function HomePage() {
                 </div>
                 <div className="sources">
                   {e.sources.map((s) => (
-                    <span
+                    <a
                       key={s.source}
+                      href={s.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className="source-pill"
                       style={{ background: SOURCE_COLORS[s.source] }}
+                      onClick={(ev) => ev.stopPropagation()}
                     >
                       {SOURCE_LABELS[s.source]}
-                    </span>
+                    </a>
                   ))}
                 </div>
               </div>
