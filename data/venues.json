@@ -1,0 +1,1170 @@
+{
+  "harbiye-cemil-topuzlu-acikhava-tiyatrosu|i-stanbul": {
+    "name": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.0463,
+    "lng": 28.9874,
+    "count": 14
+  },
+  "adana-cukurova-universitesi-acikhava-tiyatrosu|adana": {
+    "name": "Adana Çukurova Üniversitesi Açıkhava Tiyatrosu",
+    "city": "Adana",
+    "district": "Çukurova",
+    "lat": 37.032552,
+    "lng": 35.331724,
+    "count": 13
+  },
+  "kulturpark-acikhava-tiyatrosu|i-zmir": {
+    "name": "Kültürpark Açıkhava Tiyatrosu",
+    "city": "İzmir",
+    "district": "Konak",
+    "lat": 38.42897,
+    "lng": 27.135215,
+    "count": 11
+  },
+  "oran-acikhava-sahnesi|ankara": {
+    "name": "Oran Açıkhava Sahnesi",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.849895,
+    "lng": 32.82261,
+    "count": 10
+  },
+  "zorlu-psm-turkcell-sahnesi|i-stanbul": {
+    "name": "Zorlu PSM - Turkcell Sahnesi",
+    "city": "İstanbul",
+    "district": "Sarıyer",
+    "lat": 41.0681,
+    "lng": 29.0151,
+    "count": 9
+  },
+  "01-burda-pgm-sahne-adana|adana": {
+    "name": "01 Burda PGM Sahne - Adana",
+    "city": "Adana",
+    "district": "Seyhan",
+    "lat": 36.98636,
+    "lng": 35.325286,
+    "count": 8
+  },
+  "cermodern|ankara": {
+    "name": "CerModern",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.920789,
+    "lng": 32.854048,
+    "count": 6
+  },
+  "congresium-ankara|ankara": {
+    "name": "Congresium Ankara",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.793504,
+    "lng": 32.806404,
+    "count": 6
+  },
+  "kucukciftlik-park|i-stanbul": {
+    "name": "KüçükÇiftlik Park",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.0476,
+    "lng": 28.9938,
+    "count": 5
+  },
+  "life-park|i-stanbul": {
+    "name": "Life Park",
+    "city": "İstanbul",
+    "district": "Beyoğlu",
+    "lat": 41.028551,
+    "lng": 28.977929,
+    "count": 5
+  },
+  "bornova-asik-veysel-acikhava-tiyatrosu|i-zmir": {
+    "name": "Bornova Aşık Veysel Açıkhava Tiyatrosu",
+    "city": "İzmir",
+    "district": "Bornova",
+    "lat": 38.4661,
+    "lng": 27.218,
+    "count": 5
+  },
+  "atakoy-marina-arena|i-stanbul": {
+    "name": "Ataköy Marina Arena",
+    "city": "İstanbul",
+    "district": "Bakırköy",
+    "lat": 40.9737,
+    "lng": 28.8351,
+    "count": 4
+  },
+  "besiktas-tupras-stadyumu|i-stanbul": {
+    "name": "Beşiktaş Tüpraş Stadyumu",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.0392,
+    "lng": 29.0034,
+    "count": 4
+  },
+  "bonus-parkorman|i-stanbul": {
+    "name": "Bonus Parkorman",
+    "city": "İstanbul",
+    "district": "Sarıyer",
+    "lat": 41.1098,
+    "lng": 29.0163,
+    "count": 4
+  },
+  "yenimahalle-nazim-hikmet-kultur-merkezi-genco-erkal-sahnesi|ankara": {
+    "name": "Yenimahalle Nazım Hikmet Kültür Merkezi-Genco Erkal Sahnesi",
+    "city": "Ankara",
+    "district": "Yenimahalle",
+    "lat": 39.967827,
+    "lng": 32.79078,
+    "count": 4
+  },
+  "emex-hotel-kocaeli|kocaeli": {
+    "name": "Emex Hotel Kocaeli",
+    "city": "Kocaeli",
+    "district": "İzmit",
+    "lat": 40.761063,
+    "lng": 29.885578,
+    "count": 4
+  },
+  "buyukcekmece-kulturpark-kemal-sunal-amfi-tiyatro|i-stanbul": {
+    "name": "Büyükçekmece Kültürpark Kemal Sunal Amfi Tiyatro",
+    "city": "İstanbul",
+    "district": "Büyükçekmece",
+    "lat": 41.0205,
+    "lng": 28.5938,
+    "count": 3
+  },
+  "volkswagen-arena|i-stanbul": {
+    "name": "Volkswagen Arena",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.0935,
+    "lng": 29.0157,
+    "count": 3
+  },
+  "caferaga-moda-cd-no-194-34710-kadikoy-i-stanbul|i-stanbul": {
+    "name": "Caferağa, Moda Cd. No:194, 34710 Kadıköy/İstanbul",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.986507,
+    "lng": 29.025652,
+    "count": 3
+  },
+  "gumussuyu-mahallesi-mete-caddesi-no-2-beyoglu-i-stanbul|i-stanbul": {
+    "name": "Gümüşsuyu Mahallesi Mete Caddesi No:2 Beyoğlu/İSTANBUL",
+    "city": "İstanbul",
+    "district": "Beyoğlu",
+    "lat": 41.036739,
+    "lng": 28.987695,
+    "count": 3
+  },
+  "bilinmeyen-mekan|i-zmir": {
+    "name": "Bilinmeyen Mekan",
+    "city": "İzmir",
+    "district": "Konak",
+    "lat": 38.42897,
+    "lng": 27.135215,
+    "count": 3
+  },
+  "doganbey-mahallesi-talatpasa-blv-no-38-06050-altindag-ankara|ankara": {
+    "name": "Doğanbey Mahallesi، Talatpaşa Blv No:38, 06050 Altındağ/Ankara",
+    "city": "Ankara",
+    "district": "Altındağ",
+    "lat": 39.934761,
+    "lng": 32.849884,
+    "count": 3
+  },
+  "bostanli-suat-taser-tiyatrosu|i-zmir": {
+    "name": "Bostanlı Suat Taşer Tiyatrosu",
+    "city": "İzmir",
+    "district": "Karşıyaka",
+    "lat": 38.4744,
+    "lng": 27.107,
+    "count": 2
+  },
+  "ordu-kultur-sanat-merkezi|ordu": {
+    "name": "Ordu Kültür Sanat Merkezi",
+    "city": "Ordu",
+    "district": "Elazığ Merkez",
+    "lat": 40.98523,
+    "lng": 37.879773,
+    "count": 2
+  },
+  "hyde-beach|mugla": {
+    "name": "Hyde Beach",
+    "city": "Muğla",
+    "district": "Bodrum",
+    "lat": 37.20213,
+    "lng": 28.348095,
+    "count": 2
+  },
+  "swissotel-the-bosphorus|i-stanbul": {
+    "name": "Swissotel The Bosphorus",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.009043,
+    "lng": 28.9661,
+    "count": 2
+  },
+  "cukurova-universitesi-acikhava-tiyatrosu|adana": {
+    "name": "Çukurova Üniversitesi Açıkhava Tiyatrosu",
+    "city": "Adana",
+    "district": "Sarıçam",
+    "lat": 36.981945,
+    "lng": 35.357231,
+    "count": 2
+  },
+  "i-stanbul-kongre-merkezi-acik-hava|i-stanbul": {
+    "name": "İstanbul Kongre Merkezi Açık Hava",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.0461,
+    "lng": 28.9817,
+    "count": 2
+  },
+  "muratpasa-mah-evliya-celebi-caddesi-07010-muratpasa-antalya|antalya": {
+    "name": "Muratpaşa Mah., Evliya Çelebi Caddesi, 07010 Muratpaşa/Antalya",
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "lat": 36.898906,
+    "lng": 30.708169,
+    "count": 2
+  },
+  "kavaklidere-bestekar-cd-no38-a-06680-cankaya-ankara|ankara": {
+    "name": "Kavaklıdere, Bestekar Cd No38/A, 06680 Çankaya/Ankara",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.909667,
+    "lng": 32.8586,
+    "count": 2
+  },
+  "asmali-mescit-sehbender-sk-no-3-34430-beyoglu-i-stanbul|i-stanbul": {
+    "name": "Asmalı Mescit, Şehbender Sk. no:3, 34430 Beyoğlu/İstanbul",
+    "city": "İstanbul",
+    "district": "Beyoğlu",
+    "lat": 41.02972,
+    "lng": 28.97417,
+    "count": 2
+  },
+  "bilinmeyen-mekan|diger": {
+    "name": "Bilinmeyen Mekan",
+    "city": "Diğer",
+    "district": "Seyhan",
+    "lat": 36.995903,
+    "lng": 35.18872,
+    "count": 2
+  },
+  "festival-park-yenikapi|i-stanbul": {
+    "name": "Festival Park Yenikapı",
+    "city": "İstanbul",
+    "district": "Fatih",
+    "lat": 40.9999,
+    "lng": 28.948,
+    "count": 2
+  },
+  "bostanci-gosteri-merkezi|i-stanbul": {
+    "name": "Bostancı Gösteri Merkezi",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.956,
+    "lng": 29.0961,
+    "count": 2
+  },
+  "alsancak-tarihi-havagazi-fabrikasi|i-zmir": {
+    "name": "Alsancak Tarihi Havagazı Fabrikası",
+    "city": "İzmir",
+    "district": "Konak",
+    "lat": 38.4421,
+    "lng": 27.144,
+    "count": 2
+  },
+  "i-zmir-arena|i-zmir": {
+    "name": "İzmir Arena",
+    "city": "İzmir",
+    "district": "Bayraklı",
+    "lat": 38.4505,
+    "lng": 27.1728,
+    "count": 2
+  },
+  "ataturk-olimpiyat-parki|i-stanbul": {
+    "name": "Atatürk Olimpiyat Parkı",
+    "city": "İstanbul",
+    "district": "İstanbul",
+    "lat": 41.0744,
+    "lng": 28.7669,
+    "count": 1
+  },
+  "heffalump-coffee-eskisehir|eskisehir": {
+    "name": "Heffalump Coffee Eskişehir",
+    "city": "Eskişehir",
+    "district": "Odunpazarı",
+    "lat": 39.774394,
+    "lng": 30.519116,
+    "count": 1
+  },
+  "yenisehir-belediyesi-ataturk-kultur-merkezi|mersin": {
+    "name": "Yenişehir Belediyesi Atatürk Kültür Merkezi",
+    "city": "Mersin",
+    "district": "Akdeniz",
+    "lat": 36.772512,
+    "lng": 34.570954,
+    "count": 1
+  },
+  "yenimahalle-bld-4-mevsim-tiyatro-salonu|ankara": {
+    "name": "Yenimahalle Bld.4 Mevsim Tiyatro Salonu",
+    "city": "Ankara",
+    "district": "Yenimahalle",
+    "lat": 39.967827,
+    "lng": 32.79078,
+    "count": 1
+  },
+  "konya-psm|konya": {
+    "name": "Konya PSM",
+    "city": "Konya",
+    "district": "Selçuklu",
+    "lat": 38.013957,
+    "lng": 32.534882,
+    "count": 1
+  },
+  "duru-tiyatro-watergarden-performans-merkezi|i-stanbul": {
+    "name": "Duru Tiyatro - Watergarden Performans Merkezi",
+    "city": "İstanbul",
+    "district": "Ataşehir",
+    "lat": 40.9911,
+    "lng": 29.1314,
+    "count": 1
+  },
+  "yenimahalle-nazim-hikmet-k-m-yildiz-kenter-tiyat|ankara": {
+    "name": "Yenimahalle Nazım Hikmet K.M - Yıldız Kenter Tiyat...",
+    "city": "Ankara",
+    "district": "Yenimahalle",
+    "lat": 39.967827,
+    "lng": 32.79078,
+    "count": 1
+  },
+  "kalyon-live-hatay|hatay": {
+    "name": "Kalyon Live Hatay",
+    "city": "Hatay",
+    "district": "Defne",
+    "lat": 36.36925,
+    "lng": 36.59831,
+    "count": 1
+  },
+  "torium-sahne|i-stanbul": {
+    "name": "Torium Sahne",
+    "city": "İstanbul",
+    "district": "Esenyurt",
+    "lat": 40.991,
+    "lng": 28.7155,
+    "count": 1
+  },
+  "cayyolu-sahne|ankara": {
+    "name": "Çayyolu Sahne",
+    "city": "Ankara",
+    "district": "Etimesgut",
+    "lat": 39.88633,
+    "lng": 32.69525,
+    "count": 1
+  },
+  "turkan-soray-kultur-merkezi-antalya|antalya": {
+    "name": "Türkan Şoray Kültür Merkezi - Antalya",
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "lat": 36.90552,
+    "lng": 30.659855,
+    "count": 1
+  },
+  "yozgat-kultur-merkezi|yozgat": {
+    "name": "Yozgat Kültür Merkezi",
+    "city": "Yozgat",
+    "district": "Yozgat Merkez",
+    "lat": 39.818632,
+    "lng": 34.801726,
+    "count": 1
+  },
+  "kinesis-stage-art-space|ankara": {
+    "name": "Kinesis Stage & Art Space",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.942619,
+    "lng": 32.803478,
+    "count": 1
+  },
+  "merinos-akkm-orhangazi-salonu|bursa": {
+    "name": "Merinos AKKM - Orhangazi Salonu",
+    "city": "Bursa",
+    "district": "Osmangazi",
+    "lat": 40.2002,
+    "lng": 29.0508,
+    "count": 1
+  },
+  "rino-sanat-deneysel-sanat-atolyesi|canakkale": {
+    "name": "Rino Sanat Deneysel Sanat Atölyesi",
+    "city": "Çanakkale",
+    "district": "Çanakkale Merkez",
+    "lat": 40.149853,
+    "lng": 26.402807,
+    "count": 1
+  },
+  "sitki-kocman-universitesi-akm-a-salonu|mugla": {
+    "name": "Sıtkı Koçman Üniversitesi AKM - A Salonu",
+    "city": "Muğla",
+    "district": "Menteşe",
+    "lat": 37.20213,
+    "lng": 28.348095,
+    "count": 1
+  },
+  "paribu-art-ana-sahne|i-stanbul": {
+    "name": "Paribu Art - Ana Sahne",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 41.0344,
+    "lng": 28.9779,
+    "count": 1
+  },
+  "bakirkoy-butik-sahne|i-stanbul": {
+    "name": "Bakırköy Butik Sahne",
+    "city": "İstanbul",
+    "district": "Bakırköy",
+    "lat": 40.9836,
+    "lng": 28.8761,
+    "count": 1
+  },
+  "kadikoy-egitim-sahnesi|i-stanbul": {
+    "name": "Kadıköy Eğitim Sahnesi",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.9905,
+    "lng": 29.0273,
+    "count": 1
+  },
+  "maximum-uniq-acikhava|i-stanbul": {
+    "name": "Maximum Uniq Açıkhava",
+    "city": "İstanbul",
+    "district": "Sarıyer",
+    "lat": 41.1153,
+    "lng": 29.0201,
+    "count": 1
+  },
+  "i-stanbul-buyuksehir-belediyesi-harbiye-cemil-topuz|i-stanbul": {
+    "name": "İstanbul Büyükşehir Belediyesi Harbiye Cemil Topuz...",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "lat": 40.983398,
+    "lng": 28.637908,
+    "count": 1
+  },
+  "if-performance-hall-tepe-prime|ankara": {
+    "name": "IF Performance Hall Tepe Prime",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.891,
+    "lng": 32.8552,
+    "count": 1
+  },
+  "6-45-kk-ankara|ankara": {
+    "name": "6:45 KK Ankara",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.929307,
+    "lng": 32.825024,
+    "count": 1
+  },
+  "if-performance-hall|ankara": {
+    "name": "IF Performance Hall",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.891,
+    "lng": 32.8552,
+    "count": 1
+  },
+  "holly-stone-performance-hall-adana|adana": {
+    "name": "Holly Stone Performance Hall - Adana",
+    "city": "Adana",
+    "district": "Seyhan",
+    "lat": 36.98636,
+    "lng": 35.325286,
+    "count": 1
+  },
+  "mardin-21-kasim-sehir-stadyumu|mardin": {
+    "name": "Mardin 21 Kasım Şehir Stadyumu",
+    "city": "Mardin",
+    "district": "Artuklu",
+    "lat": 37.270772,
+    "lng": 40.683595,
+    "count": 1
+  },
+  "park-of-i-stanbul|i-stanbul": {
+    "name": "Park Of İstanbul",
+    "city": "İstanbul",
+    "district": "Çekmeköy",
+    "lat": 41.0528,
+    "lng": 29.0294,
+    "count": 1
+  },
+  "marmaris-kalesi|mugla": {
+    "name": "Marmaris Kalesi",
+    "city": "Muğla",
+    "district": "Yatağan",
+    "lat": 37.20213,
+    "lng": 28.348095,
+    "count": 1
+  },
+  "tersane-i-stanbul|i-stanbul": {
+    "name": "Tersane İstanbul",
+    "city": "İstanbul",
+    "district": "Beyoğlu",
+    "lat": 41.0301,
+    "lng": 28.9712,
+    "count": 1
+  },
+  "gaziantep-zeugma-muzesi-posiedon-salonu|gaziantep": {
+    "name": "Gaziantep Zeugma Müzesi Posiedon Salonu",
+    "city": "Gaziantep",
+    "district": "Şehitkâmil",
+    "lat": 37.062832,
+    "lng": 37.379262,
+    "count": 1
+  },
+  "catalcesme-oda-tiyatrosu|denizli": {
+    "name": "Çatalçeşme Oda Tiyatrosu",
+    "city": "Denizli",
+    "district": "Araklı",
+    "lat": 37.982349,
+    "lng": 29.601158,
+    "count": 1
+  },
+  "odunpazari-belediyesi-100-yil-kultur-merkezi|eskisehir": {
+    "name": "Odunpazarı Belediyesi 100. Yıl Kültür Merkezi",
+    "city": "Eskişehir",
+    "district": "Odunpazarı",
+    "lat": 39.77314,
+    "lng": 30.518072,
+    "count": 1
+  },
+  "kocaeli-marmara-koleji-hasan-ali-yucel-sahnesi|kocaeli": {
+    "name": "Kocaeli Marmara Koleji Hasan Ali Yücel Sahnesi",
+    "city": "Kocaeli",
+    "district": "Kartepe",
+    "lat": 40.739994,
+    "lng": 30.050966,
+    "count": 1
+  },
+  "corlu-unal-baysan-kultur-merkezi|tekirdag": {
+    "name": "Çorlu Ünal Baysan Kültür Merkezi",
+    "city": "Tekirdağ",
+    "district": "Çorlu",
+    "lat": 40.227318,
+    "lng": 28.978939,
+    "count": 1
+  },
+  "i-skenderun-ted-koleji|hatay": {
+    "name": "İskenderun TED Koleji",
+    "city": "Hatay",
+    "district": "Arsuz",
+    "lat": 36.36925,
+    "lng": 36.59831,
+    "count": 1
+  },
+  "buyuksehir-belediyesi-kocaeli-uluslararasi-kongre|kocaeli": {
+    "name": "Büyükşehir Belediyesi Kocaeli Uluslararası Kongre ...",
+    "city": "Kocaeli",
+    "district": "İzmit",
+    "lat": 40.761063,
+    "lng": 29.885578,
+    "count": 1
+  },
+  "caddebostan-kultur-merkezi-buyuk-salon|i-stanbul": {
+    "name": "Caddebostan Kültür Merkezi Büyük Salon",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.9651,
+    "lng": 29.0689,
+    "count": 1
+  },
+  "besiktas-kultur-merkezi|i-stanbul": {
+    "name": "Beşiktaş Kültür Merkezi",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.0426,
+    "lng": 29.0085,
+    "count": 1
+  },
+  "nilufer-sahnesi|bursa": {
+    "name": "Nilüfer Sahnesi",
+    "city": "Bursa",
+    "district": "Nilüfer",
+    "lat": 40.182737,
+    "lng": 29.067548,
+    "count": 1
+  },
+  "jj-pub-kanyon|i-stanbul": {
+    "name": "JJ Pub Kanyon",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.0782,
+    "lng": 29.0114,
+    "count": 1
+  },
+  "tekirdag-yahya-kemal-beyatli-kultur-merkezi-buyuk|tekirdag": {
+    "name": "Tekirdağ Yahya Kemal Beyatlı Kültür Merkezi Büyük ...",
+    "city": "Tekirdağ",
+    "district": "Süleymanpaşa",
+    "lat": 40.983864,
+    "lng": 27.553974,
+    "count": 1
+  },
+  "zorlu-psm-turkcell-platinum-sahnesi|i-stanbul": {
+    "name": "Zorlu PSM - Turkcell Platinum Sahnesi",
+    "city": "İstanbul",
+    "district": "Sarıyer",
+    "lat": 41.0681,
+    "lng": 29.0151,
+    "count": 1
+  },
+  "giresun-bld-kultur-ve-fuar-merkezi|giresun": {
+    "name": "Giresun Bld. Kültür ve Fuar Merkezi",
+    "city": "Giresun",
+    "district": "Giresun Merkez",
+    "lat": 40.924644,
+    "lng": 38.314266,
+    "count": 1
+  },
+  "beylikduzu-ataturk-kultur-ve-sanat-merkezi-baksm|i-stanbul": {
+    "name": "Beylikdüzü Atatürk Kültür ve Sanat Merkezi (BAKSM)",
+    "city": "İstanbul",
+    "district": "Beylikdüzü",
+    "lat": 40.9971,
+    "lng": 28.6386,
+    "count": 1
+  },
+  "i-smail-uygur-kultur-merkezi|i-zmir": {
+    "name": "İsmail Uygur Kültür Merkezi",
+    "city": "İzmir",
+    "district": "Konak",
+    "lat": 38.432304,
+    "lng": 27.137608,
+    "count": 1
+  },
+  "i-stinyeart-performans-arena|i-zmir": {
+    "name": "İstinyeArt Performans Arena",
+    "city": "İzmir",
+    "district": "Balçova",
+    "lat": 38.422455,
+    "lng": 27.13107,
+    "count": 1
+  },
+  "huseyin-tatoglu-kultur-merkezi|zonguldak": {
+    "name": "Hüseyin Tatoğlu Kültür Merkezi",
+    "city": "Zonguldak",
+    "district": "Karadeniz Ereğli",
+    "lat": 41.431236,
+    "lng": 31.74062,
+    "count": 1
+  },
+  "avlu-kongre-ve-kultur-merkezi-ertugrul-salonu|balikesir": {
+    "name": "Avlu Kongre ve Kültür Merkezi - Ertuğrul Salonu",
+    "city": "Balıkesir",
+    "district": "Altıeylül",
+    "lat": 39.574104,
+    "lng": 27.706263,
+    "count": 1
+  },
+  "corum-devlet-tiyatrosu|corum": {
+    "name": "Çorum Devlet Tiyatrosu",
+    "city": "Çorum",
+    "district": "Çorum Merkez",
+    "lat": 40.64491,
+    "lng": 34.996426,
+    "count": 1
+  },
+  "raif-dinckok-kultur-merkezi|yalova": {
+    "name": "Raif Dinçkök Kültür Merkezi",
+    "city": "Yalova",
+    "district": "Yalova Merkez",
+    "lat": 40.672309,
+    "lng": 29.386819,
+    "count": 1
+  },
+  "nihat-zeybekci-kongre-ve-kultur-merkezi-ozay-gon|denizli": {
+    "name": "Nihat Zeybekçi Kongre ve Kültür Merkezi - Özay Gön...",
+    "city": "Denizli",
+    "district": "Pamukkale",
+    "lat": 37.073348,
+    "lng": 29.361064,
+    "count": 1
+  },
+  "sunny-hill-festival-park|kosova": {
+    "name": "Sunny Hill Festival Park",
+    "city": "Kosova",
+    "district": "Göle",
+    "lat": 40.796554,
+    "lng": 42.611778,
+    "count": 1
+  },
+  "isonem-park-goztepe-gursel-aksel-spor-ve-saglikli-yasam-merkezi|i-stanbul": {
+    "name": "Isonem Park - Göztepe Gürsel Aksel Spor ve Sağlıklı Yaşam Merkezi",
+    "city": "İstanbul",
+    "district": "Üsküdar",
+    "lat": 41.0017,
+    "lng": 29.0588,
+    "count": 1
+  },
+  "kadikoy-surp-levon-ermeni-kilisesi|i-stanbul": {
+    "name": "Kadıköy Surp Levon Ermeni Kilisesi",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.99002,
+    "lng": 29.025478,
+    "count": 1
+  },
+  "i-stanbul-kongre-merkezi-b5-fuar-ve-sergi-alani|i-stanbul": {
+    "name": "İstanbul Kongre Merkezi B5 Fuar ve Sergi Alanı",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.0461,
+    "lng": 28.9817,
+    "count": 1
+  },
+  "vecihi-hurkus-havacilik-ve-teknoloji-parki|eskisehir": {
+    "name": "Vecihi Hürkuş Havacılık ve Teknoloji Parkı",
+    "city": "Eskişehir",
+    "district": "Odunpazarı",
+    "lat": 39.766591,
+    "lng": 30.499613,
+    "count": 1
+  },
+  "i-stanbul-kemer-country-club|i-stanbul": {
+    "name": "İstanbul Kemer Country Club",
+    "city": "İstanbul",
+    "district": "Esenler",
+    "lat": 41.052677,
+    "lng": 28.874996,
+    "count": 1
+  },
+  "swiss-tel-the-bosphorus|chalet-garden": {
+    "name": "Swissôtel The Bosphorus",
+    "city": "Chalet Garden",
+    "district": "Aziziye",
+    "lat": 39.915901,
+    "lng": 41.180648,
+    "count": 1
+  },
+  "i-stanbul-kongre-merkezi|i-stanbul": {
+    "name": "İstanbul Kongre Merkezi",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.0461,
+    "lng": 28.9817,
+    "count": 1
+  },
+  "muftu-solakzade-25070-palandoken-erzurum|diger": {
+    "name": "Müftü Solakzade, 25070 Palandöken/Erzurum",
+    "city": "Diğer",
+    "district": "Palandöken",
+    "lat": 39.884674,
+    "lng": 41.26465,
+    "count": 1
+  },
+  "sehitlik-istasyon-cd-no-65-21010-yenisehir-diyarbakir|diger": {
+    "name": "Şehitlik, Istasyon Cd No:65, 21010 Yenişehir/Diyarbakır",
+    "city": "Diğer",
+    "district": "Ergani",
+    "lat": 38.260387,
+    "lng": 39.757358,
+    "count": 1
+  },
+  "altay-ertugrulbey-cd-no-1-06820-etimesgut-ankara|ankara": {
+    "name": "Altay, Ertuğrulbey Cd. No:1 06820 Etimesgut/Ankara",
+    "city": "Ankara",
+    "district": "Etimesgut",
+    "lat": 39.979019,
+    "lng": 32.62461,
+    "count": 1
+  },
+  "bahcekoy-cad-yenimahalle-no-114-bahcekoy-sariyer|i-stanbul": {
+    "name": "Bahçeköy Cad. Yenimahalle No:114 Bahçeköy / Sarıyer",
+    "city": "İstanbul",
+    "district": "Sarıyer",
+    "lat": 41.073493,
+    "lng": 28.899488,
+    "count": 1
+  },
+  "kordonboyu-ankara-cad-no-142-34860-kartal-i-stanbul|i-stanbul": {
+    "name": "Kordonboyu, Ankara cad. NO:142 34860 Kartal/İstanbul",
+    "city": "İstanbul",
+    "district": "Kartal",
+    "lat": 40.886451,
+    "lng": 29.196434,
+    "count": 1
+  },
+  "muftu-solakzade-mahallesi-yavuz-sultan-selim-bulvari-no-81-palandoken-erzurum|diger": {
+    "name": "Müftü Solakzade Mahallesi Yavuz Sultan Selim Bulvarı No:81 Palandöken / ERZURUM",
+    "city": "Diğer",
+    "district": "Palandöken",
+    "lat": 39.884265,
+    "lng": 41.258605,
+    "count": 1
+  },
+  "cirkan-halide-edip-adivar-cd-no-7-48400-bodrum-mugla|diger": {
+    "name": "Çırkan, Halide Edip Adıvar Cd. No: 7, 48400 Bodrum/Muğla",
+    "city": "Diğer",
+    "district": "Bodrum",
+    "lat": 37.044853,
+    "lng": 27.397994,
+    "count": 1
+  },
+  "kucukesat-mah-bulbulderesi-cad-esat-semt-hali-ve-carsisi-no-126-i-c-kapi-no-47-cankaya-ankara|ankara": {
+    "name": "Küçükesat Mah. Bülbülderesi Cad. Esat Semt Halı Ve Çarşısı No: 126 İç Kapı No: 47 Çankaya/ Ankara",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.906837,
+    "lng": 32.868335,
+    "count": 1
+  },
+  "selimiye-mahallesi-daye-kadin-sk-no-38-34668-uskudar-i-stanbul|i-stanbul": {
+    "name": "Selimiye Mahallesi, Daye Kadın Sk. No:38, 34668 Üsküdar/İstanbul",
+    "city": "İstanbul",
+    "district": "Üsküdar",
+    "lat": 41.003303,
+    "lng": 29.140491,
+    "count": 1
+  },
+  "ataturk-atasehir-blv-34758-atasehir-i-stanbul|i-stanbul": {
+    "name": "Atatürk, Ataşehir Blv., 34758 Ataşehir/İstanbul",
+    "city": "İstanbul",
+    "district": "Ataşehir",
+    "lat": 40.992915,
+    "lng": 29.125336,
+    "count": 1
+  },
+  "eyup-merkez-bahariye-cd-34050-eyupsultan-i-stanbul|i-stanbul": {
+    "name": "Eyüp Merkez, Bahariye Cd., 34050 Eyüpsultan/İstanbul",
+    "city": "İstanbul",
+    "district": "Eyüpsultan",
+    "lat": 41.029429,
+    "lng": 28.968271,
+    "count": 1
+  },
+  "bilinmeyen-mekan|antalya": {
+    "name": "Bilinmeyen Mekan",
+    "city": "Antalya",
+    "district": "Antalya",
+    "lat": 36.887294,
+    "lng": 30.707455,
+    "count": 1
+  },
+  "bilinmeyen-mekan|i-stanbul": {
+    "name": "Bilinmeyen Mekan",
+    "city": "İstanbul",
+    "district": "Gaziosmanpaşa",
+    "lat": 41.059613,
+    "lng": 28.917755,
+    "count": 1
+  },
+  "harbiye-31020-defne-hatay|diger": {
+    "name": "Harbiye, 31020 Defne/Hatay",
+    "city": "Diğer",
+    "district": "Defne",
+    "lat": 36.14542,
+    "lng": 36.14148,
+    "count": 1
+  },
+  "cevizli-mah-tugayyolu-cad-kursunlu-sk-no-9-34791-cumhuriyet-parki-maltepe-i-stanbul|i-stanbul": {
+    "name": "Cevizli Mah.  Tugayyolu cad.  Kurşunlu Sk.  No:9  34791 Cumhuriyet Parkı/ Maltepe/İstanbul",
+    "city": "İstanbul",
+    "district": "Maltepe",
+    "lat": 41.036186,
+    "lng": 29.106199,
+    "count": 1
+  },
+  "rasimpasa-misaki-milli-sk-93-a-34750-kadikoy-i-stanbul|i-stanbul": {
+    "name": "Rasimpaşa, Misakı Milli Sk. 93/a, 34750 Kadıköy/İstanbul",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.993331,
+    "lng": 29.029579,
+    "count": 1
+  },
+  "fatih-mahallesi-3410-sokak-07080-kepez-antalya-kepez-kent-ormani-mese-kapisi-girisi-kepez-antalya|antalya": {
+    "name": "Fatih Mahallesi,3410 Sokak 07080 Kepez/Antalya, Kepez Kent Ormanı Meşe Kapısı Girişi\r\nKEPEZ / Antalya",
+    "city": "Antalya",
+    "district": "Kepez",
+    "lat": 36.947334,
+    "lng": 30.644911,
+    "count": 1
+  },
+  "konak-dr-faik-muhittin-adam-cd-no-13-35250-konak-i-zmir|i-zmir": {
+    "name": "Konak, Dr. Faik Muhittin Adam Cd. No:13, 35250 Konak/İzmir",
+    "city": "İzmir",
+    "district": "Konak",
+    "lat": 38.417526,
+    "lng": 27.131557,
+    "count": 1
+  },
+  "panora-sanat-merkezi-panora-avm-turan-gunes-blv-no-182-06450-cankaya-ankara|ankara": {
+    "name": "PANORA SANAT MERKEZİ   Panora, AVM, Turan Güneş Blv. No:182, 06450 Çankaya/Ankara",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.87014,
+    "lng": 32.860301,
+    "count": 1
+  },
+  "halit-ziya-bulvari-1354-sok-taner-i-shani-8-g-cankaya-i-zmir|i-zmir": {
+    "name": "Halit Ziya Bulvarı, 1354 sok. Taner İşhanı, 8-G , Çankaya İzmir",
+    "city": "İzmir",
+    "district": "Konak",
+    "lat": 38.424661,
+    "lng": 27.134086,
+    "count": 1
+  },
+  "bilinmeyen-mekan|ankara": {
+    "name": "Bilinmeyen Mekan",
+    "city": "Ankara",
+    "district": "Ankara",
+    "lat": 39.920789,
+    "lng": 32.854048,
+    "count": 1
+  },
+  "caferaga-mah-neset-omer-sok-no-3c-migros-yani-kadikoy-i-stanbul|i-stanbul": {
+    "name": "Caferağa Mah. Neşet Ömer sok. No:3c Migros Yanı Kadıköy/İstanbul",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.989944,
+    "lng": 29.023006,
+    "count": 1
+  },
+  "kanyon-avm-levent-mah-buyukdere-cad-no-185-sisli-i-stanbul|i-stanbul": {
+    "name": "Kanyon AVM - Levent Mah. Büyükdere Cad. No:185 Şişli, İstanbul",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.0782,
+    "lng": 29.0114,
+    "count": 1
+  },
+  "bostanli-hasan-ali-yucel-blv-35540-karsiyaka-i-zmir|i-zmir": {
+    "name": "Bostanlı, Hasan Ali Yücel Blv., 35540 Karşıyaka/İzmir",
+    "city": "İzmir",
+    "district": "Karşıyaka",
+    "lat": 38.458404,
+    "lng": 27.089388,
+    "count": 1
+  },
+  "liman-konyaalti-antalya|antalya": {
+    "name": "Liman, Konyaaltı/Antalya",
+    "city": "Antalya",
+    "district": "Konyaaltı",
+    "lat": 36.84939,
+    "lng": 30.609524,
+    "count": 1
+  },
+  "kavaklidere-tunus-cd-14-a-06410-cankaya-ankara|ankara": {
+    "name": "Kavaklıdere, Tunus Cd. 14/A, 06410 Çankaya/Ankara",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.91175,
+    "lng": 32.855937,
+    "count": 1
+  },
+  "tema-world-avm-yan-yol-cad-no-33-1-atakent-kucukcekmece-i-stanbul-turkiye|i-stanbul": {
+    "name": "Tema World AVM - Yan Yol Cad. No: 33/1 Atakent Küçükçekmece, İstanbul, Türkiye",
+    "city": "İstanbul",
+    "district": "Küçükçekmece",
+    "lat": 41.050632,
+    "lng": 28.99751,
+    "count": 1
+  },
+  "whyndham-otel-hurriyet-mah-ataturk-bul-no-20-erkmen-merkez-afyon|diger": {
+    "name": "Whyndham Otel - Hürriyet Mah. Atatürk Bul. No: 20 Erkmen, Merkez, Afyon",
+    "city": "Diğer",
+    "district": "Kemer",
+    "lat": 36.599258,
+    "lng": 30.561248,
+    "count": 1
+  },
+  "sahkulu-serdar-i-ekrem-cd-no-52-34425-beyoglu-sishane-i-stanbul|i-stanbul": {
+    "name": "Şahkulu, Serdar-ı Ekrem Cd. No:52, 34425 Beyoğlu (Şişhane) İstanbul",
+    "city": "İstanbul",
+    "district": "Beyoğlu",
+    "lat": 41.027786,
+    "lng": 28.976806,
+    "count": 1
+  },
+  "harbiye-taskisla-cd-no-8-34367-sisli-i-stanbul|i-stanbul": {
+    "name": "Harbiye, Taşkışla Cd. No:8, 34367 Şişli/İstanbul",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.046363,
+    "lng": 28.989868,
+    "count": 1
+  },
+  "cihannuma-hasfirin-cd-no-26-34353-besiktas-i-stanbul|i-stanbul": {
+    "name": "Cihannüma, Hasfırın Cd. No:26, 34353 Beşiktaş/İstanbul",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.043352,
+    "lng": 29.006143,
+    "count": 1
+  },
+  "zorlu-center-levazim-mah-koru-sok-no-2-psm-70-zincirlikuyu-besiktas-i-stanbul|i-stanbul": {
+    "name": "Zorlu Center, Levazım Mah. Koru Sok. No:2/PSM/70 Zincirlikuyu, Beşiktaş / İstanbul",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.082012,
+    "lng": 28.965747,
+    "count": 1
+  },
+  "resatbey-ataturk-cd-no-1-01120-seyhan-adana|adana": {
+    "name": "Reşatbey, Atatürk Cd. No:1, 01120 Seyhan/Adana",
+    "city": "Adana",
+    "district": "Seyhan",
+    "lat": 36.992083,
+    "lng": 35.325575,
+    "count": 1
+  },
+  "zuhuratbaba-atakoy-blv-no-14-34147-bakirkoy-i-stanbul|i-stanbul": {
+    "name": "Zuhuratbaba, Ataköy Blv. No:14, 34147 Bakırköy/İstanbul",
+    "city": "İstanbul",
+    "district": "Bakırköy",
+    "lat": 40.982529,
+    "lng": 28.869639,
+    "count": 1
+  },
+  "i-stanbul-kongre-merkezi-harbiye-oditoryumu|i-stanbul": {
+    "name": "İstanbul Kongre Merkezi Harbiye Oditoryumu",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.0461,
+    "lng": 28.9817,
+    "count": 1
+  },
+  "uskudar-baglarbasi-kultur-merkezi|i-stanbul": {
+    "name": "Üsküdar Bağlarbaşı Kültür Merkezi",
+    "city": "İstanbul",
+    "district": "Üsküdar",
+    "lat": 40.898923,
+    "lng": 29.169918,
+    "count": 1
+  },
+  "mkm-attila-i-lhan-salonu|i-stanbul": {
+    "name": "Mkm Attila İlhan Salonu",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 40.984218,
+    "lng": 29.111497,
+    "count": 1
+  },
+  "grand-pera-emek-sahnesi|i-stanbul": {
+    "name": "Grand Pera Emek Sahnesi",
+    "city": "İstanbul",
+    "district": "Beyoğlu",
+    "lat": 41.005344,
+    "lng": 29.193624,
+    "count": 1
+  },
+  "dream-park-i-stanbul|i-stanbul": {
+    "name": "Dream Park İstanbul",
+    "city": "İstanbul",
+    "district": "Avcılar",
+    "lat": 41.028551,
+    "lng": 28.977929,
+    "count": 1
+  },
+  "klein-phonix|i-stanbul": {
+    "name": "Klein Phönix",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.065737,
+    "lng": 28.946793,
+    "count": 1
+  },
+  "bilkent-odeon|ankara": {
+    "name": "Bilkent Odeon",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.8703,
+    "lng": 32.7464,
+    "count": 1
+  },
+  "aziz-vukolos-kilisesi|i-zmir": {
+    "name": "Aziz Vukolos Kilisesi",
+    "city": "İzmir",
+    "district": "Konak",
+    "lat": 38.4216,
+    "lng": 27.1483,
+    "count": 1
+  },
+  "boheme-beach|i-zmir": {
+    "name": "Boheme Beach",
+    "city": "İzmir",
+    "district": "Çeşme",
+    "lat": 38.42897,
+    "lng": 27.135215,
+    "count": 1
+  },
+  "datdat-garage-sahne|i-zmir": {
+    "name": "DatDat Garage Sahne",
+    "city": "İzmir",
+    "district": "Balçova",
+    "lat": 38.42897,
+    "lng": 27.135215,
+    "count": 1
+  },
+  "st-john-anglikan-kilisesi|i-zmir": {
+    "name": "St. John Anglikan Kilisesi",
+    "city": "İzmir",
+    "district": "Konak",
+    "lat": 38.422455,
+    "lng": 27.13107,
+    "count": 1
+  },
+  "i-zmir-kulturpark-zeytin-sahne-gol-gazinosu-yani|i-zmir": {
+    "name": "İzmir Kültürpark Zeytin Sahne (Göl Gazinosu Yanı)",
+    "city": "İzmir",
+    "district": "Konak",
+    "lat": 38.42897,
+    "lng": 27.135215,
+    "count": 1
+  },
+  "adana-merkez-park-amfi-tiyatro|adana": {
+    "name": "Adana Merkez Park Amfi Tiyatro",
+    "city": "Adana",
+    "district": "Adana",
+    "lat": 36.98636,
+    "lng": 35.325286,
+    "count": 1
+  },
+  "adana-hiltonsa|adana": {
+    "name": "Adana HiltonSA",
+    "city": "Adana",
+    "district": "Adana",
+    "lat": 36.98636,
+    "lng": 35.325286,
+    "count": 1
+  },
+  "adana-buyuksehir-belediyesi-tiyatro-salonu|adana": {
+    "name": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
+    "city": "Adana",
+    "district": "Adana",
+    "lat": 36.98636,
+    "lng": 35.325286,
+    "count": 1
+  },
+  "oran-mahallesi-kudus-caddesi-panora-avm-karsisi-cankaya-ankara|ankara": {
+    "name": "Oran Mahallesi Kudüs Caddesi Panora AVM Karşısı Çankaya/ANKARA",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.849895,
+    "lng": 32.82261,
+    "count": 1
+  },
+  "bjk-tupras-stadyumu|i-stanbul": {
+    "name": "BJK Tüpraş Stadyumu",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.0392,
+    "lng": 29.0034,
+    "count": 1
+  }
+}

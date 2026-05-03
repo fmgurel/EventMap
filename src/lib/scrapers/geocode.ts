@@ -25,7 +25,7 @@ async function saveCache(): Promise<void> {
   await fs.writeFile(CACHE_FILE, JSON.stringify(cache, null, 2), "utf8");
 }
 
-const KNOWN_VENUES: Record<string, { lat: number; lng: number }> = {
+const KNOWN_VENUES: Record<string, { lat: number; lng: number; district?: string }> = {
   "volkswagen arena|istanbul": { lat: 41.0935, lng: 29.0157 },
   "zorlu psm|istanbul": { lat: 41.0681, lng: 29.0151 },
   "harbiye cemil topuzlu|istanbul": { lat: 41.0463, lng: 28.9874 },
@@ -75,10 +75,8 @@ const KNOWN_VENUES: Record<string, { lat: number; lng: number }> = {
   "paribu art|istanbul": { lat: 41.0344, lng: 28.9779, district: "Beyoğlu" },
   "torium sahne|istanbul": { lat: 40.9911, lng: 28.7155, district: "Esenyurt" },
   "isonem park|istanbul": { lat: 41.0017, lng: 29.0588, district: "Üsküdar" },
-  "istanbul kongre merkezi|istanbul": { lat: 41.0461, lng: 28.9817, district: "Şişli" },
   "festival park|istanbul": { lat: 40.9999, lng: 28.948, district: "Fatih" },
   "beyaz baron|istanbul": { lat: 40.9893, lng: 29.0269, district: "Kadıköy" },
-  "kucukciftlik park|istanbul": { lat: 41.0476, lng: 28.9938, district: "Şişli" },
   "kucukciftlik|istanbul": { lat: 41.0476, lng: 28.9938, district: "Şişli" },
   "tim show center|istanbul": { lat: 41.063, lng: 28.9857, district: "Şişli" },
   "tim maslak|istanbul": { lat: 41.111, lng: 29.026, district: "Sarıyer" },
