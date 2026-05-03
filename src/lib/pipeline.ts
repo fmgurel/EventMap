@@ -2,6 +2,7 @@ import { runAllScrapers } from "./scrapers";
 import { dedupeEvents } from "./dedupe";
 import { saveEvents } from "./db";
 import { Source } from "./types";
+import { canonicalizeVenuePositions } from "./venueResolver";
 
 export type IngestResult = {
   perSource: Record<Source, number>;
@@ -14,7 +15,10 @@ export type IngestResult = {
 export async function ingest(): Promise<IngestResult> {
   const t0 = Date.now();
   const { events: raw, perSource } = await runAllScrapers();
-  const deduped = dedupeEvents(raw);
+  console.log(`[pipeline] ${raw.length} raw events, canonicalizing venue positions...`);
+  const canonical = await canonicalizeVenuePositions(raw);
+  console.log(`[pipeline] ${canonical.length} after venue resolution, deduping...`);
+  const deduped = dedupeEvents(canonical);
   await saveEvents(deduped);
   return {
     perSource,

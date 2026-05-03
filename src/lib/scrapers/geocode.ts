@@ -94,7 +94,7 @@ function norm(s: string): string {
     .trim();
 }
 
-function knownVenueLookup(
+export function knownVenueLookup(
   venue: string,
   city: string,
 ): { lat: number; lng: number; district?: string } | null {

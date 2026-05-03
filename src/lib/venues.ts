@@ -28,9 +28,9 @@ export const VENUES: Record<string, Venue> = {
 };
 
 export const CITIES: Record<string, { lat: number; lng: number; zoom: number }> = {
-  İstanbul: { lat: 41.0082, lng: 28.9784, zoom: 11 },
-  Ankara: { lat: 39.9334, lng: 32.8597, zoom: 11 },
-  İzmir: { lat: 38.4237, lng: 27.1428, zoom: 11 },
+  İstanbul: { lat: 41.0344, lng: 28.9779, zoom: 13 },
+  Ankara: { lat: 39.9208, lng: 32.8541, zoom: 12 },
+  İzmir: { lat: 38.4192, lng: 27.1287, zoom: 12 },
   Antalya: { lat: 36.8969, lng: 30.7133, zoom: 11 },
   Bursa: { lat: 40.1885, lng: 29.0610, zoom: 11 },
 };
