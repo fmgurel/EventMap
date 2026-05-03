@@ -88,7 +88,7 @@ async function mapEvent(e: PassoEvent): Promise<RawEvent | null> {
     title: e.name,
     category: detectCategory(e.name),
     date: new Date(e.date).toISOString(),
-    venue: { name: venue, city, lat: coords.lat, lng: coords.lng },
+    venue: { name: venue, city, district: coords.district, lat: coords.lat, lng: coords.lng },
     imageUrl: imageUrl(e.homePageImagePath),
     fetchedAt: new Date().toISOString(),
   };

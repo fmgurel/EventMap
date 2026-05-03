@@ -3,6 +3,7 @@ import { Category, RawEvent } from "../types";
 import { generateMockEvents } from "../mockData";
 import { politeGet } from "./fetchUtils";
 import { geocodeVenue } from "./geocode";
+import { parseDistrict } from "./district";
 
 const SITEMAP = "https://www.biletix.com/wbtxapi/api/v1/siteMap/event";
 const MAX_EVENTS = 80;
@@ -168,6 +169,8 @@ async function scrapeEvent(
   const idMatch = url.match(/\/etkinlik\/([^/]+)\//);
   const sourceId = idMatch ? idMatch[1] : url;
 
+  const district = parseDistrict(address, city) ?? coords.district;
+
   return {
     source: "biletix",
     sourceId,
@@ -175,7 +178,7 @@ async function scrapeEvent(
     title: data.title,
     category: detectCategory(data.title),
     date,
-    venue: { name: venue, city, lat: coords.lat, lng: coords.lng },
+    venue: { name: venue, city, district, lat: coords.lat, lng: coords.lng },
     imageUrl: normalizeImageUrl(data.image, url),
     fetchedAt: new Date().toISOString(),
   };

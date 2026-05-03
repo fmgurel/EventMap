@@ -2,6 +2,7 @@ import { Category, RawEvent } from "../types";
 import { generateMockEvents } from "../mockData";
 import { politeGet, throttled } from "./fetchUtils";
 import { extractJsonLdBlocks, findEventNode } from "./jsonld";
+import { parseDistrict } from "./district";
 
 const SITEMAP = "https://www.bubilet.com.tr/sitemap.xml";
 const MAX_EVENTS = 100;
@@ -98,6 +99,8 @@ function parseEvent(html: string, url: string): RawEvent | null {
   const cityRaw = pickString(address?.["addressLocality"]);
   const citySlug = url.split("/")[3] ?? "";
   const city = cityRaw ?? CITY_DISPLAY[citySlug] ?? capitalize(citySlug);
+  const streetAddress = pickString(address?.["streetAddress"]) ?? "";
+  const district = parseDistrict(streetAddress, city);
 
   const offers = node["offers"] as Record<string, unknown> | undefined;
   const priceMin = pickNumber(offers?.["lowPrice"] ?? offers?.["price"]);
@@ -113,7 +116,7 @@ function parseEvent(html: string, url: string): RawEvent | null {
     title,
     category: detectCategory(title, slug),
     date: new Date(startDate).toISOString(),
-    venue: { name: venueName, city, lat, lng },
+    venue: { name: venueName, city, district, lat, lng },
     priceMin: priceMin ?? undefined,
     priceMax: priceMax ?? undefined,
     imageUrl: imageUrl ?? undefined,

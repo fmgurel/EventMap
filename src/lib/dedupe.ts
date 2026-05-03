@@ -57,12 +57,15 @@ function mergeGroup(group: RawEvent[]): Event {
   const allMins = group.map((g) => g.priceMin).filter((v): v is number => typeof v === "number");
   const allMaxs = group.map((g) => g.priceMax).filter((v): v is number => typeof v === "number");
 
+  const district = group.find((g) => g.venue.district)?.venue.district;
+  const venue = district ? { ...canonical.venue, district } : canonical.venue;
+
   return {
     id: dedupeKey(canonical),
     title: canonical.title,
     category: canonical.category,
     date: canonical.date,
-    venue: canonical.venue,
+    venue,
     priceMin: allMins.length ? Math.min(...allMins) : undefined,
     priceMax: allMaxs.length ? Math.max(...allMaxs) : undefined,
     imageUrl: canonical.imageUrl,

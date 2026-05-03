@@ -1,7 +1,8 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 
-type GeoCache = Record<string, { lat: number; lng: number } | null>;
+type GeoCacheEntry = { lat: number; lng: number; district?: string } | { district?: string } | null;
+type GeoCache = Record<string, GeoCacheEntry>;
 
 const CACHE_FILE = path.join(process.cwd(), "data", "geocode-cache.json");
 let cache: GeoCache | null = null;
@@ -93,7 +94,10 @@ function norm(s: string): string {
     .trim();
 }
 
-function knownVenueLookup(venue: string, city: string): { lat: number; lng: number } | null {
+function knownVenueLookup(
+  venue: string,
+  city: string,
+): { lat: number; lng: number; district?: string } | null {
   const venueN = norm(venue);
   const cityN = norm(city);
   for (const [key, coords] of Object.entries(KNOWN_VENUES)) {
@@ -126,43 +130,113 @@ function withinCity(lat: number, lng: number, city: string): boolean {
   return lat >= box.minLat && lat <= box.maxLat && lng >= box.minLng && lng <= box.maxLng;
 }
 
-async function photon(
+async function mapbox(
   query: string,
   city?: string,
-): Promise<{ lat: number; lng: number } | null> {
+): Promise<{ lat: number; lng: number; district?: string } | null> {
+  const token = process.env.MAPBOX_TOKEN;
+  if (!token) return null;
+
   const now = Date.now();
-  const wait = Math.max(0, lastRequest + 600 - now);
+  const wait = Math.max(0, lastRequest + 100 - now);
   if (wait > 0) await new Promise((r) => setTimeout(r, wait));
   lastRequest = Date.now();
 
-  const url = `https://photon.komoot.io/api?q=${encodeURIComponent(query)}&limit=5&lang=tr`;
+  const proximity = city ? cityCenter(city) : null;
+  const proximityParam = proximity
+    ? `&proximity=${proximity.lng.toFixed(4)},${proximity.lat.toFixed(4)}`
+    : "";
+  const url =
+    `https://api.mapbox.com/geocoding/v5/mapbox.places/${encodeURIComponent(query)}.json` +
+    `?access_token=${token}&country=tr&language=tr&limit=5${proximityParam}` +
+    `&types=poi,address,place,locality,neighborhood`;
+
   const ctrl = new AbortController();
   const timer = setTimeout(() => ctrl.abort(), 10000);
   try {
-    const res = await fetch(url, {
-      headers: { "User-Agent": "EventMapDemo/0.1" },
-      signal: ctrl.signal,
-    });
+    const res = await fetch(url, { signal: ctrl.signal });
     clearTimeout(timer);
     if (!res.ok) return null;
     const data = (await res.json()) as {
       features?: Array<{
-        geometry?: { coordinates?: [number, number] };
-        properties?: { country?: string; countrycode?: string; city?: string; state?: string };
+        center?: [number, number];
+        place_type?: string[];
+        text?: string;
+        context?: Array<{ id?: string; text?: string }>;
       }>;
     };
     const features = data.features ?? [];
     for (const f of features) {
-      const coords = f.geometry?.coordinates;
-      if (!coords) continue;
-      const [lng, lat] = coords;
+      const c = f.center;
+      if (!c) continue;
+      const [lng, lat] = c;
       if (!Number.isFinite(lat) || !Number.isFinite(lng)) continue;
-      const cc = (f.properties?.countrycode ?? "").toUpperCase();
-      if (cc && cc !== "TR") continue;
       if (city && !withinCity(lat, lng, city)) continue;
-      return { lat, lng };
+      const district = districtFromContext(f);
+      return { lat, lng, district };
     }
     return null;
+  } catch {
+    clearTimeout(timer);
+    return null;
+  }
+}
+
+function districtFromContext(feature: {
+  place_type?: string[];
+  text?: string;
+  context?: Array<{ id?: string; text?: string }>;
+}): string | undefined {
+  if (feature.place_type?.includes("place") && feature.text) return feature.text;
+  const placeCtx = feature.context?.find((c) => c.id?.startsWith("place."));
+  if (placeCtx?.text) return placeCtx.text;
+  const localityCtx = feature.context?.find((c) => c.id?.startsWith("locality."));
+  return localityCtx?.text;
+}
+
+export async function reverseGeocode(
+  lat: number,
+  lng: number,
+): Promise<{ district?: string } | null> {
+  const token = process.env.MAPBOX_TOKEN;
+  if (!token) return null;
+
+  const cache = await loadCache();
+  const key = `rev|${lat.toFixed(4)}|${lng.toFixed(4)}`;
+  if (key in cache) {
+    const cached = cache[key];
+    if (cached && "district" in cached) return cached as { district?: string };
+  }
+
+  const now = Date.now();
+  const wait = Math.max(0, lastRequest + 100 - now);
+  if (wait > 0) await new Promise((r) => setTimeout(r, wait));
+  lastRequest = Date.now();
+
+  const url =
+    `https://api.mapbox.com/geocoding/v5/mapbox.places/${lng},${lat}.json` +
+    `?access_token=${token}&country=tr&language=tr&types=place,locality,neighborhood&limit=1`;
+
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), 10000);
+  try {
+    const res = await fetch(url, { signal: ctrl.signal });
+    clearTimeout(timer);
+    if (!res.ok) return null;
+    const data = (await res.json()) as {
+      features?: Array<{
+        place_type?: string[];
+        text?: string;
+        context?: Array<{ id?: string; text?: string }>;
+      }>;
+    };
+    const f = data.features?.[0];
+    if (!f) return null;
+    const district = districtFromContext(f);
+    const result = { district };
+    cache[key] = result as unknown as { lat: number; lng: number };
+    await saveCache();
+    return result;
   } catch {
     clearTimeout(timer);
     return null;
@@ -194,17 +268,21 @@ function cityCenter(city: string): { lat: number; lng: number } | null {
 export async function geocodeVenue(
   venue: string,
   city: string,
-): Promise<{ lat: number; lng: number } | null> {
+): Promise<{ lat: number; lng: number; district?: string } | null> {
   const known = knownVenueLookup(venue, city);
   if (known) return known;
 
   const cache = await loadCache();
   const key = `${norm(venue)}|${norm(city)}`;
-  if (key in cache) return cache[key];
+  if (key in cache) {
+    const cached = cache[key];
+    if (cached && "lat" in cached) return cached;
+    if (cached === null) return null;
+  }
 
   let result =
-    (await photon(`${venue}, ${city}`, city)) ??
-    (await photon(`${venue} ${city}`, city));
+    (await mapbox(`${venue}, ${city}`, city)) ??
+    (await mapbox(`${venue} ${city}`, city));
 
   if (!result) {
     const lastTwo = venue
@@ -214,7 +292,7 @@ export async function geocodeVenue(
       .slice(-2)
       .join(", ");
     if (lastTwo && lastTwo !== venue) {
-      result = await photon(`${lastTwo}, ${city}`, city);
+      result = await mapbox(`${lastTwo}, ${city}`, city);
     }
   }
 

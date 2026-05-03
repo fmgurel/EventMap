@@ -18,6 +18,7 @@ type Props = {
   selectedId: string | null;
   onSelect: (id: string | null) => void;
   onMoveEnd?: (bbox: [number, number, number, number]) => void;
+  flyTo?: { lat: number; lng: number; zoom?: number; key?: number } | null;
 };
 
 const STYLE_URL = "https://tiles.openfreemap.org/styles/liberty";
@@ -29,6 +30,7 @@ export default function EventMap({
   selectedId,
   onSelect,
   onMoveEnd,
+  flyTo,
 }: Props) {
   const containerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<maplibregl.Map | null>(null);
@@ -67,6 +69,15 @@ export default function EventMap({
     if (!mapRef.current) return;
     mapRef.current.flyTo({ center: [center.lng, center.lat], zoom });
   }, [center.lat, center.lng, zoom]);
+
+  useEffect(() => {
+    if (!mapRef.current || !flyTo) return;
+    mapRef.current.flyTo({
+      center: [flyTo.lng, flyTo.lat],
+      zoom: flyTo.zoom ?? 14,
+      duration: 800,
+    });
+  }, [flyTo?.lat, flyTo?.lng, flyTo?.zoom, flyTo?.key]);
 
   useEffect(() => {
     const map = mapRef.current;

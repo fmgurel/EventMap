@@ -43,12 +43,43 @@ export default function HomePage() {
   const [activeCategory, setActiveCategory] = useState<Category | null>(null);
   const [activeSources, setActiveSources] = useState<Set<Source>>(new Set(SOURCES));
   const [search, setSearch] = useState("");
+  const [district, setDistrict] = useState<string>("");
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
   const [ingestedAt, setIngestedAt] = useState<string | null>(null);
   const [drawerOpen, setDrawerOpen] = useState(false);
+  const [flyTarget, setFlyTarget] = useState<{
+    lat: number;
+    lng: number;
+    zoom?: number;
+    key: number;
+  } | null>(null);
 
   const center = CITIES[city];
+
+  const districtsInCity = useMemo(() => {
+    const set = new Set<string>();
+    for (const e of events) {
+      if (e.venue.city === city && e.venue.district) set.add(e.venue.district);
+    }
+    return [...set].sort((a, b) => a.localeCompare(b, "tr"));
+  }, [events, city]);
+
+  function flyToEvent(e: Event) {
+    setFlyTarget({ lat: e.venue.lat, lng: e.venue.lng, zoom: 15, key: Date.now() });
+  }
+
+  function flyToDistrictBounds(districtName: string) {
+    const districtEvents = events.filter(
+      (e) => e.venue.city === city && e.venue.district === districtName,
+    );
+    if (districtEvents.length === 0) return;
+    const lats = districtEvents.map((e) => e.venue.lat);
+    const lngs = districtEvents.map((e) => e.venue.lng);
+    const lat = (Math.min(...lats) + Math.max(...lats)) / 2;
+    const lng = (Math.min(...lngs) + Math.max(...lngs)) / 2;
+    setFlyTarget({ lat, lng, zoom: 13, key: Date.now() });
+  }
 
   async function loadEvents() {
     setLoading(true);
@@ -67,6 +98,7 @@ export default function HomePage() {
     const needle = search.toLowerCase().trim();
     return events.filter((e) => {
       if (e.venue.city !== city) return false;
+      if (district && e.venue.district !== district) return false;
       if (activeCategory && e.category !== activeCategory) return false;
       if (!e.sources.some((s) => activeSources.has(s.source))) return false;
       if (needle) {
@@ -75,7 +107,7 @@ export default function HomePage() {
       }
       return true;
     });
-  }, [events, city, activeCategory, activeSources, search]);
+  }, [events, city, district, activeCategory, activeSources, search]);
 
   function toggleSource(s: Source) {
     setActiveSources((prev) => {
@@ -89,6 +121,7 @@ export default function HomePage() {
   const activeFilterCount =
     (activeCategory ? 1 : 0) +
     (search.trim() ? 1 : 0) +
+    (district ? 1 : 0) +
     (activeSources.size < SOURCES.length ? 1 : 0);
 
   return (
@@ -122,6 +155,7 @@ export default function HomePage() {
           value={city}
           onChange={(e) => {
             setCity(e.target.value as keyof typeof CITIES);
+            setDistrict("");
             setSelectedId(null);
           }}
         >
@@ -131,6 +165,34 @@ export default function HomePage() {
             </option>
           ))}
         </select>
+
+        {districtsInCity.length > 0 && (
+          <>
+            <h2>İlçe</h2>
+            <select
+              value={district}
+              onChange={(e) => {
+                const d = e.target.value;
+                setDistrict(d);
+                if (d) flyToDistrictBounds(d);
+                else
+                  setFlyTarget({
+                    lat: center.lat,
+                    lng: center.lng,
+                    zoom: center.zoom,
+                    key: Date.now(),
+                  });
+              }}
+            >
+              <option value="">Tümü ({districtsInCity.length} ilçe)</option>
+              {districtsInCity.map((d) => (
+                <option key={d} value={d}>
+                  {d}
+                </option>
+              ))}
+            </select>
+          </>
+        )}
 
         <h2>Ara</h2>
         <input
@@ -200,6 +262,7 @@ export default function HomePage() {
                 className={`event-card ${selectedId === e.id ? "selected" : ""}`}
                 onClick={() => {
                   setSelectedId(e.id);
+                  flyToEvent(e);
                   setDrawerOpen(false);
                 }}
               >
@@ -238,6 +301,7 @@ export default function HomePage() {
           zoom={center.zoom}
           selectedId={selectedId}
           onSelect={setSelectedId}
+          flyTo={flyTarget}
         />
       </div>
     </div>

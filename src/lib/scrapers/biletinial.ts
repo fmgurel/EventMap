@@ -3,6 +3,7 @@ import { generateMockEvents } from "../mockData";
 import { politeGet, throttled } from "./fetchUtils";
 import { extractItemprop, extractAllItemprop, extractMeta, decodeEntities } from "./microdata";
 import { cityFromCoords } from "./cityFromCoords";
+import { parseDistrict } from "./district";
 
 const CITY_BBOX: Record<string, { minLat: number; maxLat: number; minLng: number; maxLng: number }> = {
   İstanbul: { minLat: 40.80, maxLat: 41.30, minLng: 28.50, maxLng: 29.55 },
@@ -142,6 +143,10 @@ function parseEvent(html: string, url: string): RawEvent | null {
 
   const title = cleanTitle(titleRaw);
 
+  const detectedCity = cityFromCoords(lat, lng);
+  const streetAddress = extractItemprop(html, "streetAddress") ?? addrCity;
+  const district = parseDistrict(streetAddress, detectedCity);
+
   return {
     source: "biletinial",
     sourceId: slug,
@@ -149,7 +154,7 @@ function parseEvent(html: string, url: string): RawEvent | null {
     title,
     category,
     date: parseBiletinialDate(startDate),
-    venue: { name: venueName, city: cityFromCoords(lat, lng), lat, lng },
+    venue: { name: venueName, city: detectedCity, district, lat, lng },
     priceMin,
     priceMax: priceMin,
     imageUrl,

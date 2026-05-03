@@ -27,6 +27,8 @@ jobs:
         run: npx playwright install --with-deps chromium
 
       - name: Run ingest
+        env:
+          MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
         run: npm run ingest
 
       - name: Commit & push if changed

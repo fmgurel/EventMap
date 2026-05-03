@@ -12,6 +12,7 @@ export type Category =
 export type Venue = {
   name: string;
   city: string;
+  district?: string;
   lat: number;
   lng: number;
 };
