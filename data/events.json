@@ -1,840 +1,6 @@
 {
   "events": [
     {
-      "id": "bezelye kacak karnaval patates super supermarkette|2026-05-29|4111,2900",
-      "title": "Süper Patates ve Kaçak Bezelye Süpermarkette Karnaval",
-      "category": "other",
-      "date": "2026-05-29T10:00:00.000Z",
-      "venue": {
-        "name": "Akasya Kültür Sanat",
-        "city": "İstanbul",
-        "district": "Sarıyer",
-        "lat": 41.107597,
-        "lng": 28.997745
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/5MTT4-karnavalwde.png",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5MTRN/TURKIYE/tr",
-          "title": "Süper Patates ve Kaçak Bezelye Süpermarkette Karnaval"
-        }
-      ]
-    },
-    {
-      "id": "bezelye bir kacak kopuklu macera patates super super|2026-05-29|4108,2901",
-      "title": "Süper Patates ve Kaçak Bezelye Süper Köpüklü Bir Macera",
-      "category": "other",
-      "date": "2026-05-29T10:00:00.000Z",
-      "venue": {
-        "name": "Imagineer Studio Kanyon",
-        "city": "İstanbul",
-        "district": "Şişli",
-        "lat": 41.0782,
-        "lng": 29.0114
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/5MTTD-kopukluwde.png",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5MTRI/TURKIYE/tr",
-          "title": "Süper Patates ve Kaçak Bezelye Süper Köpüklü Bir Macera"
-        }
-      ]
-    },
-    {
-      "id": "29 bilet gunluk mayis one vibe|2026-05-29|3843,2714",
-      "title": "One Vibe Festival Günlük Bilet 29 Mayıs",
-      "category": "festival",
-      "date": "2026-05-29T11:00:00.000Z",
-      "venue": {
-        "name": "Bueno Beach",
-        "city": "İzmir",
-        "district": "Konak",
-        "lat": 38.42897,
-        "lng": 27.135215
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/5SOU4-onevibe-26suwde.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5SOUB/TURKIYE/tr",
-          "title": "One Vibe Festival Günlük Bilet 29 Mayıs"
-        }
-      ]
-    },
-    {
-      "id": "bremen maskot|2026-05-29|4008,3291",
-      "title": "Bremen Maskot Müzikali",
-      "category": "musical",
-      "date": "2026-05-29T12:00:00.000Z",
-      "venue": {
-        "name": "Ve Sahne Panora & Kulis Sanat Tiyatrosu",
-        "city": "Ankara",
-        "district": "Pursaklar",
-        "lat": 40.082928,
-        "lng": 32.907504
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/5FFSG-bremen.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5FFSG/TURKIYE/tr",
-          "title": "Bremen Maskot Müzikali"
-        }
-      ]
-    },
-    {
-      "id": "dolphinarium stanbul yunuslarla yuzme|2026-05-29|4097,2882",
-      "title": "İstanbul Dolphinarium Yunuslarla Yüzme",
-      "category": "other",
-      "date": "2026-05-29T14:30:00.000Z",
-      "venue": {
-        "name": "İstanbul Dolphinarium Yunus Gösteri Merkezi",
-        "city": "İstanbul",
-        "district": "Eyüpsultan",
-        "lat": 40.9742,
-        "lng": 28.8226
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/5DA00-idyy2-wide.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5DA54/TURKIYE/tr",
-          "title": "İstanbul Dolphinarium Yunuslarla Yüzme"
-        }
-      ]
-    },
-    {
-      "id": "anadolu efes telekom turk|2026-05-29|3995,3286",
-      "title": "Türk Telekom - Anadolu Efes",
-      "category": "other",
-      "date": "2026-05-29T15:00:00.000Z",
-      "venue": {
-        "name": "Ankara Arena Spor Salonu",
-        "city": "Ankara",
-        "district": "Yenimahalle",
-        "lat": 39.9523,
-        "lng": 32.8597
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/tele_baskey_logwine.jpg",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/56T15/TURKIYE/tr",
-          "title": "Türk Telekom - Anadolu Efes"
-        }
-      ]
-    },
-    {
-      "id": "kuyucakli muazzez yusuf|2026-05-29|4105,2897",
-      "title": "Kuyucaklı Yusuf Muazzez",
-      "category": "other",
-      "date": "2026-05-29T15:00:00.000Z",
-      "venue": {
-        "name": "Kartal Ada Sanat Tiyatrosu",
-        "city": "İstanbul",
-        "district": "Şişli",
-        "lat": 41.052249,
-        "lng": 28.966964
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/5FIFL-kuyucakli.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5FKB9/TURKIYE/tr",
-          "title": "Kuyucaklı Yusuf Muazzez"
-        }
-      ]
-    },
-    {
-      "id": "bahcesi hayvanat of stanbul|2026-05-29|4105,2903",
-      "title": "Park Of İstanbul Hayvanat Bahçesi",
-      "category": "other",
-      "date": "2026-05-29T15:30:00.000Z",
-      "venue": {
-        "name": "Park Of İstanbul",
-        "city": "İstanbul",
-        "district": "Çekmeköy",
-        "lat": 41.0528,
-        "lng": 29.0294
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/4ISGG-parkofist-wide.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5PK37/TURKIYE/tr",
-          "title": "Park Of İstanbul Hayvanat Bahçesi"
-        }
-      ]
-    },
-    {
-      "id": "bayrami kurban sila|2026-05-29|3852,3055",
-      "title": "Sıla Kurban Bayramı Konseri",
-      "category": "concert",
-      "date": "2026-05-29T16:00:00.000Z",
-      "venue": {
-        "name": "Sinnada Resort & Thermaland",
-        "city": "Afyonkarahisar",
-        "district": "Şuhut",
-        "lat": 38.523117,
-        "lng": 30.545576
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/5HAO2-silabayramwide.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5HAO2/TURKIYE/tr",
-          "title": "Sıla Kurban Bayramı Konseri"
-        }
-      ]
-    },
-    {
-      "id": "arif demirkiran gecesi kili sengel stand up yusuf|2026-05-29|4097,2905",
-      "title": "Arif Şengel Yusuf Demirkıran İkili Stand Up Gecesi",
-      "category": "stand-up",
-      "date": "2026-05-29T16:00:00.000Z",
-      "venue": {
-        "name": "Ada Bar Kadıköy",
-        "city": "İstanbul",
-        "district": "Kadıköy",
-        "lat": 40.968672,
-        "lng": 29.053181
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/5MTBM-arif.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5MTBM/TURKIYE/tr",
-          "title": "Arif Şengel Yusuf Demirkıran İkili Stand Up Gecesi"
-        }
-      ]
-    },
-    {
-      "id": "bayram eglence gizem oksuz ozel|2026-05-29|4102,2913",
-      "title": "Gizem Öksüz Bayram Özel Eğlence",
-      "category": "other",
-      "date": "2026-05-29T16:00:00.000Z",
-      "venue": {
-        "name": "Lider Club",
-        "city": "İstanbul",
-        "district": "Ümraniye",
-        "lat": 41.017948,
-        "lng": 29.129094
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/5LBT7-26suwde.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5LBT7/TURKIYE/tr",
-          "title": "Gizem Öksüz Bayram Özel Eğlence"
-        }
-      ]
-    },
-    {
-      "id": "lady macbeth|2026-05-29|4105,2897",
-      "title": "Lady Macbeth",
-      "category": "other",
-      "date": "2026-05-29T16:15:00.000Z",
-      "venue": {
-        "name": "Kartal Ada Sanat Tiyatrosu",
-        "city": "İstanbul",
-        "district": "Şişli",
-        "lat": 41.052249,
-        "lng": 28.966964
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/5FIFF-lady.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5FIFF/TURKIYE/tr",
-          "title": "Lady Macbeth"
-        }
-      ]
-    },
-    {
-      "id": "bayram eglencesi|2026-05-29|3843,2714",
-      "title": "Bayram Eğlencesi 2",
-      "category": "other",
-      "date": "2026-05-29T17:00:00.000Z",
-      "venue": {
-        "name": "PENGUEN Kültür Sanat Bistro & Comedy Club",
-        "city": "İzmir",
-        "district": "Konak",
-        "lat": 38.432304,
-        "lng": 27.137608
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/5DGTB-26su.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5DGTC/TURKIYE/tr",
-          "title": "Bayram Eğlencesi 2"
-        }
-      ]
-    },
-    {
-      "id": "gecesi kadikoy stand up|2026-05-29|4097,2905",
-      "title": "Kadıköy Stand Up Gecesi",
-      "category": "stand-up",
-      "date": "2026-05-29T17:00:00.000Z",
-      "venue": {
-        "name": "Ada Bar Kadıköy",
-        "city": "İstanbul",
-        "district": "Kadıköy",
-        "lat": 40.968672,
-        "lng": 29.053181
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/5MT94-nrml.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5MT94/TURKIYE/tr",
-          "title": "Kadıköy Stand Up Gecesi"
-        },
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5MT85/TURKIYE/tr",
-          "title": "Kadıköy Stand Up Gecesi"
-        }
-      ]
-    },
-    {
-      "id": "gokhan stand up uzunali|2026-05-29|4094,4006",
-      "title": "Gökhan Uzunali Stand Up",
-      "category": "stand-up",
-      "date": "2026-05-29T17:00:00.000Z",
-      "venue": {
-        "name": "Trabzon Orhan Karakullukçu Kültür Merkezi",
-        "city": "Trabzon",
-        "district": "Araklı",
-        "lat": 40.935704,
-        "lng": 40.060324
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/5IMOF-nrmal.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5IMOF/TURKIYE/tr",
-          "title": "Gökhan Uzunali Stand Up"
-        }
-      ]
-    },
-    {
-      "id": "diyemedim|2026-05-29|4106,2894",
-      "title": "Diyemedim",
-      "category": "other",
-      "date": "2026-05-29T17:00:00.000Z",
-      "venue": {
-        "name": "Ses 1885 - Ortaoyuncular Tiyatrosu",
-        "city": "İstanbul",
-        "district": "Eyüpsultan",
-        "lat": 41.057006,
-        "lng": 28.938308
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/dsensoy-diyemedim-wide.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5M704/TURKIYE/tr",
-          "title": "Diyemedim"
-        }
-      ]
-    },
-    {
-      "id": "akustik okan reis sahne|2026-05-29|4099,2905",
-      "title": "Okan Reis - Akustik Sahne",
-      "category": "concert",
-      "date": "2026-05-29T17:30:00.000Z",
-      "venue": {
-        "name": "Sanat Performance",
-        "city": "İstanbul",
-        "district": "Kadıköy",
-        "lat": 40.990505,
-        "lng": 29.051654
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/5SPHE-26su.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5SPHE/TURKIYE/tr",
-          "title": "Okan Reis - Akustik Sahne"
-        }
-      ]
-    },
-    {
-      "id": "pentagram|2026-05-29|3839,2717",
-      "title": "Pentagram",
-      "category": "other",
-      "date": "2026-05-29T18:00:00.000Z",
-      "venue": {
-        "name": "SoldOut Performance Hall",
-        "city": "İzmir",
-        "district": "Buca",
-        "lat": 38.394638,
-        "lng": 27.167997
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/2SD71_wideimg.png",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5NP75/TURKIYE/tr",
-          "title": "Pentagram"
-        }
-      ]
-    },
-    {
-      "id": "bayram ceren ozel sagu|2026-05-29|4103,2898",
-      "title": "Ceren Sagu Bayram Özel",
-      "category": "other",
-      "date": "2026-05-29T18:00:00.000Z",
-      "venue": {
-        "name": "Jolly Joker Kartal İstMarina",
-        "city": "İstanbul",
-        "district": "Beyoğlu",
-        "lat": 41.033571,
-        "lng": 28.978393
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/cerenew-26suwde.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/54T49/TURKIYE/tr",
-          "title": "Ceren Sagu Bayram Özel"
-        }
-      ]
-    },
-    {
-      "id": "anadolu anatolia atesi fire of|2026-05-29|3694,3082",
-      "title": "Anadolu Ateşi - Fire of Anatolia",
-      "category": "other",
-      "date": "2026-05-29T18:00:00.000Z",
-      "venue": {
-        "name": "Aspendos Antik Tiyatro",
-        "city": "Antalya",
-        "district": "Aksu",
-        "lat": 36.938343,
-        "lng": 30.81664
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/anadolu-24A01-wide.jpg",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/54A08/TURKIYE/tr",
-          "title": "Anadolu Ateşi - Fire of Anatolia"
-        }
-      ]
-    },
-    {
-      "id": "collective maymun|2026-05-29|4103,2898",
-      "title": "Maymun Collective",
-      "category": "other",
-      "date": "2026-05-29T18:00:00.000Z",
-      "venue": {
-        "name": "Blind İstanbul",
-        "city": "İstanbul",
-        "district": "Beyoğlu",
-        "lat": 41.0306,
-        "lng": 28.978
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/5FC07_wideimgy.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5FC14/TURKIYE/tr",
-          "title": "Maymun Collective"
-        }
-      ]
-    },
-    {
-      "id": "2000 90 dj hakan kufundur lar ler parti pop turkce|2026-05-29|4106,2896",
-      "title": "Dj Hakan Küfündür ile 90'lar & 2000'ler Türkçe Pop Parti",
-      "category": "other",
-      "date": "2026-05-29T19:00:00.000Z",
-      "venue": {
-        "name": "Hayal Kahvesi Bahçeşehir",
-        "city": "İstanbul",
-        "district": "Kâğıthane",
-        "lat": 41.061672,
-        "lng": 28.961116
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/30P08djhakankufundur.png",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/50B0F/TURKIYE/tr",
-          "title": "DJ Sercan Umut - Geçmişten Günümüze 90'lar 2000'ler Türkçe Pop"
-        },
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5MGTU/TURKIYE/tr",
-          "title": "Dj Hakan Küfündür ile 90'lar & 2000'ler Türkçe Pop Parti"
-        }
-      ]
-    },
-    {
-      "id": "alti gecesi stand up ustu|2026-05-29|3993,3289",
-      "title": "Altı Üstü Stand Up Gecesi",
-      "category": "stand-up",
-      "date": "2026-05-29T18:00:00.000Z",
-      "venue": {
-        "name": "Altı Üstü Bar",
-        "city": "Ankara",
-        "district": "Mamak",
-        "lat": 39.934636,
-        "lng": 32.892286
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/5FBA5-altiustu26suwde.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5FBA5/TURKIYE/tr",
-          "title": "Altı Üstü Stand Up Gecesi"
-        }
-      ]
-    },
-    {
-      "id": "90 lar partisi pop turkce|2026-05-29|3989,3286",
-      "title": "90'lar Türkçe Pop Partisi",
-      "category": "other",
-      "date": "2026-05-29T18:00:00.000Z",
-      "venue": {
-        "name": "IF Performance Hall Tepe Prime",
-        "city": "Ankara",
-        "district": "Çankaya",
-        "lat": 39.891,
-        "lng": 32.8552
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/2K724-gorsel.jpg",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5K773/TURKIYE/tr",
-          "title": "2000ler Türkçe Pop Partisi"
-        },
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5BDF3/TURKIYE/tr",
-          "title": "90'lar Türkçe Pop Partisi"
-        }
-      ]
-    },
-    {
-      "id": "mercan nci|2026-05-29|3682,3464",
-      "title": "İnci Mercan",
-      "category": "other",
-      "date": "2026-05-29T18:00:00.000Z",
-      "venue": {
-        "name": "Bella Vista Restaurant",
-        "city": "Mersin",
-        "district": "Akdeniz",
-        "lat": 36.815028,
-        "lng": 34.636456
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/5OG15_26suwde.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5OG15/TURKIYE/tr",
-          "title": "İnci Mercan"
-        }
-      ]
-    },
-    {
-      "id": "diskosu doksanlar|2026-05-29|4107,2895",
-      "title": "Doksanlar Diskosu",
-      "category": "other",
-      "date": "2026-05-29T18:00:00.000Z",
-      "venue": {
-        "name": "Dorock XL",
-        "city": "İstanbul",
-        "district": "Eyüpsultan",
-        "lat": 41.065737,
-        "lng": 28.946793
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/4FI16-doksanlardiskosuwde-2025bu.jpg",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5OT66/TURKIYE/tr",
-          "title": "Doksanlar Diskosu"
-        }
-      ]
-    },
-    {
-      "id": "tugkan|2026-05-29|4015,2641",
-      "title": "Tuğkan",
-      "category": "other",
-      "date": "2026-05-29T18:00:00.000Z",
-      "venue": {
-        "name": "Container Hall Çanakkale",
-        "city": "Çanakkale",
-        "district": "Çanakkale Merkez",
-        "lat": 40.148408,
-        "lng": 26.414123
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/3NQ45-tugkan-wide.png",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5NP60/TURKIYE/tr",
-          "title": "Tuğkan"
-        }
-      ]
-    },
-    {
-      "id": "bayram dalkilic murat ozel|2026-05-29|4112,2912",
-      "title": "Murat Dalkılıç Bayram Özel",
-      "category": "other",
-      "date": "2026-05-29T18:00:00.000Z",
-      "venue": {
-        "name": "JJ Arena Ataşehir",
-        "city": "İstanbul",
-        "district": "Beykoz",
-        "lat": 41.116674,
-        "lng": 29.123513
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/5JW46murat-26suwide.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5TX44/TURKIYE/tr",
-          "title": "Murat Dalkılıç Bayram Özel"
-        }
-      ]
-    },
-    {
-      "id": "bayram duygu ozel soylu|2026-05-29|4101,2897",
-      "title": "Bayram Özel Duygu Soylu",
-      "category": "other",
-      "date": "2026-05-29T18:00:00.000Z",
-      "venue": {
-        "name": "Swissotel The Bosphorus",
-        "city": "İstanbul",
-        "district": "Beşiktaş",
-        "lat": 41.009043,
-        "lng": 28.9661
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/5ACGB-30-4-26wde.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5ACGB/TURKIYE/tr",
-          "title": "Bayram Özel Duygu Soylu"
-        }
-      ]
-    },
-    {
-      "id": "90 bayram flashback gecesi lar ozel pop turkce|2026-05-29|4094,2911",
-      "title": "Flashback 90'lar Türkçe Pop Gecesi Bayram Özel",
-      "category": "other",
-      "date": "2026-05-29T18:00:00.000Z",
-      "venue": {
-        "name": "Jolly Joker Vadistanbul",
-        "city": "İstanbul",
-        "district": "Maltepe",
-        "lat": 40.941327,
-        "lng": 29.113832
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/flashback-widee-18-12-.jpg",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5JW45/TURKIYE/tr",
-          "title": "Flashback 90'lar Türkçe Pop Gecesi Bayram Özel"
-        }
-      ]
-    },
-    {
-      "id": "bayram gokhan ozel turkmen|2026-05-29|3680,3463",
-      "title": "Gökhan Türkmen Bayram Özel",
-      "category": "other",
-      "date": "2026-05-29T18:00:00.000Z",
-      "venue": {
-        "name": "Jolly Joker Mersin",
-        "city": "Mersin",
-        "district": "Mersin",
-        "lat": 36.797838,
-        "lng": 34.629839
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/4JR47-gokhanwde-2409wde.jpg",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5JM21/TURKIYE/tr",
-          "title": "Gökhan Türkmen Bayram Özel"
-        }
-      ]
-    },
-    {
-      "id": "wegh|2026-05-29|3875,3538",
-      "title": "Wegh",
-      "category": "other",
-      "date": "2026-05-29T19:00:00.000Z",
-      "venue": {
-        "name": "Mawish Beach & Disco",
-        "city": "Yalova",
-        "district": "Melikgazi",
-        "lat": 38.749635,
-        "lng": 35.378712
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wegh5OSM8-26su.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5OSM8/TURKIYE/tr",
-          "title": "Wegh"
-        }
-      ]
-    },
-    {
-      "id": "2000ler 90lar dj le ozge parti pop tigli turkce|2026-05-29|3993,3283",
-      "title": "Dj Özge Tığlı İle 90lar 2000ler Türkçe Pop Parti",
-      "category": "other",
-      "date": "2026-05-29T19:00:00.000Z",
-      "venue": {
-        "name": "6:45 KK Ankara",
-        "city": "Ankara",
-        "district": "Çankaya",
-        "lat": 39.929307,
-        "lng": 32.825024
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/3ROAB-gorsel.jpg",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5HM0S/TURKIYE/tr",
-          "title": "Dj Özge Tığlı İle 90lar 2000ler Türkçe Pop Parti"
-        }
-      ]
-    },
-    {
-      "id": "antonis remos|2026-05-29|3708,3061",
-      "title": "Antonis Remos",
-      "category": "other",
-      "date": "2026-05-29T19:00:00.000Z",
-      "venue": {
-        "name": "Regnum Hotels",
-        "city": "Antalya",
-        "district": "Döşemealtı",
-        "lat": 37.081886,
-        "lng": 30.612803
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/5K802-26suwde.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5K802/TURKIYE/tr",
-          "title": "Antonis Remos"
-        }
-      ]
-    },
-    {
-      "id": "bengu|2026-05-29|3691,3064",
-      "title": "Bengü",
-      "category": "other",
-      "date": "2026-05-29T19:00:00.000Z",
-      "venue": {
-        "name": "Cosmos Theatre Antalya",
-        "city": "Antalya",
-        "district": "Kepez",
-        "lat": 36.906021,
-        "lng": 30.644618
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/5GLR2-benguwide.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5GLR2/TURKIYE/tr",
-          "title": "Bengü"
-        }
-      ]
-    },
-    {
-      "id": "ahiyan|2026-05-29|4076,2989",
-      "title": "Ahiyan",
-      "category": "other",
-      "date": "2026-05-29T19:15:00.000Z",
-      "venue": {
-        "name": "Hayal Kahvesi Kocaeli",
-        "city": "Kocaeli",
-        "district": "İzmit",
-        "lat": 40.761063,
-        "lng": 29.885578
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/417326566-ahiyan-wide.png",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5IH27/TURKIYE/tr",
-          "title": "Ahiyan"
-        }
-      ]
-    },
-    {
-      "id": "koldas olgun ozlem soner|2026-05-29|4096,2910",
-      "title": "Soner Olgun & Özlem Koldaş",
-      "category": "other",
-      "date": "2026-05-29T19:30:00.000Z",
-      "venue": {
-        "name": "Hayalmest Bostancı",
-        "city": "İstanbul",
-        "district": "Kadıköy",
-        "lat": 40.957428,
-        "lng": 29.097233
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/4DRT0-GORSEL.jpg",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5DRE3/TURKIYE/tr",
-          "title": "Soner Olgun & Özlem Koldaş"
-        }
-      ]
-    },
-    {
-      "id": "mika raun|2026-05-29|3685,3079",
-      "title": "Mika Raun",
-      "category": "other",
-      "date": "2026-05-29T20:00:00.000Z",
-      "venue": {
-        "name": "Gaga Club Lara",
-        "city": "Antalya",
-        "district": "Muratpaşa",
-        "lat": 36.85369,
-        "lng": 30.789814
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/5KAM0-26su.avif",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5KAM0/TURKIYE/tr",
-          "title": "Mika Raun"
-        }
-      ]
-    },
-    {
-      "id": "2000s 90s hiphop luv party|2026-05-29|4103,2898",
-      "title": "Luv X 90s & 2000s Hiphop Party",
-      "category": "other",
-      "date": "2026-05-29T20:59:00.000Z",
-      "venue": {
-        "name": "Blind İstanbul",
-        "city": "İstanbul",
-        "district": "Beyoğlu",
-        "lat": 41.0306,
-        "lng": 28.978
-      },
-      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/5SC31-25suwide.jpg",
-      "sources": [
-        {
-          "source": "biletix",
-          "url": "https://www.biletix.com/etkinlik/5SCDA/TURKIYE/tr",
-          "title": "Luv X 90s & 2000s Hiphop Party"
-        }
-      ]
-    },
-    {
       "id": "14 cocuklara ozel pizza workshop yas|2026-05-30|4101,2897",
       "title": "Çocuklara Özel Pizza Workshop (7-14 Yaş)",
       "category": "other",
@@ -1265,10 +431,729 @@
       ]
     },
     {
-      "id": "tarkan volkswagen|2026-06-12|4109,2902",
+      "id": "24 bir kadinin saat yasamindan|2026-05-30|4018,2905",
+      "title": "Bir Kadının Yaşamından 24 Saat",
+      "category": "other",
+      "date": "2026-05-30T13:00:00.000Z",
+      "venue": {
+        "name": "Studyou Cafe",
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "lat": 40.18288,
+        "lng": 29.050961
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/4PY47-birkadin.jpg",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5PQ75/TURKIYE/tr",
+          "title": "Bir Kadının Yaşamından 24 Saat"
+        }
+      ]
+    },
+    {
+      "id": "istanbul legends mayis of|2026-05-30|4107,2891",
+      "title": "Legends of Istanbul - Mayıs",
+      "category": "other",
+      "date": "2026-05-30T13:00:00.000Z",
+      "venue": {
+        "name": "Legends Of Istanbul",
+        "city": "İstanbul",
+        "district": "Gaziosmanpaşa",
+        "lat": 41.069793,
+        "lng": 28.907642
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/4MLYE-legendswde.png",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5LYGG/TURKIYE/tr",
+          "title": "Legends of Istanbul - Mayıs"
+        }
+      ]
+    },
+    {
+      "id": "juliet romeo|2026-05-30|4098,2888",
+      "title": "Romeo ve Juliet",
+      "category": "other",
+      "date": "2026-05-30T13:00:00.000Z",
+      "venue": {
+        "name": "Bakırköy Butik Sahne",
+        "city": "İstanbul",
+        "district": "Bakırköy",
+        "lat": 40.9836,
+        "lng": 28.8761
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/5PXA0-26su.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5PXA0/TURKIYE/tr",
+          "title": "Romeo ve Juliet"
+        }
+      ]
+    },
+    {
+      "id": "shirley valentine|2026-05-30|4018,2905",
+      "title": "Shirley Valentine",
+      "category": "other",
+      "date": "2026-05-30T14:00:00.000Z",
+      "venue": {
+        "name": "Studyou Cafe",
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "lat": 40.18288,
+        "lng": 29.050961
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/3ME90-valentine.jpg",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5PQ80/TURKIYE/tr",
+          "title": "Shirley Valentine"
+        }
+      ]
+    },
+    {
+      "id": "alice diyarinda harikalar|2026-05-30|3987,3281",
+      "title": "Alice Harikalar Diyarında",
+      "category": "other",
+      "date": "2026-05-30T14:00:00.000Z",
+      "venue": {
+        "name": "Actor Studio Panora AVM",
+        "city": "Ankara",
+        "district": "Çankaya",
+        "lat": 39.8731,
+        "lng": 32.8083
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/5KY26-alice-26su.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5VF45/TURKIYE/tr",
+          "title": "Alice Harikalar Diyarında"
+        }
+      ]
+    },
+    {
+      "id": "dolphinarium stanbul yunuslarla yuzme|2026-05-30|4097,2882",
+      "title": "İstanbul Dolphinarium Yunuslarla Yüzme",
+      "category": "other",
+      "date": "2026-05-30T14:30:00.000Z",
+      "venue": {
+        "name": "İstanbul Dolphinarium Yunus Gösteri Merkezi",
+        "city": "İstanbul",
+        "district": "Eyüpsultan",
+        "lat": 40.9742,
+        "lng": 28.8226
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/5DA00-idyy2-wide.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5DA55/TURKIYE/tr",
+          "title": "İstanbul Dolphinarium Yunuslarla Yüzme"
+        }
+      ]
+    },
+    {
+      "id": "othello|2026-05-30|4098,2888",
+      "title": "Othello",
+      "category": "other",
+      "date": "2026-05-30T14:15:00.000Z",
+      "venue": {
+        "name": "Bakırköy Butik Sahne",
+        "city": "İstanbul",
+        "district": "Bakırköy",
+        "lat": 40.9836,
+        "lng": 28.8761
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/othello-26su.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5PX88/TURKIYE/tr",
+          "title": "Othello"
+        }
+      ]
+    },
+    {
+      "id": "murebbiye|2026-05-30|4105,2897",
+      "title": "Mürebbiye",
+      "category": "other",
+      "date": "2026-05-30T15:00:00.000Z",
+      "venue": {
+        "name": "Kartal Ada Sanat Tiyatrosu",
+        "city": "İstanbul",
+        "district": "Şişli",
+        "lat": 41.052249,
+        "lng": 28.966964
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/5FIFK-murebbiye.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5FKBA/TURKIYE/tr",
+          "title": "Mürebbiye"
+        }
+      ]
+    },
+    {
+      "id": "couple resim starry|2026-05-30|4100,2864",
+      "title": "Resim - Starry Couple",
+      "category": "other",
+      "date": "2026-05-30T16:00:00.000Z",
+      "venue": {
+        "name": "Masterpiece Beylikdüzü",
+        "city": "İstanbul",
+        "district": "Beylikdüzü",
+        "lat": 41.003937,
+        "lng": 28.637531
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/51207-starry.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/51890/TURKIYE/tr",
+          "title": "Resim - Starry Couple"
+        }
+      ]
+    },
+    {
+      "id": "couple resim starry|2026-05-30|3992,3285",
+      "title": "Resim - Starry Couple",
+      "category": "other",
+      "date": "2026-05-30T16:00:00.000Z",
+      "venue": {
+        "name": "Masterpiece Ümitköy",
+        "city": "Ankara",
+        "district": "Ankara",
+        "lat": 39.920789,
+        "lng": 32.854048
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/51207-starry.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/51812/TURKIYE/tr",
+          "title": "Resim - Starry Couple"
+        }
+      ]
+    },
+    {
+      "id": "heykel soyut suratlar|2026-05-30|3979,3281",
+      "title": "Heykel - Soyut Suratlar",
+      "category": "other",
+      "date": "2026-05-30T16:00:00.000Z",
+      "venue": {
+        "name": "Masterpiece Ankara",
+        "city": "Ankara",
+        "district": "Gölbaşı",
+        "lat": 39.793504,
+        "lng": 32.806404
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/51786-soyutsurat.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/51786/TURKIYE/tr",
+          "title": "Heykel - Soyut Suratlar"
+        }
+      ]
+    },
+    {
+      "id": "2000ler 90lar canpolat dj firat partisi pop turkce|2026-05-30|4104,2896",
+      "title": "DJ Fırat Canpolat ile 90lar 2000ler Türkçe Pop Partisi",
+      "category": "other",
+      "date": "2026-05-30T19:00:00.000Z",
+      "venue": {
+        "name": "Mask Beach",
+        "city": "İstanbul",
+        "district": "Beyoğlu",
+        "lat": 41.0398,
+        "lng": 28.963178
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/djfiratcanpolatnewwide.png",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5LZ09/TURKIYE/tr",
+          "title": "DJ Fırat Canpolat ile 90lar 2000ler Türkçe Pop Partisi"
+        }
+      ]
+    },
+    {
+      "id": "kurk madonna mantolu|2026-05-30|4098,2888",
+      "title": "Kürk Mantolu Madonna",
+      "category": "other",
+      "date": "2026-05-30T15:20:00.000Z",
+      "venue": {
+        "name": "Bakırköy Butik Sahne",
+        "city": "İstanbul",
+        "district": "Bakırköy",
+        "lat": 40.9836,
+        "lng": 28.8761
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/5PY46-kurkmantolu-new26bu.png",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5PQ68/TURKIYE/tr",
+          "title": "Kürk Mantolu Madonna"
+        }
+      ]
+    },
+    {
+      "id": "ceset kutuphanedeki|2026-05-30|4018,2905",
+      "title": "Kütüphanedeki Ceset",
+      "category": "other",
+      "date": "2026-05-30T15:30:00.000Z",
+      "venue": {
+        "name": "Studyou Cafe",
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "lat": 40.18288,
+        "lng": 29.050961
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/5PX87-kutuphanedekiceset.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5PQ81/TURKIYE/tr",
+          "title": "Kütüphanedeki Ceset"
+        }
+      ]
+    },
+    {
+      "id": "bahcesi hayvanat of stanbul|2026-05-30|4105,2903",
+      "title": "Park Of İstanbul Hayvanat Bahçesi",
+      "category": "other",
+      "date": "2026-05-30T15:30:00.000Z",
+      "venue": {
+        "name": "Park Of İstanbul",
+        "city": "İstanbul",
+        "district": "Çekmeköy",
+        "lat": 41.0528,
+        "lng": 29.0294
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/4ISGG-parkofist-wide.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5PK38/TURKIYE/tr",
+          "title": "Park Of İstanbul Hayvanat Bahçesi"
+        }
+      ]
+    },
+    {
+      "id": "bayram eglence estefani greek nights ozel|2026-05-30|4102,2913",
+      "title": "Estefani Greek Nights Bayram Özel Eğlence",
+      "category": "other",
+      "date": "2026-05-30T16:00:00.000Z",
+      "venue": {
+        "name": "Lider Club",
+        "city": "İstanbul",
+        "district": "Ümraniye",
+        "lat": 41.017948,
+        "lng": 29.129094
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/5LBT8-estefaniwde.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5LBT8/TURKIYE/tr",
+          "title": "Estefani Greek Nights Bayram Özel Eğlence"
+        }
+      ]
+    },
+    {
+      "id": "gecesi kadikoy stand up|2026-05-30|4097,2905",
+      "title": "Kadıköy Stand up Gecesi",
+      "category": "stand-up",
+      "date": "2026-05-30T16:00:00.000Z",
+      "venue": {
+        "name": "Ada Bar Kadıköy",
+        "city": "İstanbul",
+        "district": "Kadıköy",
+        "lat": 40.968672,
+        "lng": 29.053181
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/5MT93-nrml.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5MT93/TURKIYE/tr",
+          "title": "Kadıköy Stand up Gecesi"
+        }
+      ]
+    },
+    {
+      "id": "bilgi night trivia yarismasi|2026-05-30|3993,3289",
+      "title": "Trivia Night - Bilgi Yarışması",
+      "category": "other",
+      "date": "2026-05-30T16:00:00.000Z",
+      "venue": {
+        "name": "Altı Üstü Bar",
+        "city": "Ankara",
+        "district": "Mamak",
+        "lat": 39.934636,
+        "lng": 32.892286
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/5FBA626suwde.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5FBA6/TURKIYE/tr",
+          "title": "Trivia Night - Bilgi Yarışması"
+        }
+      ]
+    },
+    {
+      "id": "cabalar okan|2026-05-30|3992,3285",
+      "title": "Okan Çabalar",
+      "category": "other",
+      "date": "2026-05-30T16:00:00.000Z",
+      "venue": {
+        "name": "Çankaya Sahne",
+        "city": "Ankara",
+        "district": "Ankara",
+        "lat": 39.920789,
+        "lng": 32.854048
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/5T660-okanbu26wide.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5T6DN/TURKIYE/tr",
+          "title": "Okan Çabalar"
+        }
+      ]
+    },
+    {
+      "id": "couple resim starry|2026-05-30|3843,2714",
+      "title": "Resim - Starry Couple",
+      "category": "other",
+      "date": "2026-05-30T16:00:00.000Z",
+      "venue": {
+        "name": "Masterpiece İzmir",
+        "city": "İzmir",
+        "district": "Konak",
+        "lat": 38.42897,
+        "lng": 27.135215
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/51207-starry.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/51829/TURKIYE/tr",
+          "title": "Resim - Starry Couple"
+        }
+      ]
+    },
+    {
+      "id": "couple resim starry|2026-05-30|4098,2907",
+      "title": "Resim - Starry Couple",
+      "category": "other",
+      "date": "2026-05-30T16:00:00.000Z",
+      "venue": {
+        "name": "Masterpiece Göztepe",
+        "city": "İstanbul",
+        "district": "Kadıköy",
+        "lat": 40.978836,
+        "lng": 29.066631
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/51207-starry.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/51854/TURKIYE/tr",
+          "title": "Resim - Starry Couple"
+        }
+      ]
+    },
+    {
+      "id": "et gibi sef|2026-05-30|4107,2895",
+      "title": "Şef Gibi Et",
+      "category": "other",
+      "date": "2026-05-30T16:00:00.000Z",
+      "venue": {
+        "name": "Eataly Mutfak Atölyesi",
+        "city": "İstanbul",
+        "district": "Eyüpsultan",
+        "lat": 41.065737,
+        "lng": 28.946793
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/5KC64-sefgibietbuwide.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5KC84/TURKIYE/tr",
+          "title": "Şef Gibi Et"
+        }
+      ]
+    },
+    {
+      "id": "kadinlar kucuk|2026-05-30|4105,2897",
+      "title": "Küçük Kadınlar",
+      "category": "other",
+      "date": "2026-05-30T16:15:00.000Z",
+      "venue": {
+        "name": "Kartal Ada Sanat Tiyatrosu",
+        "city": "İstanbul",
+        "district": "Şişli",
+        "lat": 41.052249,
+        "lng": 28.966964
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/5FIFG-kucukkadinlar.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5FIFG/TURKIYE/tr",
+          "title": "Küçük Kadınlar"
+        }
+      ]
+    },
+    {
+      "id": "funk stnabul unit|2026-05-30|4106,2897",
+      "title": "İstnabul Funk Unit",
+      "category": "other",
+      "date": "2026-05-30T16:30:00.000Z",
+      "venue": {
+        "name": "Pera77",
+        "city": "İstanbul",
+        "district": "Şişli",
+        "lat": 41.059348,
+        "lng": 28.968717
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/noimage.gif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5FH28/TURKIYE/tr",
+          "title": "İstnabul Funk Unit"
+        }
+      ]
+    },
+    {
+      "id": "cimizdeki seytan|2026-05-30|4018,2905",
+      "title": "İçimizdeki Şeytan",
+      "category": "other",
+      "date": "2026-05-30T16:30:00.000Z",
+      "venue": {
+        "name": "Studyou Cafe",
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "lat": 40.18288,
+        "lng": 29.050961
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/icimizdeki5PQ23.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5PQ82/TURKIYE/tr",
+          "title": "İçimizdeki Şeytan"
+        }
+      ]
+    },
+    {
+      "id": "hayalet operadaki|2026-05-30|4098,2888",
+      "title": "Operadaki Hayalet",
+      "category": "other",
+      "date": "2026-05-30T16:30:00.000Z",
+      "venue": {
+        "name": "Bakırköy Butik Sahne",
+        "city": "İstanbul",
+        "district": "Bakırköy",
+        "lat": 40.9836,
+        "lng": 28.8761
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/5PX30-opera.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5PX98/TURKIYE/tr",
+          "title": "Operadaki Hayalet"
+        }
+      ]
+    },
+    {
+      "id": "frida kahlo|2026-05-30|4101,2897",
+      "title": "Frida Kahlo",
+      "category": "other",
+      "date": "2026-05-30T17:00:00.000Z",
+      "venue": {
+        "name": "Mall of İstanbul MOİ Sahne",
+        "city": "İstanbul",
+        "district": "İstanbul",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/Frida-8-5-26su.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5FUO5/TURKIYE/tr",
+          "title": "Frida Kahlo"
+        }
+      ]
+    },
+    {
+      "id": "bir defteri delinin hatira karadavut oguzhan|2026-05-30|4003,3290",
+      "title": "Bir Delinin Hatıra Defteri - Oğuzhan Karadavut",
+      "category": "other",
+      "date": "2026-05-30T17:00:00.000Z",
+      "venue": {
+        "name": "Era Tiyatro Gösteri Merkezi",
+        "city": "Ankara",
+        "district": "Pursaklar",
+        "lat": 40.03452,
+        "lng": 32.897236
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/39I19-birdelinin.png",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/59I24/TURKIYE/tr",
+          "title": "Bir Delinin Hatıra Defteri - Oğuzhan Karadavut"
+        }
+      ]
+    },
+    {
+      "id": "alkan cemile gazinosu sen|2026-05-30|3879,3489",
+      "title": "Sen Gazinosu : Cemile Alkan",
+      "category": "other",
+      "date": "2026-05-30T17:00:00.000Z",
+      "venue": {
+        "name": "Sen Kültür Merkezi by Chez Galip",
+        "city": "Nevşehir",
+        "district": "Avanos",
+        "lat": 38.791183,
+        "lng": 34.888805
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/5SEN1sen26.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5SEN1/TURKIYE/tr",
+          "title": "Sen Gazinosu : Cemile Alkan"
+        }
+      ]
+    },
+    {
+      "id": "anna karenina|2026-05-30|4018,2905",
+      "title": "Anna Karenina",
+      "category": "other",
+      "date": "2026-05-30T17:30:00.000Z",
+      "venue": {
+        "name": "Studyou Cafe",
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "lat": 40.18288,
+        "lng": 29.050961
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/4CI01-anna-new26bu.png",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5PQ77/TURKIYE/tr",
+          "title": "Anna Karenina"
+        }
+      ]
+    },
+    {
+      "id": "2000ler 90lar dj hakan kufundur parti pop turkce|2026-05-30|3839,2717",
+      "title": "Dj Hakan Küfündür ile 90lar & 2000ler Türkçe Pop Parti",
+      "category": "other",
+      "date": "2026-05-30T17:30:00.000Z",
+      "venue": {
+        "name": "SoldOut Performance Hall",
+        "city": "İzmir",
+        "district": "Buca",
+        "lat": 38.394638,
+        "lng": 27.167997
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/30P08djhakankufundur.png",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5NP80/TURKIYE/tr",
+          "title": "Dj Hakan Küfündür ile 90lar & 2000ler Türkçe Pop Parti"
+        }
+      ]
+    },
+    {
+      "id": "gazino neseli|2026-05-30|4101,2903",
+      "title": "Neşeli Gazino",
+      "category": "other",
+      "date": "2026-05-30T17:30:00.000Z",
+      "venue": {
+        "name": "Cafe Theatre Koşuyolu",
+        "city": "İstanbul",
+        "district": "Kadıköy",
+        "lat": 41.007126,
+        "lng": 29.03476
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/neseli-gazino-new-bu.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5PJ70/TURKIYE/tr",
+          "title": "Bayrama Özel Neşeli Gazino"
+        },
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5PJ53/TURKIYE/tr",
+          "title": "Neşeli Gazino"
+        }
+      ]
+    },
+    {
+      "id": "bayram gecesi ozel stand up|2026-05-30|4107,2896",
+      "title": "Bayram Özel Stand Up Gecesi",
+      "category": "stand-up",
+      "date": "2026-05-30T17:30:00.000Z",
+      "venue": {
+        "name": "Efsahne Beyoğlu",
+        "city": "İstanbul",
+        "district": "Kâğıthane",
+        "lat": 41.073659,
+        "lng": 28.961076
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/efsahne_bayram_290426.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5MM63/TURKIYE/tr",
+          "title": "Bayram Özel Stand Up Gecesi"
+        }
+      ]
+    },
+    {
+      "id": "lu sov stand terapi up|2026-05-30|3994,3280",
+      "title": "Terapi Stand Up 4'lü Şov",
+      "category": "stand-up",
+      "date": "2026-05-30T17:30:00.000Z",
+      "venue": {
+        "name": "Quito Coffee",
+        "city": "Ankara",
+        "district": "Yenimahalle",
+        "lat": 39.942619,
+        "lng": 32.803478
+      },
+      "imageUrl": "https://www.biletix.com/static/images/live/event/eventimages/wide/5FBA4-terapi4luwide.avif",
+      "sources": [
+        {
+          "source": "biletix",
+          "url": "https://www.biletix.com/etkinlik/5FBA4/TURKIYE/tr",
+          "title": "Terapi Stand Up 4'lü Şov"
+        }
+      ]
+    },
+    {
+      "id": "tarkan volkswagen|2026-06-13|4109,2902",
       "title": "TARKAN - Volkswagen Arena",
       "category": "concert",
-      "date": "2026-06-12T21:00:00.000Z",
+      "date": "2026-06-13T21:00:00.000Z",
       "venue": {
         "name": "Volkswagen Arena",
         "city": "İstanbul",
@@ -1290,10 +1175,10 @@
       ]
     },
     {
-      "id": "aksu cemil sezen|2026-06-20|4105,2899",
+      "id": "aksu cemil sezen|2026-06-21|4105,2899",
       "title": "Sezen Aksu / Cemil Topuzlu",
       "category": "concert",
-      "date": "2026-06-20T21:00:00.000Z",
+      "date": "2026-06-21T21:00:00.000Z",
       "venue": {
         "name": "Harbiye Cemil Topuzlu Açıkhava",
         "city": "İstanbul",
@@ -1315,10 +1200,10 @@
       ]
     },
     {
-      "id": "ezhel stanbul|2026-06-16|4105,2899",
+      "id": "ezhel stanbul|2026-06-17|4105,2899",
       "title": "EZHEL İSTANBUL",
       "category": "concert",
-      "date": "2026-06-16T21:00:00.000Z",
+      "date": "2026-06-17T21:00:00.000Z",
       "venue": {
         "name": "KüçükÇiftlik Park",
         "city": "İstanbul",
@@ -1340,10 +1225,10 @@
       ]
     },
     {
-      "id": "bostanci manga|2026-06-09|4096,2910",
+      "id": "bostanci manga|2026-06-10|4096,2910",
       "title": "Manga / Bostancı",
       "category": "concert",
-      "date": "2026-06-09T21:00:00.000Z",
+      "date": "2026-06-10T21:00:00.000Z",
       "venue": {
         "name": "Bostancı Gösteri Merkezi",
         "city": "İstanbul",
@@ -1365,10 +1250,10 @@
       ]
     },
     {
-      "id": "mor otesi stanbul|2026-06-23|4107,2902",
+      "id": "mor otesi stanbul|2026-06-24|4107,2902",
       "title": "MOR VE ÖTESİ İstanbul",
       "category": "concert",
-      "date": "2026-06-23T21:00:00.000Z",
+      "date": "2026-06-24T21:00:00.000Z",
       "venue": {
         "name": "Zorlu PSM",
         "city": "İstanbul",
@@ -1390,10 +1275,10 @@
       ]
     },
     {
-      "id": "ceza stanbul|2026-07-03|4105,2899",
+      "id": "ceza stanbul|2026-07-04|4105,2899",
       "title": "CEZA İstanbul",
       "category": "concert",
-      "date": "2026-07-03T21:00:00.000Z",
+      "date": "2026-07-04T21:00:00.000Z",
       "venue": {
         "name": "KüçükÇiftlik Park",
         "city": "İstanbul",
@@ -1415,10 +1300,10 @@
       ]
     },
     {
-      "id": "fenerbahce galatasaray lig super|2026-06-07|4110,2899",
+      "id": "fenerbahce galatasaray lig super|2026-06-08|4110,2899",
       "title": "Galatasaray - Fenerbahçe Süper Lig",
       "category": "sport",
-      "date": "2026-06-07T19:00:00.000Z",
+      "date": "2026-06-08T19:00:00.000Z",
       "venue": {
         "name": "Türk Telekom Stadyumu",
         "city": "İstanbul",
@@ -1440,10 +1325,10 @@
       ]
     },
     {
-      "id": "besiktas fenerbahce|2026-06-14|4099,2904",
+      "id": "besiktas fenerbahce|2026-06-15|4099,2904",
       "title": "Fenerbahçe - Beşiktaş",
       "category": "sport",
-      "date": "2026-06-14T19:00:00.000Z",
+      "date": "2026-06-15T19:00:00.000Z",
       "venue": {
         "name": "Ülker Stadyumu",
         "city": "İstanbul",
@@ -1465,10 +1350,10 @@
       ]
     },
     {
-      "id": "cem stand up yilmaz|2026-06-26|3991,3278",
+      "id": "cem stand up yilmaz|2026-06-27|3991,3278",
       "title": "CEM YILMAZ Stand-up",
       "category": "stand-up",
-      "date": "2026-06-26T20:00:00.000Z",
+      "date": "2026-06-27T20:00:00.000Z",
       "venue": {
         "name": "ATO Congresium",
         "city": "Ankara",
@@ -1490,10 +1375,10 @@
       ]
     },
     {
-      "id": "buray zmir|2026-07-01|3845,2717",
+      "id": "buray zmir|2026-07-02|3845,2717",
       "title": "BURAY İzmir Arena",
       "category": "concert",
-      "date": "2026-07-01T21:00:00.000Z",
+      "date": "2026-07-02T21:00:00.000Z",
       "venue": {
         "name": "İzmir Arena",
         "city": "İzmir",
@@ -1515,10 +1400,10 @@
       ]
     },
     {
-      "id": "aspendos|2026-07-18|3694,3117",
+      "id": "aspendos|2026-07-19|3694,3117",
       "title": "Aspendos Festival",
       "category": "festival",
-      "date": "2026-07-18T21:00:00.000Z",
+      "date": "2026-07-19T21:00:00.000Z",
       "venue": {
         "name": "Aspendos Antik Tiyatrosu",
         "city": "Antalya",
@@ -1540,10 +1425,10 @@
       ]
     },
     {
-      "id": "bursaspor lig sakaryaspor|2026-06-06|4018,2907",
+      "id": "bursaspor lig sakaryaspor|2026-06-07|4018,2907",
       "title": "Bursaspor - Sakaryaspor 1.Lig",
       "category": "sport",
-      "date": "2026-06-06T19:00:00.000Z",
+      "date": "2026-06-07T19:00:00.000Z",
       "venue": {
         "name": "Bursa Atatürk Stadyumu",
         "city": "Bursa",
@@ -1565,10 +1450,10 @@
       ]
     },
     {
-      "id": "bir kafamda tuhaflik zorlu|2026-06-22|4107,2902",
+      "id": "bir kafamda tuhaflik zorlu|2026-06-23|4107,2902",
       "title": "Kafamda Bir Tuhaflık - Zorlu PSM",
       "category": "musical",
-      "date": "2026-06-22T20:00:00.000Z",
+      "date": "2026-06-23T20:00:00.000Z",
       "venue": {
         "name": "Zorlu PSM",
         "city": "İstanbul",
@@ -1590,6 +1475,27 @@
       ]
     },
     {
+      "id": "efendisi kasgarli mahmut okullari stanbul stek|2026-06-01|4105,2899",
+      "title": "İstek Kaşgarlı Mahmut Okulları (İstanbul Efendisi)",
+      "category": "theater",
+      "date": "2026-06-01T20:00:00.000Z",
+      "venue": {
+        "name": "Harbiye Mh., Darülbedayi Cd. No:3, 34367 Şişli/İstanbul",
+        "city": "İstanbul",
+        "district": "Şişli",
+        "lat": 41.046199,
+        "lng": 28.988704
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/istek-kasgarli-mahmut-okullari-istanbul-efendisi-2026518101928744bb6cb2e974738827b9304ba310253.jpg",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/tiyatro/istek-kasgarli-mahmut-okullari-istanbul-efendisi",
+          "title": "İstek Kaşgarlı Mahmut Okulları (İstanbul Efendisi)"
+        }
+      ]
+    },
+    {
       "id": "ailem del|2026-06-06|3991,3286",
       "title": "Del Ailem Tiyatro",
       "category": "theater",
@@ -1607,6 +1513,99 @@
           "source": "biletinial",
           "url": "https://biletinial.com/tr-tr/tiyatro/delailem",
           "title": "Del Ailem Tiyatro"
+        }
+      ]
+    },
+    {
+      "id": "gulses melihat|2026-06-10|3846,2709",
+      "title": "Melihat Gülses Konseri",
+      "category": "concert",
+      "date": "2026-06-10T21:00:00.000Z",
+      "venue": {
+        "name": "Bostanlı, Hasan Ali Yücel Blv., 35540 Karşıyaka/İzmir",
+        "city": "İzmir",
+        "district": "Karşıyaka",
+        "lat": 38.458404,
+        "lng": 27.089388
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/melihat-gulses-202651113551784cb07d4145d4fdc9dccf11c8cc7852d.jpeg",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/muzik/melihat-gulses",
+          "title": "Melihat Gülses Konseri"
+        }
+      ]
+    },
+    {
+      "id": "|2026-06-12|3992,3285",
+      "title": "2",
+      "category": "theater",
+      "date": "2026-06-12T20:30:00.000Z",
+      "venue": {
+        "name": "Bilinmeyen Mekan",
+        "city": "Ankara",
+        "district": "Ankara",
+        "lat": 39.920789,
+        "lng": 32.854048
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/2li-stand-up-show-ogulcan-bektas-ismail-eroglu-20265131183027f9f6dd66e24f7e8488f7ee38b320af.jpg",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/tiyatro/2li-stand-up-show-ogulcan-bektas-ismail-eroglu",
+          "title": "2"
+        }
+      ]
+    },
+    {
+      "id": "beyaz geceler oyunu|2026-06-08|3991,3286",
+      "title": "Beyaz Geceler Tiyatro Oyunu",
+      "category": "theater",
+      "date": "2026-06-08T20:00:00.000Z",
+      "venue": {
+        "name": "ÇANKAYA SAHNE-Remzi   Oğuz   Arık   Mah.   Paris Cad.   49/B/A Çankaya/ANKARA   (Şili Meydanı)",
+        "city": "Ankara",
+        "district": "Çankaya",
+        "lat": 39.908714,
+        "lng": 32.856636
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/beyaz-geceler-cankaya-20251110155615ab131e48e0164a6b9883adb5b6b14cc5.jpg",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/tiyatro/beyaz-geceler",
+          "title": "Beyaz Geceler Tiyatro Oyunu"
+        }
+      ]
+    },
+    {
+      "id": "bulasikcilar|2026-09-28|3985,3282",
+      "title": "Bulaşıkçılar",
+      "category": "concert",
+      "date": "2026-09-28T18:00:00.000Z",
+      "venue": {
+        "name": "Oran Açıkhava Sahnesi",
+        "city": "Ankara",
+        "district": "Çankaya",
+        "lat": 39.849895,
+        "lng": 32.82261
+      },
+      "priceMin": 750,
+      "priceMax": 750,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/-bulasikcilar-65585.png",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/tiyatro/bulasikcilar",
+          "title": "Bulaşıkçılar Tiyatro Oyunu"
+        },
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/ankara/etkinlik/-bulasikcilar",
+          "title": "Bulaşıkçılar",
+          "priceMin": 750,
+          "priceMax": 750
         }
       ]
     },
@@ -1653,6 +1652,27 @@
       ]
     },
     {
+      "id": "bazen cogunlukla oyunu|2026-06-11|3932,2669",
+      "title": "Çoğunlukla Bazen Tiyatro Oyunu",
+      "category": "theater",
+      "date": "2026-06-11T20:00:00.000Z",
+      "venue": {
+        "name": "Fevzipaşa - Vehbibey, Barbaros Cd. 4. Sk. No:3, 10400 Ayvalık/Balıkesir",
+        "city": "Diğer",
+        "district": "Ayvalık",
+        "lat": 39.317094,
+        "lng": 26.692101
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/cogunlukla-bazen-2024121918228ef10ab5a1a494d83a1b36c9bcc1c4177.png",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/tiyatro/cogunlukla-bazen",
+          "title": "Çoğunlukla Bazen Tiyatro Oyunu"
+        }
+      ]
+    },
+    {
       "id": "turku yeni|2026-08-15|4069,3021",
       "title": "Yeni Türkü Konseri",
       "category": "concert",
@@ -1670,6 +1690,69 @@
           "source": "biletinial",
           "url": "https://biletinial.com/tr-tr/muzik/yeni-turku-fthaydnypm",
           "title": "Yeni Türkü Konseri"
+        }
+      ]
+    },
+    {
+      "id": "bilge kalbindeki masallarin oyunu|2026-10-25|3700,3519",
+      "title": "Masalların Kalbindeki Bilge Tiyatro Oyunu",
+      "category": "theater",
+      "date": "2026-10-25T15:00:00.000Z",
+      "venue": {
+        "name": "Bilinmeyen Mekan",
+        "city": "Diğer",
+        "district": "Seyhan",
+        "lat": 36.995903,
+        "lng": 35.18872
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/masallarin-kalbindeki-bilge-2025102112347f2fcb4feb60f4dccbb60efc530f0adf7.jpg",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/tiyatro/masallarin-kalbindeki-bilge",
+          "title": "Masalların Kalbindeki Bilge Tiyatro Oyunu"
+        }
+      ]
+    },
+    {
+      "id": "cok mercaniye oyunu yasa|2026-06-19|4106,2892",
+      "title": "Mercaniye Çok Yaşa Tiyatro Oyunu",
+      "category": "theater",
+      "date": "2026-06-19T20:30:00.000Z",
+      "venue": {
+        "name": "Bilinmeyen Mekan",
+        "city": "İstanbul",
+        "district": "Gaziosmanpaşa",
+        "lat": 41.059613,
+        "lng": 28.917755
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/mercaniye-cok-yasa-2024828131220cdcbf0b6ec8f4a74ad66a22170ad6c19.jpg",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/tiyatro/mercaniye-cok-yasa",
+          "title": "Mercaniye Çok Yaşa Tiyatro Oyunu"
+        }
+      ]
+    },
+    {
+      "id": "atolyesi caca dans|2026-06-06|4104,2899",
+      "title": "Çaça Dans Atölyesi",
+      "category": "concert",
+      "date": "2026-06-06T13:00:00.000Z",
+      "venue": {
+        "name": "Gümüşsuyu Mahallesi Mete Caddesi No:2 Beyoğlu/İSTANBUL",
+        "city": "İstanbul",
+        "district": "Beyoğlu",
+        "lat": 41.036739,
+        "lng": 28.987695
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/caca-dans-atolyesilatin-ritimleri-yas-grubu-7-11-202641151639b3bbbad25e7f4314a753c9c40828f8b6.jpg",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/muzik/caca-dans-atolyesi-latin-ritimleri-yas-grubu-7-11-akm",
+          "title": "Çaça Dans Atölyesi"
         }
       ]
     },
@@ -1695,6 +1778,27 @@
       ]
     },
     {
+      "id": "dernegi olu oyunu ozanlar|2026-07-18|3987,3286",
+      "title": "Ölü Ozanlar Derneği Tiyatro Oyunu",
+      "category": "theater",
+      "date": "2026-07-18T20:30:00.000Z",
+      "venue": {
+        "name": "PANORA SANAT MERKEZİ   Panora, AVM, Turan Güneş Blv. No:182, 06450 Çankaya/Ankara",
+        "city": "Ankara",
+        "district": "Çankaya",
+        "lat": 39.87014,
+        "lng": 32.860301
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/olu-ozanlar-dernegi-20251214102351cce293c736aa401b92c864af01d93ed9.png",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/tiyatro/olu-ozanlar-dernegi-bsmkt",
+          "title": "Ölü Ozanlar Derneği Tiyatro Oyunu"
+        }
+      ]
+    },
+    {
       "id": "gecmisten gunumuze sarkilar turkuler|2026-07-05|3695,3064",
       "title": "Geçmişten Günümüze Türküler ve Şarkılar Konseri",
       "category": "concert",
@@ -1716,27 +1820,6 @@
       ]
     },
     {
-      "id": "edepsiz komedi oyunu|2026-05-29|4101,2903",
-      "title": "Edepsiz Komedi Tiyatro Oyunu",
-      "category": "theater",
-      "date": "2026-05-29T23:00:00.000Z",
-      "venue": {
-        "name": "Bekir Sıtkı Sezgin Sok. No:168 Koşuyolu/İstanbul",
-        "city": "İstanbul",
-        "district": "Kadıköy",
-        "lat": 41.008859,
-        "lng": 29.033496
-      },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/edepsiz-komedi-2023518114826.png",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/tiyatro/edepsiz-komedi-doruk-tyt",
-          "title": "Edepsiz Komedi Tiyatro Oyunu"
-        }
-      ]
-    },
-    {
       "id": "garfield kahraman kedi oyunu|2026-05-31|3987,3290",
       "title": "Kahraman Kedi Garfield Tiyatro Oyunu",
       "category": "theater",
@@ -1754,6 +1837,48 @@
           "source": "biletinial",
           "url": "https://biletinial.com/tr-tr/tiyatro/kahraman-kedi-garfield",
           "title": "Kahraman Kedi Garfield Tiyatro Oyunu"
+        }
+      ]
+    },
+    {
+      "id": "edepsiz komedi oyunu|2026-05-30|4101,2903",
+      "title": "Edepsiz Komedi Tiyatro Oyunu",
+      "category": "theater",
+      "date": "2026-05-30T23:00:00.000Z",
+      "venue": {
+        "name": "Bekir Sıtkı Sezgin Sok. No:168 Koşuyolu/İstanbul",
+        "city": "İstanbul",
+        "district": "Kadıköy",
+        "lat": 41.008859,
+        "lng": 29.033496
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/edepsiz-komedi-2023518114826.png",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/tiyatro/edepsiz-komedi-doruk-tyt",
+          "title": "Edepsiz Komedi Tiyatro Oyunu"
+        }
+      ]
+    },
+    {
+      "id": "anadolu atasehir boy gurbuz kadinlar lisesi sevinc zamansiz|2026-06-08|4100,2904",
+      "title": "Sevinç Ataşehir Gürbüz Boy Anadolu Lisesi Zamansız Kadınlar",
+      "category": "theater",
+      "date": "2026-06-08T20:00:00.000Z",
+      "venue": {
+        "name": "Hasanpaşa, İkbaliye Sk. No:39, 34722 Kadıköy/İstanbul",
+        "city": "İstanbul",
+        "district": "Kadıköy",
+        "lat": 40.997146,
+        "lng": 29.042671
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/sevinc-atasehir-gurbuz-boy-anadolu-lisesi-zamansiz-kadinlar-20265181548422277d8ffd1ff4c618ec045bc55de32c7.jpg",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/tiyatro/sevinc-atasehir-gurbuz-boy-anadolu-lisesi-zamansiz-kadinlar",
+          "title": "Sevinç Ataşehir Gürbüz Boy Anadolu Lisesi Zamansız Kadınlar"
         }
       ]
     },
@@ -1800,27 +1925,6 @@
       ]
     },
     {
-      "id": "anadolu atasehir boy gurbuz kadinlar lisesi sevinc zamansiz|2026-06-08|4100,2904",
-      "title": "Sevinç Ataşehir Gürbüz Boy Anadolu Lisesi Zamansız Kadınlar",
-      "category": "theater",
-      "date": "2026-06-08T20:00:00.000Z",
-      "venue": {
-        "name": "Hasanpaşa, İkbaliye Sk. No:39, 34722 Kadıköy/İstanbul",
-        "city": "İstanbul",
-        "district": "Kadıköy",
-        "lat": 40.997146,
-        "lng": 29.042671
-      },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/sevinc-atasehir-gurbuz-boy-anadolu-lisesi-zamansiz-kadinlar-20265181548422277d8ffd1ff4c618ec045bc55de32c7.jpg",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/tiyatro/sevinc-atasehir-gurbuz-boy-anadolu-lisesi-zamansiz-kadinlar",
-          "title": "Sevinç Ataşehir Gürbüz Boy Anadolu Lisesi Zamansız Kadınlar"
-        }
-      ]
-    },
-    {
       "id": "cocugu oyunu yildizlarin|2026-10-04|3700,3519",
       "title": "Yıldızların Çocuğu Tiyatro Oyunu",
       "category": "theater",
@@ -1859,90 +1963,6 @@
           "source": "biletinial",
           "url": "https://biletinial.com/tr-tr/tiyatro/bam-bam-tam",
           "title": "Bam Bam Tam Tiyatro Oyunu"
-        }
-      ]
-    },
-    {
-      "id": "oyunu sayin yargic|2026-06-19|3990,3286",
-      "title": "Sayın Yargıç Tiyatro Oyunu",
-      "category": "theater",
-      "date": "2026-06-19T20:00:00.000Z",
-      "venue": {
-        "name": "Güvenevler Mahallesi, Güneş Sk. No:21, 06690 Çankaya/Ankara",
-        "city": "Ankara",
-        "district": "Çankaya",
-        "lat": 39.898555,
-        "lng": 32.8577
-      },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/sayin-yargic-20249495016568c1be92d5e4ebaab71d8498a6e16df.jpg",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/tiyatro/sayin-yargic",
-          "title": "Sayın Yargıç Tiyatro Oyunu"
-        }
-      ]
-    },
-    {
-      "id": "cuneyt gosterisi nergiz stand up|2026-05-30|3990,3265",
-      "title": "Cüneyt Nergiz Stand Up Gösterisi",
-      "category": "theater",
-      "date": "2026-05-30T20:30:00.000Z",
-      "venue": {
-        "name": "Bağlica Mahallesi̇ Eti̇mesgut Bulvari - 110/AA Eti̇mesgut Ankara",
-        "city": "Ankara",
-        "district": "Etimesgut",
-        "lat": 39.895687,
-        "lng": 32.647022
-      },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/cuneyt-nergiz-stand-up-2026429141837d28ed2d7bd334fec819778fb206ec94f.png",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/tiyatro/cuneyt-nergiz-standup",
-          "title": "Cüneyt Nergiz Stand Up Gösterisi"
-        }
-      ]
-    },
-    {
-      "id": "hasoglu stand tahsin up|2026-06-17|3688,3071",
-      "title": "Tahsin Hasoğlu Stand up",
-      "category": "theater",
-      "date": "2026-06-17T21:00:00.000Z",
-      "venue": {
-        "name": "Meltem, Beach Park No:18, 07030 Muratpaşa/Antalya",
-        "city": "Antalya",
-        "district": "Muratpaşa",
-        "lat": 36.880798,
-        "lng": 30.706207
-      },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/tahsin-hasoglu-bkm-20251118105542b1c4c105cf994a3ea7575a7f209e93db.png",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/tiyatro/tahsin-hasoglu-stand-up",
-          "title": "Tahsin Hasoğlu Stand up"
-        }
-      ]
-    },
-    {
-      "id": "oyunu toz|2026-06-11|4097,2906",
-      "title": "Toz Tiyatro Oyunu",
-      "category": "theater",
-      "date": "2026-06-11T19:00:00.000Z",
-      "venue": {
-        "name": "Caddebostan, Bağdat Cad. Haldun Taner Sok. No:11, 34728 Kadıköy/İstanbul",
-        "city": "İstanbul",
-        "district": "Kadıköy",
-        "lat": 40.96754,
-        "lng": 29.064817
-      },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/toz-2021122412251.jpeg",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/tiyatro/toz-tiyatro-oyunu",
-          "title": "Toz Tiyatro Oyunu"
         }
       ]
     },
@@ -2010,48 +2030,6 @@
       ]
     },
     {
-      "id": "olly|2026-06-09|3844,2717",
-      "title": "Olly",
-      "category": "theater",
-      "date": "2026-06-09T20:30:00.000Z",
-      "venue": {
-        "name": "Çınarlı, 1561. Sk. No:28, 35170 Konak/İzmir",
-        "city": "İzmir",
-        "district": "Konak",
-        "lat": 38.438007,
-        "lng": 27.169458
-      },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/ollynin-hapishanesi-202652516315545e5332eca0e4baab32b3b1a56363ebb.jpeg",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/tiyatro/ollynin-hapishanesi",
-          "title": "Olly"
-        }
-      ]
-    },
-    {
-      "id": "|2026-06-03|3843,2714",
-      "title": "O",
-      "category": "theater",
-      "date": "2026-06-03T20:30:00.000Z",
-      "venue": {
-        "name": "Bilinmeyen Mekan",
-        "city": "İzmir",
-        "district": "Konak",
-        "lat": 38.42897,
-        "lng": 27.135215
-      },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/onu-kim-oldurdu-2026523192215b94a1e7dde714eedb3d03f1e81fc84bc.jpg",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/tiyatro/onu-kim-oldurdu",
-          "title": "O"
-        }
-      ]
-    },
-    {
       "id": "jakuzi|2026-07-24|4103,2897",
       "title": "Jakuzi Konseri",
       "category": "concert",
@@ -2073,70 +2051,23 @@
       ]
     },
     {
-      "id": "90 jj kafasi lar nihat sirdar|2026-07-11|4099,2913",
-      "title": "90’lar Kafası: Nihat Sırdar - JJ Konseri",
+      "id": "askin nur yengi|2026-09-25|4105,2899",
+      "title": "Aşkın Nur Yengi Konseri",
       "category": "concert",
-      "date": "2026-07-11T21:00:00.000Z",
+      "date": "2026-09-25T21:00:00.000Z",
       "venue": {
-        "name": "Barbaros, Watergarden AVM, Begonya Sk. No: 10, 34746 Ataşehir/İstanbul",
+        "name": "Harbiye, Taşkışla Cd. No:8, 34367 Şişli/İstanbul",
         "city": "İstanbul",
-        "district": "Ataşehir",
-        "lat": 40.9911,
-        "lng": 29.1314
+        "district": "Şişli",
+        "lat": 41.046363,
+        "lng": 28.989868
       },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/90lar-kafasi-nihat-sirdar-jj-202491814543cfc2f25b2ac2428697b0b88eac317058.jpg",
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/askin-nur-yengi-202657173014c80c2a9542204fbaa6c86cdff47dfd9f.jpg",
       "sources": [
         {
           "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/muzik/90lar-kafasi-nihat-sirdar-jj",
-          "title": "90’lar Kafası: Nihat Sırdar - JJ Konseri"
-        }
-      ]
-    },
-    {
-      "id": "gosteri kusti musti stand up yeni|2026-06-09|3699,3531",
-      "title": "Musti Kusti - Stand Up (Yeni Gösteri)",
-      "category": "theater",
-      "date": "2026-06-09T20:30:00.000Z",
-      "venue": {
-        "name": "Ahmet Remzi Yüreğir, Mahallesi, Erdal Acet Cd. No:1, 01130, 01130 Seyhan/Adana",
-        "city": "Adana",
-        "district": "Seyhan",
-        "lat": 36.993526,
-        "lng": 35.308731
-      },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/musti-kusti-stand-up-yeni-gosteri-202641202735c5ba9d166ba14d25a04fc642d8128cc0.jpg",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/tiyatro/musti-kusti-stand-up-yeni-gosteri",
-          "title": "Musti Kusti - Stand Up (Yeni Gösteri)"
-        }
-      ]
-    },
-    {
-      "id": "2026 bileti fivb gun kadinlar ligi maci milletler voleybol|2026-05-29|3992,3285",
-      "title": "2026 FIVB Kadınlar Voleybol Milletler Ligi 3.Gün Maçı Bileti",
-      "category": "sport",
-      "date": "2026-05-29T08:37:41.742Z",
-      "venue": {
-        "name": "Batı Sitesi Mahallesi, Ankara Hipodromu Kavşağı No:2, 06370 Altındağ/Ankara",
-        "city": "Ankara",
-        "district": "Ankara",
-        "lat": 39.920789,
-        "lng": 32.854048
-      },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/2026-fivb-kadinlar-voleybol-milletler-ligi-3gun-202642721583012bf67bf40314039aa01c22c2d4d0b1c.jpg",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/spor/2026-fivb-kadinlar-voleybol-milletler-ligi-3gun",
-          "title": "2026 FIVB Kadınlar Voleybol Milletler Ligi 3.Gün Maçı Bileti"
-        },
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/spor/2026-fivb-kadinlar-voleybol-milletler-ligi-5gun",
-          "title": "2026 FIVB Kadınlar Voleybol Milletler Ligi 5.Gün Maçı Bileti"
+          "url": "https://biletinial.com/tr-tr/muzik/askin-nur-yengi-konseri",
+          "title": "Aşkın Nur Yengi Konseri"
         }
       ]
     },
@@ -2162,6 +2093,27 @@
       ]
     },
     {
+      "id": "90 jj kafasi lar nihat sirdar|2026-07-11|4099,2913",
+      "title": "90’lar Kafası: Nihat Sırdar - JJ Konseri",
+      "category": "concert",
+      "date": "2026-07-11T21:00:00.000Z",
+      "venue": {
+        "name": "Barbaros, Watergarden AVM, Begonya Sk. No: 10, 34746 Ataşehir/İstanbul",
+        "city": "İstanbul",
+        "district": "Ataşehir",
+        "lat": 40.9911,
+        "lng": 29.1314
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/90lar-kafasi-nihat-sirdar-jj-202491814543cfc2f25b2ac2428697b0b88eac317058.jpg",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/muzik/90lar-kafasi-nihat-sirdar-jj",
+          "title": "90’lar Kafası: Nihat Sırdar - JJ Konseri"
+        }
+      ]
+    },
+    {
       "id": "balkan cagri journey serkan|2026-06-01|4103,2897",
       "title": "Serkan Çağrı Balkan Journey Konseri",
       "category": "concert",
@@ -2179,6 +2131,74 @@
           "source": "biletinial",
           "url": "https://biletinial.com/tr-tr/muzik/serkan-cagri-balkan-journey",
           "title": "Serkan Çağrı Balkan Journey Konseri"
+        }
+      ]
+    },
+    {
+      "id": "2026 bileti fivb gun kadinlar ligi maci milletler voleybol|2026-05-30|3992,3285",
+      "title": "2026 FIVB Kadınlar Voleybol Milletler Ligi 3.Gün Maçı Bileti",
+      "category": "sport",
+      "date": "2026-05-30T07:35:57.435Z",
+      "venue": {
+        "name": "Batı Sitesi Mahallesi, Ankara Hipodromu Kavşağı No:2, 06370 Altındağ/Ankara",
+        "city": "Ankara",
+        "district": "Ankara",
+        "lat": 39.920789,
+        "lng": 32.854048
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/2026-fivb-kadinlar-voleybol-milletler-ligi-3gun-202642721583012bf67bf40314039aa01c22c2d4d0b1c.jpg",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/spor/2026-fivb-kadinlar-voleybol-milletler-ligi-3gun",
+          "title": "2026 FIVB Kadınlar Voleybol Milletler Ligi 3.Gün Maçı Bileti"
+        },
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/spor/2026-fivb-kadinlar-voleybol-milletler-ligi-5gun",
+          "title": "2026 FIVB Kadınlar Voleybol Milletler Ligi 5.Gün Maçı Bileti"
+        }
+      ]
+    },
+    {
+      "id": "cinici khodaeifar ki lal resitali san shahrzad soprano|2026-06-19|3982,3288",
+      "title": "İki Soprano Şan Resitali Shahrzad Khodaeifar & Lal Çinici",
+      "category": "concert",
+      "date": "2026-06-19T20:00:00.000Z",
+      "venue": {
+        "name": "Galeria AVM Mutlukent Mah. 2432.Cad. No. 97 A/6",
+        "city": "Ankara",
+        "district": "Çankaya",
+        "lat": 39.824535,
+        "lng": 32.877704
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/iki-soprano-san-resitali-shahrzad-khodaeifar-lal-cinici-2026525162420130c9bfaab65465ca424636c8b994578.jpg",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/muzik/iki-soprano-san-resitali-shahrzad-khodaeifar-lal-cinici",
+          "title": "İki Soprano Şan Resitali Shahrzad Khodaeifar & Lal Çinici"
+        }
+      ]
+    },
+    {
+      "id": "atolyesi dans samba|2026-06-13|4104,2899",
+      "title": "Samba Dans Atölyesi",
+      "category": "concert",
+      "date": "2026-06-13T13:00:00.000Z",
+      "venue": {
+        "name": "Gümüşsuyu Mahallesi Mete Caddesi No:2 Beyoğlu/İSTANBUL",
+        "city": "İstanbul",
+        "district": "Beyoğlu",
+        "lat": 41.036739,
+        "lng": 28.987695
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/samba-dans-atolyesi-brezilya-ritimleri-yas-grubu-7-11-20264115152958ed4a799796476fbc5487f4e9625767.jpg",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/muzik/samba-dans-atolyesi-brezilya-ritimleri-yas-grubu-7-11-akm",
+          "title": "Samba Dans Atölyesi"
         }
       ]
     },
@@ -2204,6 +2224,27 @@
       ]
     },
     {
+      "id": "atolyesi oyun ritim|2026-06-07|4104,2899",
+      "title": "Oyun ve Ritim Atölyesi",
+      "category": "concert",
+      "date": "2026-06-07T16:00:00.000Z",
+      "venue": {
+        "name": "Gümüşsuyu Mahallesi Mete Caddesi No:2 Beyoğlu/İSTANBUL",
+        "city": "İstanbul",
+        "district": "Beyoğlu",
+        "lat": 41.036739,
+        "lng": 28.987695
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/oyun-ve-ritim-atolyesi-muzigin-kalbine-yolculuk-yas-grubu-4-6-20263131028558f46fb8626824ac19bb546f1f465032c.jpg",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/muzik/oyun-ve-ritim-atolyesi-muzigin-kalbine-yolculuk-yas-grubu-4-6-akm",
+          "title": "Oyun ve Ritim Atölyesi"
+        }
+      ]
+    },
+    {
       "id": "ozbi|2026-06-19|4104,2901",
       "title": "Ozbi Konseri",
       "category": "concert",
@@ -2225,10 +2266,52 @@
       ]
     },
     {
-      "id": "atolyesi boya ormanda pastel piknik temali|2026-06-13|4106,2892",
-      "title": "Ormanda Piknik Temalı Pastel Boya Atölyesi",
+      "id": "ogun sanlisoy|2026-06-19|3991,3286",
+      "title": "Ogün Sanlısoy Konseri",
       "category": "concert",
-      "date": "2026-06-13T17:00:00.000Z",
+      "date": "2026-06-19T21:00:00.000Z",
+      "venue": {
+        "name": "Kavaklıdere, Bestekar Cd No38/A, 06680 Çankaya/Ankara",
+        "city": "Ankara",
+        "district": "Çankaya",
+        "lat": 39.909667,
+        "lng": 32.8586
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/ogun-sanlisoy-202310151632502ea6747ff5ce451bbaa4acb47494074a.jpg",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/muzik/ogun-sanlisoy-konser",
+          "title": "Ogün Sanlısoy Konseri"
+        }
+      ]
+    },
+    {
+      "id": "100 cardinals muzik sunar|2026-11-26|4103,2897",
+      "title": "%100 Müzik Sunar: Cardinals Konseri",
+      "category": "concert",
+      "date": "2026-11-26T20:30:00.000Z",
+      "venue": {
+        "name": "Asmalı Mescit, Şehbender Sk. no:3, 34430 Beyoğlu/İstanbul",
+        "city": "İstanbul",
+        "district": "Beyoğlu",
+        "lat": 41.02972,
+        "lng": 28.97417
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/100-muzik-sunar-cardinals-2026469507ecc34d67526346c8822c65f98e8e5065.jpg",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/muzik/100-muzik-sunar-cardinals",
+          "title": "%100 Müzik Sunar: Cardinals Konseri"
+        }
+      ]
+    },
+    {
+      "id": "bacaklarim gosterimi olsaydi seni tekmelerdim|2026-06-26|4106,2892",
+      "title": "Bacaklarım Olsaydı Seni Tekmelerdim Gösterimi",
+      "category": "festival",
+      "date": "2026-06-26T21:30:00.000Z",
       "venue": {
         "name": "Bilinmeyen Mekan",
         "city": "İstanbul",
@@ -2236,12 +2319,54 @@
         "lat": 41.059613,
         "lng": 28.917755
       },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/ormanda-piknik-temali-pastel-boya-atolyesi-2026520175716a2f139188b634f1591875c67af52c03e.jpg",
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/if-i-had-legs-id-kick-you-bacaklarim-olsaydi-seni-tekmelerdim-acik-hava-gosteri-202652215172650ed6f2e1ade46b48768f4245131b811.jpg",
       "sources": [
         {
           "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/muzik/ormanda-piknik-temali-pastel-boya-atolyesi-akm",
-          "title": "Ormanda Piknik Temalı Pastel Boya Atölyesi"
+          "url": "https://biletinial.com/tr-tr/etkinlik/if-i-had-legs-id-kick-you-bacaklarim-olsaydi-seni-tekmelerdim-acik-hava-gosterimi",
+          "title": "Bacaklarım Olsaydı Seni Tekmelerdim Gösterimi"
+        }
+      ]
+    },
+    {
+      "id": "album cilt lansmani leliel|2026-06-18|4103,2897",
+      "title": "LELIEL Cilt I. Albüm Lansmanı Konseri",
+      "category": "concert",
+      "date": "2026-06-18T21:30:00.000Z",
+      "venue": {
+        "name": "Asmalı Mescit, Şehbender Sk. no:3, 34430 Beyoğlu/İstanbul",
+        "city": "İstanbul",
+        "district": "Beyoğlu",
+        "lat": 41.02972,
+        "lng": 28.97417
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/leliel-cilt-i-album-lansmani-202641155037913797c2390b4dd396b7e4c7200baa8b.jpeg",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/muzik/leliel-cilt-i-album-lansmani",
+          "title": "LELIEL Cilt I. Albüm Lansmanı Konseri"
+        }
+      ]
+    },
+    {
+      "id": "corporation thievery|2026-07-16|4108,2897",
+      "title": "Thievery Corporation Konseri",
+      "category": "concert",
+      "date": "2026-07-16T21:00:00.000Z",
+      "venue": {
+        "name": "Zorlu Center, Levazım Mah. Koru Sok. No:2/PSM/70 Zincirlikuyu, Beşiktaş / İstanbul",
+        "city": "İstanbul",
+        "district": "Beşiktaş",
+        "lat": 41.082012,
+        "lng": 28.965747
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/thievery-corporation-202622418219c72f34c558924a378309827f3416a714.jpg",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/muzik/thievery-corporation",
+          "title": "Thievery Corporation Konseri"
         }
       ]
     },
@@ -2276,23 +2401,86 @@
       ]
     },
     {
-      "id": "2000 90 dj lar ler ozge parti pop tigli turkce|2026-05-29|3991,3286",
-      "title": "Dj Özge Tığlı ile 90’lar 2000’ler Türkçe Pop Parti Konseri",
+      "id": "atolyesi boya ormanda pastel piknik temali|2026-06-13|4106,2892",
+      "title": "Ormanda Piknik Temalı Pastel Boya Atölyesi",
       "category": "concert",
-      "date": "2026-05-29T22:00:00.000Z",
+      "date": "2026-06-13T17:00:00.000Z",
       "venue": {
-        "name": "Kavaklıdere, 174. Sokak, Tunus Cd., 06680 Çankaya/Ankara",
-        "city": "Ankara",
-        "district": "Çankaya",
-        "lat": 39.908445,
-        "lng": 32.858352
+        "name": "Bilinmeyen Mekan",
+        "city": "İstanbul",
+        "district": "Gaziosmanpaşa",
+        "lat": 41.059613,
+        "lng": 28.917755
       },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/dj-ozge-tigli-ile-90lar-2000ler-turkce-pop-parti-2026542135247768072652524e049f48363a8986ee75.jpg",
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/ormanda-piknik-temali-pastel-boya-atolyesi-2026520175716a2f139188b634f1591875c67af52c03e.jpg",
       "sources": [
         {
           "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/muzik/dj-ozge-tigli-ile-90lar-2000ler-turkce-pop-parti",
-          "title": "Dj Özge Tığlı ile 90’lar 2000’ler Türkçe Pop Parti Konseri"
+          "url": "https://biletinial.com/tr-tr/muzik/ormanda-piknik-temali-pastel-boya-atolyesi-akm",
+          "title": "Ormanda Piknik Temalı Pastel Boya Atölyesi"
+        }
+      ]
+    },
+    {
+      "id": "demir mert|2026-07-14|4021,2904",
+      "title": "Mert Demir Konseri",
+      "category": "concert",
+      "date": "2026-07-14T21:00:00.000Z",
+      "venue": {
+        "name": "Soğanlı, 3. Osman Gazi Cd., 16190 Osmangazi̇/Bursa",
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "lat": 40.206446,
+        "lng": 29.040245
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/mert-demir-jj-2026569616c07cee25b2ca4c78a07c8ec8e9c6b629.png",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/muzik/mert-demir-jj",
+          "title": "Mert Demir Konseri"
+        }
+      ]
+    },
+    {
+      "id": "kordelio rebetiko|2026-07-19|3705,2736",
+      "title": "Rebetiko Kordelio Konseri",
+      "category": "concert",
+      "date": "2026-07-19T19:30:00.000Z",
+      "venue": {
+        "name": "Cumhuriyet Caddesi Müskebi Mahallesi No: 6 Ortakent Midtown Plaza BODRUM/Muğla",
+        "city": "Diğer",
+        "district": "Bodrum",
+        "lat": 37.054973,
+        "lng": 27.355973
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/rebetiko-kordelio-202652513433747b296bf78bb4ee0a6b0912b4f056e00.jpg",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/muzik/rebetiko-kordelio",
+          "title": "Rebetiko Kordelio Konseri"
+        }
+      ]
+    },
+    {
+      "id": "dj kacan sibel|2026-07-25|4076,2995",
+      "title": "DJ Sibel Kaçan Konseri",
+      "category": "concert",
+      "date": "2026-07-25T21:00:00.000Z",
+      "venue": {
+        "name": "41 Burda AVM - Ömer Türkçakal Blv. No:7 İzmit, Kocaeli",
+        "city": "Kocaeli",
+        "district": "İzmit",
+        "lat": 40.756946,
+        "lng": 29.945306
+      },
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/dj-sibel-kacan-jj-202510915551333563d25e80b4ec98ba8570b7aa7b26f.jpg",
+      "sources": [
+        {
+          "source": "biletinial",
+          "url": "https://biletinial.com/tr-tr/muzik/dj-sibel-kacan-jj",
+          "title": "DJ Sibel Kaçan Konseri"
         }
       ]
     },
@@ -2318,229 +2506,31 @@
       ]
     },
     {
-      "id": "90|2026-06-07|4106,2892",
-      "title": "90",
-      "category": "concert",
-      "date": "2026-06-07T14:00:00.000Z",
+      "id": "cocuk yaratici|2026-06-06|4104,2899",
+      "title": "7. Yaratıcı Çocuk Festivali",
+      "category": "festival",
+      "date": "2026-06-06T10:00:00.000Z",
       "venue": {
-        "name": "Bilinmeyen Mekan",
-        "city": "İstanbul",
-        "district": "Gaziosmanpaşa",
-        "lat": 41.059613,
-        "lng": 28.917755
-      },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/90lar-festivali-etkinligi-2026523101193e6ca8db7ad843dda2d5d6c94f941821.png",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/muzik/90lar-festivali-etkinligi",
-          "title": "90"
-        }
-      ]
-    },
-    {
-      "id": "gorsev kerem trio|2026-06-16|3704,2740",
-      "title": "Kerem Görsev Trio Konseri",
-      "category": "concert",
-      "date": "2026-06-16T22:00:00.000Z",
-      "venue": {
-        "name": "Çırkan, Halide Edip Adıvar Cd. No: 7, 48400 Bodrum/Muğla",
-        "city": "Diğer",
-        "district": "Bodrum",
-        "lat": 37.044853,
-        "lng": 27.397994
-      },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/kerem-gorsev-trio-2026528913454a60f37919c04393a49019b2caca767b.jpg",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/muzik/kerem-gorsev-trio",
-          "title": "Kerem Görsev Trio Konseri"
-        }
-      ]
-    },
-    {
-      "id": "yasar|2026-06-05|3985,3282",
-      "title": "Yaşar Konseri",
-      "category": "concert",
-      "date": "2026-06-05T20:00:00.000Z",
-      "venue": {
-        "name": "Oran Mahallesi Kudüs Caddesi Panora AVM Karşısı Çankaya/ANKARA",
-        "city": "Ankara",
-        "district": "Çankaya",
-        "lat": 39.849895,
-        "lng": 32.82261
-      },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/yasar-turne-jj-2026220919b08b75424d2d42f49b5f68c295a50054.jpeg",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/muzik/yasar-turne-jj",
-          "title": "Yaşar Konseri"
-        }
-      ]
-    },
-    {
-      "id": "kalben|2026-06-26|4105,2900",
-      "title": "Kalben Konseri",
-      "category": "concert",
-      "date": "2026-06-26T21:00:00.000Z",
-      "venue": {
-        "name": "Tema World AVM - Yan Yol Cad. No: 33/1 Atakent Küçükçekmece, İstanbul, Türkiye",
-        "city": "İstanbul",
-        "district": "Küçükçekmece",
-        "lat": 41.050632,
-        "lng": 28.99751
-      },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/kalben-jj-202641012115f4f73c5accaf4e849ca2057b0edc99b8.jpeg",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/muzik/kalben-jj",
-          "title": "Kalben Konseri"
-        }
-      ]
-    },
-    {
-      "id": "fest summer tribute|2026-08-08|4104,2901",
-      "title": "Summer Tribute Fest Konseri",
-      "category": "concert",
-      "date": "2026-08-08T21:00:00.000Z",
-      "venue": {
-        "name": "Cihannüma, Hasfırın Cd. No:26, 34353 Beşiktaş/İstanbul",
-        "city": "İstanbul",
-        "district": "Beşiktaş",
-        "lat": 41.043352,
-        "lng": 29.006143
-      },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/summer-tribute-fest-20263101344139f2cea7b3ab94f14b9bf31e90f779573.jpeg",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/muzik/summer-tribute-fest",
-          "title": "Summer Tribute Fest Konseri"
-        }
-      ]
-    },
-    {
-      "id": "akkor gazino gecesi kamuran|2026-06-06|4107,2900",
-      "title": "Kamuran Akkor ile Gazino Gecesi Konseri",
-      "category": "concert",
-      "date": "2026-06-06T22:30:00.000Z",
-      "venue": {
-        "name": "Fulya, Quasar Tower, Büyükdere Cd. no:76, 34394 Şişli/İstanbul",
+        "name": "Harbiye, Kadırgalar Cd. No:4, 34367 Şişli/İstanbul",
         "city": "İstanbul",
         "district": "Şişli",
-        "lat": 41.065429,
-        "lng": 29.000795
+        "lat": 41.042964,
+        "lng": 28.993053
       },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/kamuran-akkor-ile-gazino-gecesi-202410211202889eff74660864e52afe406ec14377a87.jpeg",
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/7-yaratici-cocuk-festivali-2026519124113f7b5ee3465824769993ac0789e9bb3af.jpg",
       "sources": [
         {
           "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/muzik/kamuran-akkor-ile-gazino-gecesi",
-          "title": "Kamuran Akkor ile Gazino Gecesi Konseri"
+          "url": "https://biletinial.com/tr-tr/etkinlik/7-yaratici-cocuk-festivali",
+          "title": "7. Yaratıcı Çocuk Festivali"
         }
       ]
     },
     {
-      "id": "bedavaci derya|2026-06-19|3985,3282",
-      "title": "Derya Bedavacı",
-      "category": "concert",
-      "date": "2026-06-19T18:00:00.000Z",
-      "venue": {
-        "name": "Oran Açıkhava Sahnesi",
-        "city": "Ankara",
-        "district": "Çankaya",
-        "lat": 39.849895,
-        "lng": 32.82261
-      },
-      "priceMin": 3350,
-      "priceMax": 3350,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/derya-bedavaci--56040.jpg",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/muzik/derya-bedavaci",
-          "title": "Derya Bedavacı Konseri"
-        },
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/ankara/etkinlik/derya-bedavaci-",
-          "title": "Derya Bedavacı",
-          "priceMin": 3350,
-          "priceMax": 3350
-        }
-      ]
-    },
-    {
-      "id": "arctic monkeys tribute|2026-06-12|4099,2902",
-      "title": "Arctic Monkeys Tribute Konseri",
-      "category": "concert",
-      "date": "2026-06-12T22:00:00.000Z",
-      "venue": {
-        "name": "Validei Atik, Neşet Ömer Sk. 5-7/A, 34710 Kadıköy/İstanbul",
-        "city": "İstanbul",
-        "district": "Kadıköy",
-        "lat": 40.98973,
-        "lng": 29.022808
-      },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/arctic-monkeys-tribute-2022513112427.jpg",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/muzik/arctic-monkeys-tribute-if",
-          "title": "Arctic Monkeys Tribute Konseri"
-        }
-      ]
-    },
-    {
-      "id": "after class vol|2026-06-02|3992,3286",
-      "title": "After Class Vol.1 Konseri",
-      "category": "concert",
-      "date": "2026-06-02T20:00:00.000Z",
-      "venue": {
-        "name": "MEŞRUTİYET MAHALLESİ, KONUR SOKAK NO:59/3-4-5 KIZILAY/ÇANKAYA/ANKARA",
-        "city": "Ankara",
-        "district": "Çankaya",
-        "lat": 39.915229,
-        "lng": 32.857147
-      },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/after-class-vol1-202651317184704e980d0b57a4b98ab3c392376f3fceb.jpg",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/muzik/after-class-vol1",
-          "title": "After Class Vol.1 Konseri"
-        }
-      ]
-    },
-    {
-      "id": "strings|2026-06-12|4099,2903",
-      "title": "4 Strings Konseri",
-      "category": "concert",
-      "date": "2026-06-12T18:30:00.000Z",
-      "venue": {
-        "name": "Osmanağa, Halil Ethem Sokak, General Asım Gündüz Cd., 34714 Kadıköy/İstanbul",
-        "city": "İstanbul",
-        "district": "Kadıköy",
-        "lat": 40.98638,
-        "lng": 29.029994
-      },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/4-strings-2026429931382bc9509a6c5410e80ce0cd32623909d.jpg",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/muzik/4-strings",
-          "title": "4 Strings Konseri"
-        }
-      ]
-    },
-    {
-      "id": "2026 asamasi cev eurovolley grup kombine satisi|2026-05-29|4098,2887",
+      "id": "2026 asamasi cev eurovolley grup kombine satisi|2026-05-30|4098,2887",
       "title": "CEV EuroVolley 2026 Grup Aşaması Kombine Satışı",
       "category": "sport",
-      "date": "2026-05-29T08:37:47.766Z",
+      "date": "2026-05-30T07:36:04.744Z",
       "venue": {
         "name": "Zuhuratbaba, Ataköy Blv. No:14, 34147 Bakırköy/İstanbul",
         "city": "İstanbul",
@@ -2558,65 +2548,23 @@
       ]
     },
     {
-      "id": "acik gosterimi hava sari zarflar|2026-06-30|4106,2892",
-      "title": "Sarı Zarflar - Açık Hava Gösterimi",
-      "category": "festival",
-      "date": "2026-06-30T21:30:00.000Z",
+      "id": "ankara burana carmina dob|2026-06-26|3993,3285",
+      "title": "Carmina Burana - Ankara DOB",
+      "category": "musical",
+      "date": "2026-06-26T20:00:00.000Z",
       "venue": {
-        "name": "Bilinmeyen Mekan",
-        "city": "İstanbul",
-        "district": "Gaziosmanpaşa",
-        "lat": 41.059613,
-        "lng": 28.917755
+        "name": "Doğanbey Mahallesi، Talatpaşa Blv No:38, 06050 Altındağ/Ankara",
+        "city": "Ankara",
+        "district": "Altındağ",
+        "lat": 39.934761,
+        "lng": 32.849884
       },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/sari-zarflar-acik-hava-gosterimi-2026522151951f6d9e9b863284000aa0dbbb54191870d.jpg",
+      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/carmina-burana-ankara-dob-2026430153816cd2cf401181146c9ac1c5b73bdea345c.jpg",
       "sources": [
         {
           "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/etkinlik/sari-zarflar-acik-hava-gosterimi",
-          "title": "Sarı Zarflar - Açık Hava Gösterimi"
-        }
-      ]
-    },
-    {
-      "id": "etkinligi jumps night of|2026-12-19|4099,2911",
-      "title": "Night of the Jumps Etkinliği",
-      "category": "festival",
-      "date": "2026-12-19T21:00:00.000Z",
-      "venue": {
-        "name": "Barbaros Mah, Ihlamur Bv, 34746 Ataşehir/İstanbul",
-        "city": "İstanbul",
-        "district": "Ataşehir",
-        "lat": 40.992662,
-        "lng": 29.105798
-      },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/night-of-the-jumps-2026416112028e62c894262be406aa1e2aa3d1f3be2f6.png",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/etkinlik/night-of-the-jumps",
-          "title": "Night of the Jumps Etkinliği"
-        }
-      ]
-    },
-    {
-      "id": "akrobatik cimnastik dans hava sampiyonasi|2026-06-14|3690,3073",
-      "title": "Akrobatik Dans ve Hava Cimnastik Şampiyonası",
-      "category": "festival",
-      "date": "2026-06-14T12:00:00.000Z",
-      "venue": {
-        "name": "Doğuyaka Mah. 1219 Sk. No:9  Muratpaşa/Antalya",
-        "city": "Antalya",
-        "district": "Muratpaşa",
-        "lat": 36.897663,
-        "lng": 30.73143
-      },
-      "imageUrl": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/2-antalya-sirk-festivali-akrobatik-dans-ve-hava-cimnastik-sampiyonasi-2026589314860e8f50f407242ba80dcd98c7709d2ae.jpg",
-      "sources": [
-        {
-          "source": "biletinial",
-          "url": "https://biletinial.com/tr-tr/etkinlik/2-antalya-sirk-festivali-akrobatik-dans-ve-hava-cimnastik-sampiyonasi",
-          "title": "Akrobatik Dans ve Hava Cimnastik Şampiyonası"
+          "url": "https://biletinial.com/tr-tr/opera-bale/carmina-burana-ankara-dob",
+          "title": "Carmina Burana - Ankara DOB"
         }
       ]
     },
@@ -2638,31 +2586,6 @@
           "source": "biletinial",
           "url": "https://biletinial.com/tr-tr/opera-bale/muzikli-adimlar-samsun-dob",
           "title": "Müzikli Adımlar - Samsun DOB"
-        }
-      ]
-    },
-    {
-      "id": "blok3 catedral la|2026-06-28|4104,2900",
-      "title": "Blok3: La Catedral",
-      "category": "concert",
-      "date": "2026-06-28T18:00:00.000Z",
-      "venue": {
-        "name": "BJK Tüpraş Stadyumu",
-        "city": "İstanbul",
-        "district": "Beşiktaş",
-        "lat": 41.0392,
-        "lng": 29.0034
-      },
-      "priceMin": 0,
-      "priceMax": 750,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/blok3-la-catedral-47434.jpg",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/blok3-la-catedral",
-          "title": "Blok3: La Catedral",
-          "priceMin": 0,
-          "priceMax": 750
         }
       ]
     },
@@ -2692,27 +2615,27 @@
       ]
     },
     {
-      "id": "long sunar weekend|2026-06-12|4105,2899",
-      "title": "+1 Sunar: Long Weekend",
+      "id": "blok3 catedral la|2026-06-28|4104,2900",
+      "title": "Blok3: La Catedral",
       "category": "concert",
-      "date": "2026-06-12T12:00:00.000Z",
+      "date": "2026-06-28T18:00:00.000Z",
       "venue": {
-        "name": "KüçükÇiftlik Park",
+        "name": "BJK Tüpraş Stadyumu",
         "city": "İstanbul",
-        "district": "Şişli",
-        "lat": 41.0476,
-        "lng": 28.9938
+        "district": "Beşiktaş",
+        "lat": 41.0392,
+        "lng": 29.0034
       },
-      "priceMin": 875,
-      "priceMax": 3000,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/1-sunar-long-weekend-20260515144615885-57fd0d91662c.jpg",
+      "priceMin": 0,
+      "priceMax": 0,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/blok3-la-catedral-47434.jpg",
       "sources": [
         {
           "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/arti1-sunar-long-weekend",
-          "title": "+1 Sunar: Long Weekend",
-          "priceMin": 875,
-          "priceMax": 3000
+          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/blok3-la-catedral",
+          "title": "Blok3: La Catedral",
+          "priceMin": 0,
+          "priceMax": 0
         }
       ]
     },
@@ -2738,6 +2661,31 @@
           "title": "Emel Sayın - Yeşilçam Senfonisi",
           "priceMin": 2250,
           "priceMax": 2250
+        }
+      ]
+    },
+    {
+      "id": "long sunar weekend|2026-06-12|4105,2899",
+      "title": "+1 Sunar: Long Weekend",
+      "category": "concert",
+      "date": "2026-06-12T12:00:00.000Z",
+      "venue": {
+        "name": "KüçükÇiftlik Park",
+        "city": "İstanbul",
+        "district": "Şişli",
+        "lat": 41.0476,
+        "lng": 28.9938
+      },
+      "priceMin": 875,
+      "priceMax": 3000,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/1-sunar-long-weekend-20260515144615885-57fd0d91662c.jpg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/arti1-sunar-long-weekend",
+          "title": "+1 Sunar: Long Weekend",
+          "priceMin": 875,
+          "priceMax": 3000
         }
       ]
     },
@@ -2842,31 +2790,6 @@
       ]
     },
     {
-      "id": "after mahmut official orhan party|2026-06-06|4107,2895",
-      "title": "Mahmut Orhan Official After Party",
-      "category": "concert",
-      "date": "2026-06-06T18:00:00.000Z",
-      "venue": {
-        "name": "Klein Phönix",
-        "city": "İstanbul",
-        "district": "Beşiktaş",
-        "lat": 41.065737,
-        "lng": 28.946793
-      },
-      "priceMin": 1500,
-      "priceMax": 2400,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/mahmut-orhan-official-after-party-20260517123718320-16df045202ed.jpg",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/mahmut-orhan-official-after-party",
-          "title": "Mahmut Orhan Official After Party",
-          "priceMin": 1500,
-          "priceMax": 2400
-        }
-      ]
-    },
-    {
       "id": "edis|2026-08-19|4105,2899",
       "title": "Edis",
       "category": "concert",
@@ -2888,6 +2811,31 @@
           "title": "Edis",
           "priceMin": 1950,
           "priceMax": 1950
+        }
+      ]
+    },
+    {
+      "id": "after mahmut official orhan party|2026-06-06|4107,2895",
+      "title": "Mahmut Orhan Official After Party",
+      "category": "concert",
+      "date": "2026-06-06T18:00:00.000Z",
+      "venue": {
+        "name": "Klein Phönix",
+        "city": "İstanbul",
+        "district": "Beşiktaş",
+        "lat": 41.065737,
+        "lng": 28.946793
+      },
+      "priceMin": 1500,
+      "priceMax": 2400,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/mahmut-orhan-official-after-party-20260517123718320-16df045202ed.jpg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/mahmut-orhan-official-after-party",
+          "title": "Mahmut Orhan Official After Party",
+          "priceMin": 1500,
+          "priceMax": 2400
         }
       ]
     },
@@ -2942,31 +2890,6 @@
       ]
     },
     {
-      "id": "melike sahin|2026-07-27|4105,2899",
-      "title": "Melike Şahin",
-      "category": "concert",
-      "date": "2026-07-27T18:00:00.000Z",
-      "venue": {
-        "name": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
-        "city": "İstanbul",
-        "district": "Şişli",
-        "lat": 41.0463,
-        "lng": 28.9874
-      },
-      "priceMin": 2300,
-      "priceMax": 2300,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/melike-sahin-konseri--35713.png",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/melike-sahin-konseri-",
-          "title": "Melike Şahin",
-          "priceMin": 2300,
-          "priceMax": 2300
-        }
-      ]
-    },
-    {
       "id": "mabel matiz|2026-07-25|4105,2899",
       "title": "Mabel Matiz",
       "category": "concert",
@@ -2987,6 +2910,31 @@
           "url": "https://www.bubilet.com.tr/istanbul/etkinlik/mabel-matiz-konseri-",
           "title": "Mabel Matiz",
           "priceMin": 2250,
+          "priceMax": 2300
+        }
+      ]
+    },
+    {
+      "id": "melike sahin|2026-07-27|4105,2899",
+      "title": "Melike Şahin",
+      "category": "concert",
+      "date": "2026-07-27T18:00:00.000Z",
+      "venue": {
+        "name": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+        "city": "İstanbul",
+        "district": "Şişli",
+        "lat": 41.0463,
+        "lng": 28.9874
+      },
+      "priceMin": 2300,
+      "priceMax": 2300,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/melike-sahin-konseri--35713.png",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/melike-sahin-konseri-",
+          "title": "Melike Şahin",
+          "priceMin": 2300,
           "priceMax": 2300
         }
       ]
@@ -3088,6 +3036,31 @@
           "title": "Derya Bedavacı Konseri",
           "priceMin": 2280,
           "priceMax": 5700
+        }
+      ]
+    },
+    {
+      "id": "cevriye|2026-06-10|4104,2886",
+      "title": "Cevriye Müzikali",
+      "category": "musical",
+      "date": "2026-06-10T17:00:00.000Z",
+      "venue": {
+        "name": "Sancaktepe Sahnesi",
+        "city": "İstanbul",
+        "district": "Bağcılar",
+        "lat": 41.03668,
+        "lng": 28.857128
+      },
+      "priceMin": 1000,
+      "priceMax": 1000,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/cevriye-muzikali-20260518115358819-57d41e44ac9e.jpg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/cevriye-muzikali",
+          "title": "Cevriye Müzikali",
+          "priceMin": 1000,
+          "priceMax": 1000
         }
       ]
     },
@@ -3242,31 +3215,6 @@
       ]
     },
     {
-      "id": "erener sertab|2026-08-01|3985,3282",
-      "title": "Sertab Erener Konseri",
-      "category": "concert",
-      "date": "2026-08-01T18:00:00.000Z",
-      "venue": {
-        "name": "Oran Açıkhava Sahnesi",
-        "city": "Ankara",
-        "district": "Çankaya",
-        "lat": 39.849895,
-        "lng": 32.82261
-      },
-      "priceMin": 3350,
-      "priceMax": 3350,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/sertab-erener-konseri--98140.jpg",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/ankara/etkinlik/sertab-erener-konseri-",
-          "title": "Sertab Erener Konseri",
-          "priceMin": 3350,
-          "priceMax": 3350
-        }
-      ]
-    },
-    {
       "id": "acidir ayrik gercekler la lker|2026-07-19|3985,3282",
       "title": "İlker Ayrık'la Gerçekler Acıdır",
       "category": "concert",
@@ -3288,6 +3236,31 @@
           "title": "İlker Ayrık'la Gerçekler Acıdır",
           "priceMin": 1500,
           "priceMax": 1500
+        }
+      ]
+    },
+    {
+      "id": "erener sertab|2026-08-01|3985,3282",
+      "title": "Sertab Erener Konseri",
+      "category": "concert",
+      "date": "2026-08-01T18:00:00.000Z",
+      "venue": {
+        "name": "Oran Açıkhava Sahnesi",
+        "city": "Ankara",
+        "district": "Çankaya",
+        "lat": 39.849895,
+        "lng": 32.82261
+      },
+      "priceMin": 3350,
+      "priceMax": 3350,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/sertab-erener-konseri--98140.jpg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/ankara/etkinlik/sertab-erener-konseri-",
+          "title": "Sertab Erener Konseri",
+          "priceMin": 3350,
+          "priceMax": 3350
         }
       ]
     },
@@ -3317,31 +3290,6 @@
       ]
     },
     {
-      "id": "hurmuz kocali|2026-07-01|3985,3282",
-      "title": "7 Kocalı Hürmüz Müzikali",
-      "category": "musical",
-      "date": "2026-07-01T18:00:00.000Z",
-      "venue": {
-        "name": "Oran Açıkhava Sahnesi",
-        "city": "Ankara",
-        "district": "Çankaya",
-        "lat": 39.849895,
-        "lng": 32.82261
-      },
-      "priceMin": 1850,
-      "priceMax": 1850,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/7-kocali-hurmuz--96385.png",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/ankara/etkinlik/7-kocali-hurmuz-",
-          "title": "7 Kocalı Hürmüz Müzikali",
-          "priceMin": 1850,
-          "priceMax": 1850
-        }
-      ]
-    },
-    {
       "id": "tilbe yildiz|2026-06-07|3985,3282",
       "title": "Yıldız Tilbe Konseri",
       "category": "concert",
@@ -3363,6 +3311,31 @@
           "title": "Yıldız Tilbe Konseri",
           "priceMin": 3350,
           "priceMax": 3350
+        }
+      ]
+    },
+    {
+      "id": "hurmuz kocali|2026-07-01|3985,3282",
+      "title": "7 Kocalı Hürmüz Müzikali",
+      "category": "musical",
+      "date": "2026-07-01T18:00:00.000Z",
+      "venue": {
+        "name": "Oran Açıkhava Sahnesi",
+        "city": "Ankara",
+        "district": "Çankaya",
+        "lat": 39.849895,
+        "lng": 32.82261
+      },
+      "priceMin": 1850,
+      "priceMax": 1850,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/7-kocali-hurmuz--96385.png",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/ankara/etkinlik/7-kocali-hurmuz-",
+          "title": "7 Kocalı Hürmüz Müzikali",
+          "priceMin": 1850,
+          "priceMax": 1850
         }
       ]
     },
@@ -3413,31 +3386,6 @@
           "title": "%100 Metal Sunar: Paradise Lost",
           "priceMin": 1320,
           "priceMax": 1320
-        }
-      ]
-    },
-    {
-      "id": "bulasikcilar|2026-09-28|3985,3282",
-      "title": "Bulaşıkçılar",
-      "category": "concert",
-      "date": "2026-09-28T18:00:00.000Z",
-      "venue": {
-        "name": "Oran Açıkhava Sahnesi",
-        "city": "Ankara",
-        "district": "Çankaya",
-        "lat": 39.849895,
-        "lng": 32.82261
-      },
-      "priceMin": 750,
-      "priceMax": 750,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/-bulasikcilar-65585.png",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/ankara/etkinlik/-bulasikcilar",
-          "title": "Bulaşıkçılar",
-          "priceMin": 750,
-          "priceMax": 750
         }
       ]
     },
@@ -3628,41 +3576,16 @@
         "lat": 39.920789,
         "lng": 32.854048
       },
-      "priceMin": 0,
-      "priceMax": 0,
+      "priceMin": 1600,
+      "priceMax": 1600,
       "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/-kenandogulukonseri--89231.png",
       "sources": [
         {
           "source": "bubilet",
           "url": "https://www.bubilet.com.tr/ankara/etkinlik/-kenandogulukonseri-",
           "title": "Kenan Doğulu Konseri",
-          "priceMin": 0,
-          "priceMax": 0
-        }
-      ]
-    },
-    {
-      "id": "ankara arem arman jw marriot|2026-06-13|3992,3285",
-      "title": "AREM & ARMAN @JW MARRIOT ANKARA",
-      "category": "concert",
-      "date": "2026-06-13T17:00:00.000Z",
-      "venue": {
-        "name": "Jw Marriott Ankara – Açık Hava Bahçe",
-        "city": "Ankara",
-        "district": "Ankara",
-        "lat": 39.920789,
-        "lng": 32.854048
-      },
-      "priceMin": 750,
-      "priceMax": 750,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/arem-arman-jw-marriot-ankara-93843.png",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/ankara/etkinlik/arem-arman-jw-marriot-ankara",
-          "title": "AREM & ARMAN @JW MARRIOT ANKARA",
-          "priceMin": 750,
-          "priceMax": 750
+          "priceMin": 1600,
+          "priceMax": 1600
         }
       ]
     },
@@ -3692,6 +3615,56 @@
       ]
     },
     {
+      "id": "ankara arem arman jw marriot|2026-06-13|3992,3285",
+      "title": "AREM & ARMAN @JW MARRIOT ANKARA",
+      "category": "concert",
+      "date": "2026-06-13T17:00:00.000Z",
+      "venue": {
+        "name": "Jw Marriott Ankara – Açık Hava Bahçe",
+        "city": "Ankara",
+        "district": "Ankara",
+        "lat": 39.920789,
+        "lng": 32.854048
+      },
+      "priceMin": 750,
+      "priceMax": 750,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/arem-arman-jw-marriot-ankara-93843.png",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/ankara/etkinlik/arem-arman-jw-marriot-ankara",
+          "title": "AREM & ARMAN @JW MARRIOT ANKARA",
+          "priceMin": 750,
+          "priceMax": 750
+        }
+      ]
+    },
+    {
+      "id": "bedavaci derya|2026-06-19|3985,3282",
+      "title": "Derya Bedavacı",
+      "category": "concert",
+      "date": "2026-06-19T18:00:00.000Z",
+      "venue": {
+        "name": "Oran Açıkhava Sahnesi",
+        "city": "Ankara",
+        "district": "Çankaya",
+        "lat": 39.849895,
+        "lng": 32.82261
+      },
+      "priceMin": 3350,
+      "priceMax": 3350,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/derya-bedavaci--56040.jpg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/ankara/etkinlik/derya-bedavaci-",
+          "title": "Derya Bedavacı",
+          "priceMin": 3350,
+          "priceMax": 3350
+        }
+      ]
+    },
+    {
       "id": "sonance|2026-07-04|3994,3280",
       "title": "Sonance Festival",
       "category": "festival",
@@ -3717,31 +3690,6 @@
       ]
     },
     {
-      "id": "gulsen|2026-06-26|3985,3282",
-      "title": "Gülşen Konseri",
-      "category": "concert",
-      "date": "2026-06-26T18:00:00.000Z",
-      "venue": {
-        "name": "Oran Açıkhava Sahnesi",
-        "city": "Ankara",
-        "district": "Çankaya",
-        "lat": 39.849895,
-        "lng": 32.82261
-      },
-      "priceMin": 3350,
-      "priceMax": 3350,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/-gulsen-konseri-80412.jpg",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/ankara/etkinlik/-gulsen-konseri",
-          "title": "Gülşen Konseri",
-          "priceMin": 3350,
-          "priceMax": 3350
-        }
-      ]
-    },
-    {
       "id": "b2b ertug galal hakkican hzr karakas overdaze presents rabarba rajj yubik|2026-06-19|3992,3285",
       "title": "Overdaze Presents // YUBIK-HZR-Galal-Ertuğ Karakaş-Hakkıcan b2b Rajj I Rabarba",
       "category": "concert",
@@ -3763,6 +3711,31 @@
           "title": "Overdaze Presents // YUBIK-HZR-Galal-Ertuğ Karakaş-Hakkıcan b2b Rajj I Rabarba",
           "priceMin": 500,
           "priceMax": 500
+        }
+      ]
+    },
+    {
+      "id": "gulsen|2026-06-26|3985,3282",
+      "title": "Gülşen Konseri",
+      "category": "concert",
+      "date": "2026-06-26T18:00:00.000Z",
+      "venue": {
+        "name": "Oran Açıkhava Sahnesi",
+        "city": "Ankara",
+        "district": "Çankaya",
+        "lat": 39.849895,
+        "lng": 32.82261
+      },
+      "priceMin": 3350,
+      "priceMax": 3350,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/-gulsen-konseri-80412.jpg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/ankara/etkinlik/-gulsen-konseri",
+          "title": "Gülşen Konseri",
+          "priceMin": 3350,
+          "priceMax": 3350
         }
       ]
     },
@@ -3892,6 +3865,31 @@
       ]
     },
     {
+      "id": "ajda pekkan|2026-06-13|3843,2714",
+      "title": "Ajda Pekkan",
+      "category": "concert",
+      "date": "2026-06-13T18:00:00.000Z",
+      "venue": {
+        "name": "Kültürpark Açıkhava Tiyatrosu",
+        "city": "İzmir",
+        "district": "Konak",
+        "lat": 38.42897,
+        "lng": 27.135215
+      },
+      "priceMin": 1680,
+      "priceMax": 4760,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/ajda-pekkan-43879.jpg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/izmir/etkinlik/ajda-pekkan",
+          "title": "Ajda Pekkan",
+          "priceMin": 1680,
+          "priceMax": 4760
+        }
+      ]
+    },
+    {
       "id": "guldur guldur|2026-06-19|3843,2714",
       "title": "Güldür Güldür Show",
       "category": "concert",
@@ -3917,10 +3915,10 @@
       ]
     },
     {
-      "id": "kampi one vibe|2026-05-29|3839,2704",
+      "id": "kampi one vibe|2026-05-30|3839,2704",
       "title": "ONE VIBE KAMPI",
       "category": "concert",
-      "date": "2026-05-29T11:00:00.000Z",
+      "date": "2026-05-30T11:00:00.000Z",
       "venue": {
         "name": "Bueno Beach Club Foça",
         "city": "İzmir",
@@ -3928,7 +3926,7 @@
         "lat": 38.393363,
         "lng": 27.041864
       },
-      "priceMin": 0,
+      "priceMin": 1000,
       "priceMax": 2500,
       "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/one-vibe-kampi-40208.png",
       "sources": [
@@ -3936,33 +3934,8 @@
           "source": "bubilet",
           "url": "https://www.bubilet.com.tr/izmir/etkinlik/one-vibe-kampi",
           "title": "ONE VIBE KAMPI",
-          "priceMin": 0,
+          "priceMin": 1000,
           "priceMax": 2500
-        }
-      ]
-    },
-    {
-      "id": "ajda pekkan|2026-06-13|3843,2714",
-      "title": "Ajda Pekkan",
-      "category": "concert",
-      "date": "2026-06-13T18:00:00.000Z",
-      "venue": {
-        "name": "Kültürpark Açıkhava Tiyatrosu",
-        "city": "İzmir",
-        "district": "Konak",
-        "lat": 38.42897,
-        "lng": 27.135215
-      },
-      "priceMin": 1680,
-      "priceMax": 4760,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/ajda-pekkan-43879.jpg",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/izmir/etkinlik/ajda-pekkan",
-          "title": "Ajda Pekkan",
-          "priceMin": 1680,
-          "priceMax": 4760
         }
       ]
     },
@@ -4017,31 +3990,6 @@
       ]
     },
     {
-      "id": "ata demirer gazinosu|2026-07-20|3843,2714",
-      "title": "Ata Demirer Gazinosu",
-      "category": "concert",
-      "date": "2026-07-20T18:00:00.000Z",
-      "venue": {
-        "name": "Kültürpark Açıkhava Tiyatrosu",
-        "city": "İzmir",
-        "district": "Konak",
-        "lat": 38.42897,
-        "lng": 27.135215
-      },
-      "priceMin": 2750,
-      "priceMax": 3520,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/ata-demirer-gazinosu-97820.jpg",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/izmir/etkinlik/ata-demirer-gazinosu",
-          "title": "Ata Demirer Gazinosu",
-          "priceMin": 2750,
-          "priceMax": 3520
-        }
-      ]
-    },
-    {
       "id": "evgeny grinko|2026-09-29|3843,2714",
       "title": "Evgeny Grinko Konseri",
       "category": "concert",
@@ -4063,6 +4011,31 @@
           "title": "Evgeny Grinko Konseri",
           "priceMin": 900,
           "priceMax": 900
+        }
+      ]
+    },
+    {
+      "id": "ata demirer gazinosu|2026-07-20|3843,2714",
+      "title": "Ata Demirer Gazinosu",
+      "category": "concert",
+      "date": "2026-07-20T18:00:00.000Z",
+      "venue": {
+        "name": "Kültürpark Açıkhava Tiyatrosu",
+        "city": "İzmir",
+        "district": "Konak",
+        "lat": 38.42897,
+        "lng": 27.135215
+      },
+      "priceMin": 2750,
+      "priceMax": 3520,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/ata-demirer-gazinosu-97820.jpg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/izmir/etkinlik/ata-demirer-gazinosu",
+          "title": "Ata Demirer Gazinosu",
+          "priceMin": 2750,
+          "priceMax": 3520
         }
       ]
     },
@@ -4167,27 +4140,27 @@
       ]
     },
     {
-      "id": "fideles klein sommer|2026-05-29|3838,2694",
-      "title": "Fideles | Sommer Klein",
+      "id": "guldur guldur|2026-06-20|3843,2714",
+      "title": "Güldür Güldür Show",
       "category": "concert",
-      "date": "2026-05-29T17:00:00.000Z",
+      "date": "2026-06-20T18:00:00.000Z",
       "venue": {
-        "name": "Sommer Klein Çeşme",
+        "name": "Kültürpark Açıkhava Tiyatrosu",
         "city": "İzmir",
-        "district": "Narlıdere",
-        "lat": 38.383312,
-        "lng": 26.940368
+        "district": "Konak",
+        "lat": 38.42897,
+        "lng": 27.135215
       },
-      "priceMin": 1500,
-      "priceMax": 1500,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/fideles-sommer-klein-20260526115152642-b06b421f3b48.png",
+      "priceMin": 1870,
+      "priceMax": 1870,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/guldur-guldur--show-88571.png",
       "sources": [
         {
           "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/izmir/etkinlik/fideles-sommer-klein",
-          "title": "Fideles | Sommer Klein",
-          "priceMin": 1500,
-          "priceMax": 1500
+          "url": "https://www.bubilet.com.tr/izmir/etkinlik/guldur-guldur--show",
+          "title": "Güldür Güldür Show",
+          "priceMin": 1870,
+          "priceMax": 1870
         }
       ]
     },
@@ -4217,31 +4190,6 @@
       ]
     },
     {
-      "id": "guldur guldur|2026-06-20|3843,2714",
-      "title": "Güldür Güldür Show",
-      "category": "concert",
-      "date": "2026-06-20T18:00:00.000Z",
-      "venue": {
-        "name": "Kültürpark Açıkhava Tiyatrosu",
-        "city": "İzmir",
-        "district": "Konak",
-        "lat": 38.42897,
-        "lng": 27.135215
-      },
-      "priceMin": 1870,
-      "priceMax": 1870,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/guldur-guldur--show-88571.png",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/izmir/etkinlik/guldur-guldur--show",
-          "title": "Güldür Güldür Show",
-          "priceMin": 1870,
-          "priceMax": 1870
-        }
-      ]
-    },
-    {
       "id": "can epic sibel symphony|2026-06-24|3843,2714",
       "title": "An Epic Symphony & Sibel Can",
       "category": "concert",
@@ -4253,16 +4201,16 @@
         "lat": 38.42897,
         "lng": 27.135215
       },
-      "priceMin": 1925,
-      "priceMax": 1925,
+      "priceMin": 2970,
+      "priceMax": 2970,
       "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/an-epic-symphony-sibel-can-99690.png",
       "sources": [
         {
           "source": "bubilet",
           "url": "https://www.bubilet.com.tr/izmir/etkinlik/an-epic-symphony-sibel-can",
           "title": "An Epic Symphony & Sibel Can",
-          "priceMin": 1925,
-          "priceMax": 1925
+          "priceMin": 2970,
+          "priceMax": 2970
         }
       ]
     },
@@ -4342,31 +4290,6 @@
       ]
     },
     {
-      "id": "levent yuksel|2026-06-05|3843,2714",
-      "title": "Levent Yüksel Konseri",
-      "category": "concert",
-      "date": "2026-06-05T18:00:00.000Z",
-      "venue": {
-        "name": "Kültürpark Açıkhava Tiyatrosu",
-        "city": "İzmir",
-        "district": "Konak",
-        "lat": 38.42897,
-        "lng": 27.135215
-      },
-      "priceMin": 1500,
-      "priceMax": 4000,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/-levent-yuksel-konseri-83911.jpg",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/izmir/etkinlik/-levent-yuksel-konseri",
-          "title": "Levent Yüksel Konseri",
-          "priceMin": 1500,
-          "priceMax": 4000
-        }
-      ]
-    },
-    {
       "id": "melike sahin|2026-06-14|3847,2722",
       "title": "Melike Şahin",
       "category": "concert",
@@ -4392,6 +4315,31 @@
       ]
     },
     {
+      "id": "levent yuksel|2026-06-05|3843,2714",
+      "title": "Levent Yüksel Konseri",
+      "category": "concert",
+      "date": "2026-06-05T18:00:00.000Z",
+      "venue": {
+        "name": "Kültürpark Açıkhava Tiyatrosu",
+        "city": "İzmir",
+        "district": "Konak",
+        "lat": 38.42897,
+        "lng": 27.135215
+      },
+      "priceMin": 1500,
+      "priceMax": 4000,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/-levent-yuksel-konseri-83911.jpg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/izmir/etkinlik/-levent-yuksel-konseri",
+          "title": "Levent Yüksel Konseri",
+          "priceMin": 1500,
+          "priceMax": 4000
+        }
+      ]
+    },
+    {
       "id": "adana and candles echoes|2026-06-12|3699,3533",
       "title": "Candles and Echoes - Adana",
       "category": "concert",
@@ -4403,7 +4351,7 @@
         "lat": 36.98636,
         "lng": 35.325286
       },
-      "priceMin": 500,
+      "priceMin": 890,
       "priceMax": 2500,
       "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/candles-and-echoes-cukurova-universitesi-50509.png",
       "sources": [
@@ -4411,7 +4359,7 @@
           "source": "bubilet",
           "url": "https://www.bubilet.com.tr/adana/etkinlik/candles-and-echoes-adana",
           "title": "Candles and Echoes - Adana",
-          "priceMin": 500,
+          "priceMin": 890,
           "priceMax": 2500
         }
       ]
@@ -4453,16 +4401,16 @@
         "lat": 37.032552,
         "lng": 35.331724
       },
-      "priceMin": 2495,
-      "priceMax": 2495,
+      "priceMin": 1995,
+      "priceMax": 1995,
       "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/don-quixote-50346.jpg",
       "sources": [
         {
           "source": "bubilet",
           "url": "https://www.bubilet.com.tr/adana/etkinlik/don-quixote",
           "title": "Don Quixote (Don Kişot)",
-          "priceMin": 2495,
-          "priceMax": 2495
+          "priceMin": 1995,
+          "priceMax": 1995
         }
       ]
     },
@@ -4767,31 +4715,6 @@
       ]
     },
     {
-      "id": "fis melis|2026-10-31|3699,3533",
-      "title": "Melis Fis Konseri",
-      "category": "concert",
-      "date": "2026-10-31T14:00:00.000Z",
-      "venue": {
-        "name": "01 Burda PGM Sahne - Adana",
-        "city": "Adana",
-        "district": "Seyhan",
-        "lat": 36.98636,
-        "lng": 35.325286
-      },
-      "priceMin": 1350,
-      "priceMax": 1350,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/melis-fis--konseri-55119.jpg",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/adana/etkinlik/melis-fis--konseri",
-          "title": "Melis Fis Konseri",
-          "priceMin": 1350,
-          "priceMax": 1350
-        }
-      ]
-    },
-    {
       "id": "hyde jekyll|2026-06-20|3703,3533",
       "title": "Jekyll & Hyde",
       "category": "concert",
@@ -4813,6 +4736,31 @@
           "title": "Jekyll & Hyde",
           "priceMin": 1425,
           "priceMax": 1425
+        }
+      ]
+    },
+    {
+      "id": "fis melis|2026-10-31|3699,3533",
+      "title": "Melis Fis Konseri",
+      "category": "concert",
+      "date": "2026-10-31T14:00:00.000Z",
+      "venue": {
+        "name": "01 Burda PGM Sahne - Adana",
+        "city": "Adana",
+        "district": "Seyhan",
+        "lat": 36.98636,
+        "lng": 35.325286
+      },
+      "priceMin": 1350,
+      "priceMax": 1350,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/melis-fis--konseri-55119.jpg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/adana/etkinlik/melis-fis--konseri",
+          "title": "Melis Fis Konseri",
+          "priceMin": 1350,
+          "priceMax": 1350
         }
       ]
     },
@@ -4917,5 +4865,5 @@
       ]
     }
   ],
-  "ingestedAt": "2026-05-29T08:41:27.149Z"
+  "ingestedAt": "2026-05-30T07:39:19.632Z"
 }
