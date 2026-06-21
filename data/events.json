@@ -1,10 +1,10 @@
 {
   "events": [
     {
-      "id": "stanbul tarkan|2026-07-04|4109,2902",
+      "id": "stanbul tarkan|2026-07-05|4109,2902",
       "title": "Tarkan İstanbul Konseri",
       "category": "concert",
-      "date": "2026-07-04T21:00:00.000Z",
+      "date": "2026-07-05T21:00:00.000Z",
       "venue": {
         "name": "Volkswagen Arena",
         "city": "İstanbul",
@@ -26,10 +26,10 @@
       ]
     },
     {
-      "id": "aksu sezen|2026-07-12|4105,2899",
+      "id": "aksu sezen|2026-07-13|4105,2899",
       "title": "Sezen Aksu - Harbiye",
       "category": "concert",
-      "date": "2026-07-12T21:00:00.000Z",
+      "date": "2026-07-13T21:00:00.000Z",
       "venue": {
         "name": "Harbiye Cemil Topuzlu Açıkhava",
         "city": "İstanbul",
@@ -65,10 +65,10 @@
       ]
     },
     {
-      "id": "mabel matiz|2026-07-20|4105,2899",
+      "id": "mabel matiz|2026-07-21|4105,2899",
       "title": "Mabel Matiz Konseri",
       "category": "concert",
-      "date": "2026-07-20T21:00:00.000Z",
+      "date": "2026-07-21T21:00:00.000Z",
       "venue": {
         "name": "KüçükÇiftlik Park",
         "city": "İstanbul",
@@ -90,10 +90,10 @@
       ]
     },
     {
-      "id": "besiktas teoman|2026-06-27|4104,2901",
+      "id": "besiktas teoman|2026-06-28|4104,2901",
       "title": "Teoman - IF Beşiktaş",
       "category": "concert",
-      "date": "2026-06-27T22:00:00.000Z",
+      "date": "2026-06-28T22:00:00.000Z",
       "venue": {
         "name": "IF Performance Hall Beşiktaş",
         "city": "İstanbul",
@@ -115,10 +115,10 @@
       ]
     },
     {
-      "id": "mor otesi stanbul|2026-07-15|4107,2902",
+      "id": "mor otesi stanbul|2026-07-16|4107,2902",
       "title": "MOR VE ÖTESİ İstanbul",
       "category": "concert",
-      "date": "2026-07-15T21:00:00.000Z",
+      "date": "2026-07-16T21:00:00.000Z",
       "venue": {
         "name": "Zorlu PSM",
         "city": "İstanbul",
@@ -147,10 +147,10 @@
       ]
     },
     {
-      "id": "erener sertab|2026-07-30|4108,2903",
+      "id": "erener sertab|2026-07-31|4108,2903",
       "title": "SERTAB ERENER Konseri",
       "category": "concert",
-      "date": "2026-07-30T21:00:00.000Z",
+      "date": "2026-07-31T21:00:00.000Z",
       "venue": {
         "name": "UNIQ İstanbul",
         "city": "İstanbul",
@@ -179,10 +179,10 @@
       ]
     },
     {
-      "id": "derbi fb gs|2026-06-29|4110,2899",
+      "id": "derbi fb gs|2026-06-30|4110,2899",
       "title": "GS - FB Derbi",
       "category": "sport",
-      "date": "2026-06-29T19:00:00.000Z",
+      "date": "2026-06-30T19:00:00.000Z",
       "venue": {
         "name": "Türk Telekom Stadyumu",
         "city": "İstanbul",
@@ -204,10 +204,10 @@
       ]
     },
     {
-      "id": "ankara hadise|2026-07-02|3995,3286",
+      "id": "ankara hadise|2026-07-03|3995,3286",
       "title": "Hadise - Ankara Arena",
       "category": "concert",
-      "date": "2026-07-02T21:00:00.000Z",
+      "date": "2026-07-03T21:00:00.000Z",
       "venue": {
         "name": "Ankara Arena",
         "city": "Ankara",
@@ -236,10 +236,10 @@
       ]
     },
     {
-      "id": "ankara athena|2026-06-26|3991,3286",
+      "id": "ankara athena|2026-06-27|3991,3286",
       "title": "Athena - Jolly Joker Ankara",
       "category": "concert",
-      "date": "2026-06-26T22:00:00.000Z",
+      "date": "2026-06-27T22:00:00.000Z",
       "venue": {
         "name": "Jolly Joker Ankara",
         "city": "Ankara",
@@ -261,10 +261,10 @@
       ]
     },
     {
-      "id": "cem cmylmz firsat firsat yilmaz|2026-07-18|3991,3278",
+      "id": "cem cmylmz firsat firsat yilmaz|2026-07-19|3991,3278",
       "title": "Cem Yılmaz - CMYLMZ FIRSAT BU FIRSAT",
       "category": "stand-up",
-      "date": "2026-07-18T20:00:00.000Z",
+      "date": "2026-07-19T20:00:00.000Z",
       "venue": {
         "name": "ATO Congresium",
         "city": "Ankara",
@@ -286,10 +286,10 @@
       ]
     },
     {
-      "id": "aassm bastik zeynep zmir|2026-07-11|3842,2713",
+      "id": "aassm bastik zeynep zmir|2026-07-12|3842,2713",
       "title": "Zeynep Bastık - AASSM İzmir",
       "category": "concert",
-      "date": "2026-07-11T21:00:00.000Z",
+      "date": "2026-07-12T21:00:00.000Z",
       "venue": {
         "name": "Ahmed Adnan Saygun Sanat Merkezi",
         "city": "İzmir",
@@ -311,10 +311,10 @@
       ]
     },
     {
-      "id": "aspendos bale opera|2026-08-09|3694,3117",
+      "id": "aspendos bale opera|2026-08-10|3694,3117",
       "title": "Aspendos Opera ve Bale Festivali",
       "category": "festival",
-      "date": "2026-08-09T21:00:00.000Z",
+      "date": "2026-08-10T21:00:00.000Z",
       "venue": {
         "name": "Aspendos Antik Tiyatrosu",
         "city": "Antalya",
@@ -336,10 +336,10 @@
       ]
     },
     {
-      "id": "antalya yalin|2026-07-07|3689,3071",
+      "id": "antalya yalin|2026-07-08|3689,3071",
       "title": "Yalın - Antalya Konseri",
       "category": "concert",
-      "date": "2026-07-07T21:00:00.000Z",
+      "date": "2026-07-08T21:00:00.000Z",
       "venue": {
         "name": "Antalya Spor Salonu",
         "city": "Antalya",
@@ -361,10 +361,10 @@
       ]
     },
     {
-      "id": "devlet hamlet tiyatrolari|2026-07-03|4020,2905",
+      "id": "devlet hamlet tiyatrolari|2026-07-04|4020,2905",
       "title": "Hamlet - Devlet Tiyatroları",
       "category": "theater",
-      "date": "2026-07-03T20:00:00.000Z",
+      "date": "2026-07-04T20:00:00.000Z",
       "venue": {
         "name": "Merinos AKKM",
         "city": "Bursa",
@@ -386,10 +386,10 @@
       ]
     },
     {
-      "id": "bir kafamda tuhaflik|2026-07-14|4107,2902",
+      "id": "bir kafamda tuhaflik|2026-07-15|4107,2902",
       "title": "Kafamda Bir Tuhaflık Müzikali",
       "category": "musical",
-      "date": "2026-07-14T20:00:00.000Z",
+      "date": "2026-07-15T20:00:00.000Z",
       "venue": {
         "name": "Zorlu PSM",
         "city": "İstanbul",
@@ -418,10 +418,10 @@
       ]
     },
     {
-      "id": "tarkan volkswagen|2026-07-04|4109,2902",
+      "id": "tarkan volkswagen|2026-07-05|4109,2902",
       "title": "TARKAN - Volkswagen Arena",
       "category": "concert",
-      "date": "2026-07-04T21:00:00.000Z",
+      "date": "2026-07-05T21:00:00.000Z",
       "venue": {
         "name": "Volkswagen Arena",
         "city": "İstanbul",
@@ -443,10 +443,10 @@
       ]
     },
     {
-      "id": "ezhel|2026-07-08|4105,2899",
+      "id": "ezhel|2026-07-09|4105,2899",
       "title": "Ezhel Konseri",
       "category": "concert",
-      "date": "2026-07-08T21:00:00.000Z",
+      "date": "2026-07-09T21:00:00.000Z",
       "venue": {
         "name": "KüçükÇiftlik Park",
         "city": "İstanbul",
@@ -475,10 +475,10 @@
       ]
     },
     {
-      "id": "manga|2026-07-01|4096,2910",
+      "id": "manga|2026-07-02|4096,2910",
       "title": "MANGA Konseri",
       "category": "concert",
-      "date": "2026-07-01T21:00:00.000Z",
+      "date": "2026-07-02T21:00:00.000Z",
       "venue": {
         "name": "Bostancı Gösteri Merkezi",
         "city": "İstanbul",
@@ -507,10 +507,10 @@
       ]
     },
     {
-      "id": "ceza stanbul|2026-07-25|4105,2899",
+      "id": "ceza stanbul|2026-07-26|4105,2899",
       "title": "CEZA İstanbul",
       "category": "concert",
-      "date": "2026-07-25T21:00:00.000Z",
+      "date": "2026-07-26T21:00:00.000Z",
       "venue": {
         "name": "KüçükÇiftlik Park",
         "city": "İstanbul",
@@ -532,10 +532,10 @@
       ]
     },
     {
-      "id": "fenerbahce galatasaray lig super|2026-06-29|4110,2899",
+      "id": "fenerbahce galatasaray lig super|2026-06-30|4110,2899",
       "title": "Galatasaray - Fenerbahçe Süper Lig",
       "category": "sport",
-      "date": "2026-06-29T19:00:00.000Z",
+      "date": "2026-06-30T19:00:00.000Z",
       "venue": {
         "name": "Türk Telekom Stadyumu",
         "city": "İstanbul",
@@ -557,10 +557,10 @@
       ]
     },
     {
-      "id": "besiktas fenerbahce|2026-07-06|4099,2904",
+      "id": "besiktas fenerbahce|2026-07-07|4099,2904",
       "title": "Fenerbahçe - Beşiktaş",
       "category": "sport",
-      "date": "2026-07-06T19:00:00.000Z",
+      "date": "2026-07-07T19:00:00.000Z",
       "venue": {
         "name": "Ülker Stadyumu",
         "city": "İstanbul",
@@ -582,10 +582,10 @@
       ]
     },
     {
-      "id": "cem stand up yilmaz|2026-07-18|3991,3278",
+      "id": "cem stand up yilmaz|2026-07-19|3991,3278",
       "title": "CEM YILMAZ Stand-up",
       "category": "stand-up",
-      "date": "2026-07-18T20:00:00.000Z",
+      "date": "2026-07-19T20:00:00.000Z",
       "venue": {
         "name": "ATO Congresium",
         "city": "Ankara",
@@ -607,10 +607,10 @@
       ]
     },
     {
-      "id": "buray zmir|2026-07-23|3845,2717",
+      "id": "buray zmir|2026-07-24|3845,2717",
       "title": "BURAY İzmir Arena",
       "category": "concert",
-      "date": "2026-07-23T21:00:00.000Z",
+      "date": "2026-07-24T21:00:00.000Z",
       "venue": {
         "name": "İzmir Arena",
         "city": "İzmir",
@@ -639,10 +639,10 @@
       ]
     },
     {
-      "id": "aspendos|2026-08-09|3694,3117",
+      "id": "aspendos|2026-08-10|3694,3117",
       "title": "Aspendos Festival",
       "category": "festival",
-      "date": "2026-08-09T21:00:00.000Z",
+      "date": "2026-08-10T21:00:00.000Z",
       "venue": {
         "name": "Aspendos Antik Tiyatrosu",
         "city": "Antalya",
@@ -664,10 +664,10 @@
       ]
     },
     {
-      "id": "bursaspor lig sakaryaspor|2026-06-28|4018,2907",
+      "id": "bursaspor lig sakaryaspor|2026-06-29|4018,2907",
       "title": "Bursaspor - Sakaryaspor 1.Lig",
       "category": "sport",
-      "date": "2026-06-28T19:00:00.000Z",
+      "date": "2026-06-29T19:00:00.000Z",
       "venue": {
         "name": "Bursa Atatürk Stadyumu",
         "city": "Bursa",
@@ -689,10 +689,10 @@
       ]
     },
     {
-      "id": "can hasan kaya konusanlar|2026-07-09|3989,3286",
+      "id": "can hasan kaya konusanlar|2026-07-10|3989,3286",
       "title": "Hasan Can Kaya - Konuşanlar",
       "category": "stand-up",
-      "date": "2026-07-09T21:00:00.000Z",
+      "date": "2026-07-10T21:00:00.000Z",
       "venue": {
         "name": "IF Performance Hall Ankara",
         "city": "Ankara",
@@ -714,10 +714,10 @@
       ]
     },
     {
-      "id": "bursa hamlet|2026-07-03|4020,2905",
+      "id": "bursa hamlet|2026-07-04|4020,2905",
       "title": "HAMLET Bursa",
       "category": "theater",
-      "date": "2026-07-03T20:00:00.000Z",
+      "date": "2026-07-04T20:00:00.000Z",
       "venue": {
         "name": "Merinos AKKM",
         "city": "Bursa",
@@ -735,6 +735,56 @@
           "title": "HAMLET Bursa",
           "priceMin": 350,
           "priceMax": 900
+        }
+      ]
+    },
+    {
+      "id": "ferah sebnem|2026-06-27|4105,2899",
+      "title": "Şebnem Ferah",
+      "category": "concert",
+      "date": "2026-06-27T18:30:00.000Z",
+      "venue": {
+        "name": "KüçükÇiftlik Park",
+        "city": "İstanbul",
+        "district": "Şişli",
+        "lat": 41.0476,
+        "lng": 28.9938
+      },
+      "priceMin": 0,
+      "priceMax": 50000,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/sebnem-ferah-20260620183351582-33ad0067479d.jpg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/sebnem-ferah",
+          "title": "Şebnem Ferah",
+          "priceMin": 0,
+          "priceMax": 50000
+        }
+      ]
+    },
+    {
+      "id": "goksel ruyalarin si tour|2026-06-22|4105,2899",
+      "title": "Göksel - Rüyaların İşi Tour",
+      "category": "concert",
+      "date": "2026-06-22T18:00:00.000Z",
+      "venue": {
+        "name": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+        "city": "İstanbul",
+        "district": "Şişli",
+        "lat": 41.0463,
+        "lng": 28.9874
+      },
+      "priceMin": 2850,
+      "priceMax": 2850,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/goksel-konseri-44843.jpeg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/goksel-konseri",
+          "title": "Göksel - Rüyaların İşi Tour",
+          "priceMin": 2850,
+          "priceMax": 2850
         }
       ]
     },
@@ -760,56 +810,6 @@
           "title": "Melike Şahin",
           "priceMin": 1700,
           "priceMax": 1700
-        }
-      ]
-    },
-    {
-      "id": "kajmer sagopa sunar|2026-06-20|4105,2899",
-      "title": "+1 Sunar: Sagopa Kajmer",
-      "category": "concert",
-      "date": "2026-06-20T16:00:00.000Z",
-      "venue": {
-        "name": "KüçükÇiftlik Park",
-        "city": "İstanbul",
-        "district": "Şişli",
-        "lat": 41.0476,
-        "lng": 28.9938
-      },
-      "priceMin": 1500,
-      "priceMax": 1500,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/arti-1-sunar-sagopa-kajmer-36560.jpg",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/arti-1-sunar-sagopa-kajmer",
-          "title": "+1 Sunar: Sagopa Kajmer",
-          "priceMin": 1500,
-          "priceMax": 1500
-        }
-      ]
-    },
-    {
-      "id": "goksel ruyalarin si tour|2026-06-22|4105,2899",
-      "title": "Göksel - Rüyaların İşi Tour",
-      "category": "concert",
-      "date": "2026-06-22T18:00:00.000Z",
-      "venue": {
-        "name": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
-        "city": "İstanbul",
-        "district": "Şişli",
-        "lat": 41.0463,
-        "lng": 28.9874
-      },
-      "priceMin": 950,
-      "priceMax": 950,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/goksel-konseri-44843.jpeg",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/goksel-konseri",
-          "title": "Göksel - Rüyaların İşi Tour",
-          "priceMin": 950,
-          "priceMax": 950
         }
       ]
     },
@@ -864,8 +864,8 @@
       ]
     },
     {
-      "id": "100 blind fest muzik odell sunar tom|2026-06-23|4103,2898",
-      "title": "%100 Müzik Sunar: Blind Fest: Tom Odell",
+      "id": "blind fest odell tom|2026-06-23|4103,2898",
+      "title": "Blind Fest: Tom Odell",
       "category": "concert",
       "date": "2026-06-23T19:00:00.000Z",
       "venue": {
@@ -882,7 +882,7 @@
         {
           "source": "bubilet",
           "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-100-muzik-sunar-blind-fest-tom-odell",
-          "title": "%100 Müzik Sunar: Blind Fest: Tom Odell",
+          "title": "Blind Fest: Tom Odell",
           "priceMin": 2950,
           "priceMax": 2950
         }
@@ -939,27 +939,27 @@
       ]
     },
     {
-      "id": "kadebostany luna opening party project terra|2026-06-26|4087,2927",
-      "title": "Kadebostany I LUNA TERRA PROJECT OPENING PARTY",
+      "id": "merve ozbey|2026-08-23|4107,2902",
+      "title": "Merve Özbey",
       "category": "concert",
-      "date": "2026-06-26T19:00:00.000Z",
+      "date": "2026-08-23T18:00:00.000Z",
       "venue": {
-        "name": "Kastel",
+        "name": "Paribu Vadi Açıkhava",
         "city": "İstanbul",
-        "district": "Pendik",
-        "lat": 40.872979,
-        "lng": 29.273516
+        "district": "Beşiktaş",
+        "lat": 41.067783,
+        "lng": 29.017583
       },
-      "priceMin": 900,
-      "priceMax": 900,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/kadebostany-i-luna-terra-project-opening-party-20260613174623968-3f447031417a.jpg",
+      "priceMin": 950,
+      "priceMax": 950,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/merve-ozbey-20260620104145411-e7551c4afa84.png",
       "sources": [
         {
           "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/kadebostany-i-luna-terra-project-opening-party",
-          "title": "Kadebostany I LUNA TERRA PROJECT OPENING PARTY",
-          "priceMin": 900,
-          "priceMax": 900
+          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/merve-ozbey",
+          "title": "Merve Özbey",
+          "priceMin": 950,
+          "priceMax": 950
         }
       ]
     },
@@ -989,27 +989,27 @@
       ]
     },
     {
-      "id": "bagcan selda|2026-08-09|4105,2899",
-      "title": "Selda Bağcan Konseri",
+      "id": "kadebostany luna opening party project terra|2026-06-26|4087,2927",
+      "title": "Kadebostany I LUNA TERRA PROJECT OPENING PARTY",
       "category": "concert",
-      "date": "2026-08-09T18:00:00.000Z",
+      "date": "2026-06-26T19:00:00.000Z",
       "venue": {
-        "name": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+        "name": "Kastel",
         "city": "İstanbul",
-        "district": "Şişli",
-        "lat": 41.0463,
-        "lng": 28.9874
+        "district": "Pendik",
+        "lat": 40.872979,
+        "lng": 29.273516
       },
-      "priceMin": 950,
-      "priceMax": 950,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/selda-bagcan-60026.jpeg",
+      "priceMin": 900,
+      "priceMax": 900,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/kadebostany-i-luna-terra-project-opening-party-20260613174623968-3f447031417a.jpg",
       "sources": [
         {
           "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/selda-bagcan",
-          "title": "Selda Bağcan Konseri",
-          "priceMin": 950,
-          "priceMax": 950
+          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/kadebostany-i-luna-terra-project-opening-party",
+          "title": "Kadebostany I LUNA TERRA PROJECT OPENING PARTY",
+          "priceMin": 900,
+          "priceMax": 900
         }
       ]
     },
@@ -1039,27 +1039,27 @@
       ]
     },
     {
-      "id": "tilbe yildiz|2026-06-20|4102,2859",
-      "title": "Yıldız Tilbe",
+      "id": "bagcan selda|2026-08-09|4105,2899",
+      "title": "Selda Bağcan Konseri",
       "category": "concert",
-      "date": "2026-06-20T18:00:00.000Z",
+      "date": "2026-08-09T18:00:00.000Z",
       "venue": {
-        "name": "Büyükçekmece Kültürpark Kemal Sunal Amfi Tiyatro",
+        "name": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
         "city": "İstanbul",
-        "district": "Büyükçekmece",
-        "lat": 41.0205,
-        "lng": 28.5938
+        "district": "Şişli",
+        "lat": 41.0463,
+        "lng": 28.9874
       },
-      "priceMin": 3150,
-      "priceMax": 3150,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/-yildiz-tilbe-33617.png",
+      "priceMin": 950,
+      "priceMax": 950,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/selda-bagcan-60026.jpeg",
       "sources": [
         {
           "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-yildiz-tilbe",
-          "title": "Yıldız Tilbe",
-          "priceMin": 3150,
-          "priceMax": 3150
+          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/selda-bagcan",
+          "title": "Selda Bağcan Konseri",
+          "priceMin": 950,
+          "priceMax": 950
         }
       ]
     },
@@ -1089,31 +1089,6 @@
       ]
     },
     {
-      "id": "deserve imany rage women|2026-06-25|4105,2899",
-      "title": "IMANY - Women Deserve Rage",
-      "category": "concert",
-      "date": "2026-06-25T18:00:00.000Z",
-      "venue": {
-        "name": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
-        "city": "İstanbul",
-        "district": "Şişli",
-        "lat": 41.0463,
-        "lng": 28.9874
-      },
-      "priceMin": 1995,
-      "priceMax": 1995,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/imany-women-deserve-rage-38162.jpg",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/imany-women-deserve-rage",
-          "title": "IMANY - Women Deserve Rage",
-          "priceMin": 1995,
-          "priceMax": 1995
-        }
-      ]
-    },
-    {
       "id": "marsh party pre soundscape|2026-06-28|4103,2898",
       "title": "Marsh – Soundscape Pre-Party",
       "category": "concert",
@@ -1135,6 +1110,31 @@
           "title": "Marsh – Soundscape Pre-Party",
           "priceMin": 1000,
           "priceMax": 1000
+        }
+      ]
+    },
+    {
+      "id": "deserve imany rage women|2026-06-25|4105,2899",
+      "title": "IMANY - Women Deserve Rage",
+      "category": "concert",
+      "date": "2026-06-25T18:00:00.000Z",
+      "venue": {
+        "name": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+        "city": "İstanbul",
+        "district": "Şişli",
+        "lat": 41.0463,
+        "lng": 28.9874
+      },
+      "priceMin": 2395,
+      "priceMax": 2395,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/imany-women-deserve-rage-38162.jpg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/imany-women-deserve-rage",
+          "title": "IMANY - Women Deserve Rage",
+          "priceMin": 2395,
+          "priceMax": 2395
         }
       ]
     },
@@ -1214,6 +1214,31 @@
       ]
     },
     {
+      "id": "sami yusuf|2026-06-23|4105,2899",
+      "title": "Sami Yusuf",
+      "category": "concert",
+      "date": "2026-06-23T18:00:00.000Z",
+      "venue": {
+        "name": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+        "city": "İstanbul",
+        "district": "Şişli",
+        "lat": 41.0463,
+        "lng": 28.9874
+      },
+      "priceMin": 5000,
+      "priceMax": 6000,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/sami-yusuf-54017.jpg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/sami-yusuf",
+          "title": "Sami Yusuf",
+          "priceMin": 5000,
+          "priceMax": 6000
+        }
+      ]
+    },
+    {
       "id": "100 kovacs muzik stanbul sunar|2026-12-12|4104,2901",
       "title": "%100 Müzik Sunar: Kovacs | İstanbul",
       "category": "concert",
@@ -1250,66 +1275,16 @@
         "lat": 41.067783,
         "lng": 29.017583
       },
-      "priceMin": 950,
-      "priceMax": 950,
+      "priceMin": 1150,
+      "priceMax": 1150,
       "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/ziynet-sali-konseri-40261.png",
       "sources": [
         {
           "source": "bubilet",
           "url": "https://www.bubilet.com.tr/istanbul/etkinlik/ziynet-sali-konseri",
           "title": "Ziynet Sali Konseri",
-          "priceMin": 950,
-          "priceMax": 950
-        }
-      ]
-    },
-    {
-      "id": "sami yusuf|2026-06-23|4105,2899",
-      "title": "Sami Yusuf",
-      "category": "concert",
-      "date": "2026-06-23T18:00:00.000Z",
-      "venue": {
-        "name": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
-        "city": "İstanbul",
-        "district": "Şişli",
-        "lat": 41.0463,
-        "lng": 28.9874
-      },
-      "priceMin": 5000,
-      "priceMax": 6000,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/sami-yusuf-54017.jpg",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/sami-yusuf",
-          "title": "Sami Yusuf",
-          "priceMin": 5000,
-          "priceMax": 6000
-        }
-      ]
-    },
-    {
-      "id": "kilisesi kirim midnight symphony|2026-07-09|4107,2897",
-      "title": "Midnight Symphony - Kırım Kilisesi",
-      "category": "concert",
-      "date": "2026-07-09T17:00:00.000Z",
-      "venue": {
-        "name": "Kırım Kilisesi",
-        "city": "İstanbul",
-        "district": "Kâğıthane",
-        "lat": 41.074459,
-        "lng": 28.970285
-      },
-      "priceMin": 1440,
-      "priceMax": 1440,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/midnight-symphony-kirim-kilisesi-47127.png",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/midnight-symphony-kirim-kilisesi",
-          "title": "Midnight Symphony - Kırım Kilisesi",
-          "priceMin": 1440,
-          "priceMax": 1440
+          "priceMin": 1150,
+          "priceMax": 1150
         }
       ]
     },
@@ -1335,6 +1310,31 @@
           "title": "LP Konseri",
           "priceMin": 2900,
           "priceMax": 2900
+        }
+      ]
+    },
+    {
+      "id": "kilisesi kirim midnight symphony|2026-07-09|4107,2897",
+      "title": "Midnight Symphony - Kırım Kilisesi",
+      "category": "concert",
+      "date": "2026-07-09T17:00:00.000Z",
+      "venue": {
+        "name": "Kırım Kilisesi",
+        "city": "İstanbul",
+        "district": "Kâğıthane",
+        "lat": 41.074459,
+        "lng": 28.970285
+      },
+      "priceMin": 1440,
+      "priceMax": 1440,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/midnight-symphony-kirim-kilisesi-47127.png",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/istanbul/etkinlik/midnight-symphony-kirim-kilisesi",
+          "title": "Midnight Symphony - Kırım Kilisesi",
+          "priceMin": 1440,
+          "priceMax": 1440
         }
       ]
     },
@@ -1389,27 +1389,27 @@
       ]
     },
     {
-      "id": "kirmizigul mahsun|2026-06-21|3985,3282",
-      "title": "Mahsun Kırmızıgül",
+      "id": "ferah sebnem|2026-10-02|3994,3280",
+      "title": "Şebnem Ferah",
       "category": "concert",
-      "date": "2026-06-21T18:00:00.000Z",
+      "date": "2026-10-02T18:30:00.000Z",
       "venue": {
-        "name": "Oran Açıkhava Sahnesi",
+        "name": "Atatürk Orman Çiftliği Konser Alanı",
         "city": "Ankara",
-        "district": "Çankaya",
-        "lat": 39.849895,
-        "lng": 32.82261
+        "district": "Etimesgut",
+        "lat": 39.939556,
+        "lng": 32.79528
       },
-      "priceMin": 3850,
-      "priceMax": 3850,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/mahsun-kirmizigul--39735.jpg",
+      "priceMin": 50000,
+      "priceMax": 50000,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/sebnem-ferah-20260620183505350-46abddb432f0.jpg",
       "sources": [
         {
           "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/ankara/etkinlik/mahsun-kirmizigul-",
-          "title": "Mahsun Kırmızıgül",
-          "priceMin": 3850,
-          "priceMax": 3850
+          "url": "https://www.bubilet.com.tr/ankara/etkinlik/-sebnem-ferah-",
+          "title": "Şebnem Ferah",
+          "priceMin": 50000,
+          "priceMax": 50000
         }
       ]
     },
@@ -1425,16 +1425,41 @@
         "lat": 39.849895,
         "lng": 32.82261
       },
-      "priceMin": 1350,
-      "priceMax": 1350,
+      "priceMin": 1850,
+      "priceMax": 1850,
       "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/murat-boz-20260611174640593-e4fc68f88be5.jpg",
       "sources": [
         {
           "source": "bubilet",
           "url": "https://www.bubilet.com.tr/ankara/etkinlik/murat-boz",
           "title": "Murat Boz Konseri",
-          "priceMin": 1350,
-          "priceMax": 1350
+          "priceMin": 1850,
+          "priceMax": 1850
+        }
+      ]
+    },
+    {
+      "id": "kirmizigul mahsun|2026-06-21|3985,3282",
+      "title": "Mahsun Kırmızıgül",
+      "category": "concert",
+      "date": "2026-06-21T18:00:00.000Z",
+      "venue": {
+        "name": "Oran Açıkhava Sahnesi",
+        "city": "Ankara",
+        "district": "Çankaya",
+        "lat": 39.849895,
+        "lng": 32.82261
+      },
+      "priceMin": 3350,
+      "priceMax": 3350,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/mahsun-kirmizigul--39735.jpg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/ankara/etkinlik/mahsun-kirmizigul-",
+          "title": "Mahsun Kırmızıgül",
+          "priceMin": 3350,
+          "priceMax": 3350
         }
       ]
     },
@@ -1539,31 +1564,6 @@
       ]
     },
     {
-      "id": "dolu kadehi ters tut|2026-10-17|3992,3285",
-      "title": "Dolu Kadehi Ters Tut",
-      "category": "concert",
-      "date": "2026-10-17T18:00:00.000Z",
-      "venue": {
-        "name": "CerModern",
-        "city": "Ankara",
-        "district": "Çankaya",
-        "lat": 39.920789,
-        "lng": 32.854048
-      },
-      "priceMin": 1200,
-      "priceMax": 1200,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/dolu-kadehi-ters-tut--73245.png",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/ankara/etkinlik/dolu-kadehi-ters-tut-",
-          "title": "Dolu Kadehi Ters Tut",
-          "priceMin": 1200,
-          "priceMax": 1200
-        }
-      ]
-    },
-    {
       "id": "and ankara candles echoes|2026-07-24|3992,3285",
       "title": "Candles and Echoes - Ankara",
       "category": "concert",
@@ -1585,6 +1585,31 @@
           "title": "Candles and Echoes - Ankara",
           "priceMin": 890,
           "priceMax": 1190
+        }
+      ]
+    },
+    {
+      "id": "dolu kadehi ters tut|2026-10-17|3992,3285",
+      "title": "Dolu Kadehi Ters Tut",
+      "category": "concert",
+      "date": "2026-10-17T18:00:00.000Z",
+      "venue": {
+        "name": "CerModern",
+        "city": "Ankara",
+        "district": "Çankaya",
+        "lat": 39.920789,
+        "lng": 32.854048
+      },
+      "priceMin": 1200,
+      "priceMax": 1200,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/dolu-kadehi-ters-tut--73245.png",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/ankara/etkinlik/dolu-kadehi-ters-tut-",
+          "title": "Dolu Kadehi Ters Tut",
+          "priceMin": 1200,
+          "priceMax": 1200
         }
       ]
     },
@@ -1639,31 +1664,6 @@
       ]
     },
     {
-      "id": "fis melis|2026-08-16|3997,3279",
-      "title": "Melis Fis Konseri",
-      "category": "concert",
-      "date": "2026-08-16T17:30:00.000Z",
-      "venue": {
-        "name": "Yenimahalle Nazım Hikmet Kültür Merkezi-Genco Erkal Sahnesi",
-        "city": "Ankara",
-        "district": "Yenimahalle",
-        "lat": 39.967827,
-        "lng": 32.79078
-      },
-      "priceMin": 750,
-      "priceMax": 850,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/melis-fis--konseri-55119.jpg",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/ankara/etkinlik/melis-fis--konseri",
-          "title": "Melis Fis Konseri",
-          "priceMin": 750,
-          "priceMax": 850
-        }
-      ]
-    },
-    {
       "id": "buray|2026-08-19|3985,3282",
       "title": "Buray",
       "category": "concert",
@@ -1714,27 +1714,27 @@
       ]
     },
     {
-      "id": "hande yener|2026-09-16|3985,3282",
-      "title": "Hande Yener Konseri",
+      "id": "fis melis|2026-08-16|3997,3279",
+      "title": "Melis Fis Konseri",
       "category": "concert",
-      "date": "2026-09-16T18:00:00.000Z",
+      "date": "2026-08-16T17:30:00.000Z",
       "venue": {
-        "name": "Oran Açıkhava Sahnesi",
+        "name": "Yenimahalle Nazım Hikmet Kültür Merkezi-Genco Erkal Sahnesi",
         "city": "Ankara",
-        "district": "Çankaya",
-        "lat": 39.849895,
-        "lng": 32.82261
+        "district": "Yenimahalle",
+        "lat": 39.967827,
+        "lng": 32.79078
       },
-      "priceMin": 1736,
-      "priceMax": 1736,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/hande-yener-konseri-46059.jpeg",
+      "priceMin": 750,
+      "priceMax": 850,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/melis-fis--konseri-55119.jpg",
       "sources": [
         {
           "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/ankara/etkinlik/hande-yener-konseri",
-          "title": "Hande Yener Konseri",
-          "priceMin": 1736,
-          "priceMax": 1736
+          "url": "https://www.bubilet.com.tr/ankara/etkinlik/melis-fis--konseri",
+          "title": "Melis Fis Konseri",
+          "priceMin": 750,
+          "priceMax": 850
         }
       ]
     },
@@ -1760,6 +1760,31 @@
           "title": "Kenan Doğulu Konseri",
           "priceMin": 2000,
           "priceMax": 2000
+        }
+      ]
+    },
+    {
+      "id": "hande yener|2026-09-16|3985,3282",
+      "title": "Hande Yener Konseri",
+      "category": "concert",
+      "date": "2026-09-16T18:00:00.000Z",
+      "venue": {
+        "name": "Oran Açıkhava Sahnesi",
+        "city": "Ankara",
+        "district": "Çankaya",
+        "lat": 39.849895,
+        "lng": 32.82261
+      },
+      "priceMin": 1736,
+      "priceMax": 1736,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/hande-yener-konseri-46059.jpeg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/ankara/etkinlik/hande-yener-konseri",
+          "title": "Hande Yener Konseri",
+          "priceMin": 1736,
+          "priceMax": 1736
         }
       ]
     },
@@ -1814,31 +1839,6 @@
       ]
     },
     {
-      "id": "ajda pekkan|2026-09-30|3985,3282",
-      "title": "Ajda Pekkan",
-      "category": "concert",
-      "date": "2026-09-30T18:00:00.000Z",
-      "venue": {
-        "name": "Oran Açıkhava Sahnesi",
-        "city": "Ankara",
-        "district": "Çankaya",
-        "lat": 39.849895,
-        "lng": 32.82261
-      },
-      "priceMin": 1680,
-      "priceMax": 1680,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/ajda-pekkan-43879.jpg",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/ankara/etkinlik/ajda-pekkan",
-          "title": "Ajda Pekkan",
-          "priceMin": 1680,
-          "priceMax": 1680
-        }
-      ]
-    },
-    {
       "id": "duman|2026-06-28|3998,3285",
       "title": "Duman Konseri",
       "category": "concert",
@@ -1864,10 +1864,10 @@
       ]
     },
     {
-      "id": "bulent ersoy|2026-06-28|3985,3282",
-      "title": "Bülent Ersoy",
+      "id": "ajda pekkan|2026-09-30|3985,3282",
+      "title": "Ajda Pekkan",
       "category": "concert",
-      "date": "2026-06-28T18:00:00.000Z",
+      "date": "2026-09-30T18:00:00.000Z",
       "venue": {
         "name": "Oran Açıkhava Sahnesi",
         "city": "Ankara",
@@ -1875,16 +1875,16 @@
         "lat": 39.849895,
         "lng": 32.82261
       },
-      "priceMin": 2550,
-      "priceMax": 2550,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/bulent-ersoy--12755.jpg",
+      "priceMin": 1680,
+      "priceMax": 1680,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/ajda-pekkan-43879.jpg",
       "sources": [
         {
           "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/ankara/etkinlik/bulent-ersoy-",
-          "title": "Bülent Ersoy",
-          "priceMin": 2550,
-          "priceMax": 2550
+          "url": "https://www.bubilet.com.tr/ankara/etkinlik/ajda-pekkan",
+          "title": "Ajda Pekkan",
+          "priceMin": 1680,
+          "priceMax": 1680
         }
       ]
     },
@@ -1910,6 +1910,31 @@
           "title": "%100 Metal Sunar: Soen | Ankara",
           "priceMin": 1800,
           "priceMax": 1800
+        }
+      ]
+    },
+    {
+      "id": "bulent ersoy|2026-06-28|3985,3282",
+      "title": "Bülent Ersoy",
+      "category": "concert",
+      "date": "2026-06-28T18:00:00.000Z",
+      "venue": {
+        "name": "Oran Açıkhava Sahnesi",
+        "city": "Ankara",
+        "district": "Çankaya",
+        "lat": 39.849895,
+        "lng": 32.82261
+      },
+      "priceMin": 2550,
+      "priceMax": 2550,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/bulent-ersoy--12755.jpg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/ankara/etkinlik/bulent-ersoy-",
+          "title": "Bülent Ersoy",
+          "priceMin": 2550,
+          "priceMax": 2550
         }
       ]
     },
@@ -1960,56 +1985,6 @@
           "title": "Levent Yüksel",
           "priceMin": 3350,
           "priceMax": 3350
-        }
-      ]
-    },
-    {
-      "id": "austrian f1 gp gp moto party watch|2026-06-28|3992,3285",
-      "title": "F1 Austrian GP // Moto GP Watch Party",
-      "category": "concert",
-      "date": "2026-06-28T11:00:00.000Z",
-      "venue": {
-        "name": "Jw Marriott Ankara – Açık Hava Bahçe",
-        "city": "Ankara",
-        "district": "Ankara",
-        "lat": 39.920789,
-        "lng": 32.854048
-      },
-      "priceMin": 720,
-      "priceMax": 720,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/f1-austrian-gp-moto-gp-watch-party-20260619081935435-e07f5ae831da.png",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/ankara/etkinlik/f1-austrian-gp-moto-gp-watch-party",
-          "title": "F1 Austrian GP // Moto GP Watch Party",
-          "priceMin": 720,
-          "priceMax": 720
-        }
-      ]
-    },
-    {
-      "id": "90 anil ark bulent celik deli dizdar dj evcimik ferda fest gonul grup hakan kufundur lar mansur of pop sayin tarik turkce umit vitamin vj yarkin yonca zeynep|2026-06-20|3844,2714",
-      "title": "90'lar Türkçe Pop Fest : Çelik, Yonca Evcimik, Ferda Anıl Yarkın, Ümit Sayın, Mansur Ark, Grup Vitamin, Zeynep Dizdar, Tarık (Of Deli Gönül), Vj Bülent, Dj Hakan Küfündür",
-      "category": "concert",
-      "date": "2026-06-20T13:00:00.000Z",
-      "venue": {
-        "name": "Alsancak Tarihi Havagazı Fabrikası",
-        "city": "İzmir",
-        "district": "Konak",
-        "lat": 38.4421,
-        "lng": 27.144
-      },
-      "priceMin": 999,
-      "priceMax": 999,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/90lar-turkce-pop-fest-celik-yoncaevcimik-ferda-anil-yarkin-umit-sayin-mansur-ark-grup-vitamin-zeynep-dizdar-tarik-of-deli-gonul-vj-bulent-dj-hakan-kufundur-47654.png",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/izmir/etkinlik/90lar-turkce-pop-fest-celik-yoncaevcimik-ferda-anil-yarkin-umit-sayin-mansur-ark-grup-vitamin-zeynep-dizdar-tarik-of-deli-gonul-vj-bulent-dj-hakan-kufundur",
-          "title": "90'lar Türkçe Pop Fest : Çelik, Yonca Evcimik, Ferda Anıl Yarkın, Ümit Sayın, Mansur Ark, Grup Vitamin, Zeynep Dizdar, Tarık (Of Deli Gönül), Vj Bülent, Dj Hakan Küfündür",
-          "priceMin": 999,
-          "priceMax": 999
         }
       ]
     },
@@ -2089,31 +2064,6 @@
       ]
     },
     {
-      "id": "ata demirer gazinosu|2026-07-20|3843,2714",
-      "title": "Ata Demirer Gazinosu",
-      "category": "concert",
-      "date": "2026-07-20T18:00:00.000Z",
-      "venue": {
-        "name": "Kültürpark Açıkhava Tiyatrosu",
-        "city": "İzmir",
-        "district": "Konak",
-        "lat": 38.42897,
-        "lng": 27.135215
-      },
-      "priceMin": 3520,
-      "priceMax": 3520,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/ata-demirer-gazinosu-97820.jpg",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/izmir/etkinlik/ata-demirer-gazinosu",
-          "title": "Ata Demirer Gazinosu",
-          "priceMin": 3520,
-          "priceMax": 3520
-        }
-      ]
-    },
-    {
       "id": "cok guzel hareketler|2026-06-25|3843,2714",
       "title": "Çok Güzel Hareketler 2",
       "category": "concert",
@@ -2135,6 +2085,31 @@
           "title": "Çok Güzel Hareketler 2",
           "priceMin": 1400,
           "priceMax": 1400
+        }
+      ]
+    },
+    {
+      "id": "ata demirer gazinosu|2026-07-20|3843,2714",
+      "title": "Ata Demirer Gazinosu",
+      "category": "concert",
+      "date": "2026-07-20T18:00:00.000Z",
+      "venue": {
+        "name": "Kültürpark Açıkhava Tiyatrosu",
+        "city": "İzmir",
+        "district": "Konak",
+        "lat": 38.42897,
+        "lng": 27.135215
+      },
+      "priceMin": 3520,
+      "priceMax": 3520,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/ata-demirer-gazinosu-97820.jpg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/izmir/etkinlik/ata-demirer-gazinosu",
+          "title": "Ata Demirer Gazinosu",
+          "priceMin": 3520,
+          "priceMax": 3520
         }
       ]
     },
@@ -2164,31 +2139,6 @@
       ]
     },
     {
-      "id": "cakal|2026-07-10|3839,2705",
-      "title": "Çakal Konseri",
-      "category": "concert",
-      "date": "2026-07-10T15:00:00.000Z",
-      "venue": {
-        "name": "Mano Del Sol",
-        "city": "İzmir",
-        "district": "Balçova",
-        "lat": 38.391763,
-        "lng": 27.045338
-      },
-      "priceMin": 1500,
-      "priceMax": 1500,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/cakal--konseri-20260617141840348-1efa79a550e9.png",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/izmir/etkinlik/cakal--konseri--",
-          "title": "Çakal Konseri",
-          "priceMin": 1500,
-          "priceMax": 1500
-        }
-      ]
-    },
-    {
       "id": "ahududu oyunu|2026-08-04|3847,2711",
       "title": "Ahududu Oyunu",
       "category": "theater",
@@ -2208,6 +2158,31 @@
           "source": "bubilet",
           "url": "https://www.bubilet.com.tr/izmir/etkinlik/ahududu-oyunu",
           "title": "Ahududu Oyunu",
+          "priceMin": 1500,
+          "priceMax": 1500
+        }
+      ]
+    },
+    {
+      "id": "cakal|2026-07-10|3839,2705",
+      "title": "Çakal Konseri",
+      "category": "concert",
+      "date": "2026-07-10T15:00:00.000Z",
+      "venue": {
+        "name": "Mano Del Sol",
+        "city": "İzmir",
+        "district": "Balçova",
+        "lat": 38.391763,
+        "lng": 27.045338
+      },
+      "priceMin": 1500,
+      "priceMax": 1500,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/cakal--konseri-20260617141840348-1efa79a550e9.png",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/izmir/etkinlik/cakal--konseri--",
+          "title": "Çakal Konseri",
           "priceMin": 1500,
           "priceMax": 1500
         }
@@ -2239,6 +2214,31 @@
       ]
     },
     {
+      "id": "dedubluman|2026-09-11|3844,2714",
+      "title": "Dedüblüman",
+      "category": "concert",
+      "date": "2026-09-11T18:00:00.000Z",
+      "venue": {
+        "name": "Alsancak Tarihi Havagazı Fabrikası",
+        "city": "İzmir",
+        "district": "Konak",
+        "lat": 38.4421,
+        "lng": 27.144
+      },
+      "priceMin": 950,
+      "priceMax": 950,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/dedubluman-20260620104212817-105807e2b04f.png",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/izmir/etkinlik/--dedubluman--",
+          "title": "Dedüblüman",
+          "priceMin": 950,
+          "priceMax": 950
+        }
+      ]
+    },
+    {
       "id": "gokhan ozen|2026-07-06|3843,2714",
       "title": "Gökhan Özen",
       "category": "concert",
@@ -2264,31 +2264,6 @@
       ]
     },
     {
-      "id": "mutfagi zengin|2026-07-23|3843,2714",
-      "title": "Zengin Mutfağı",
-      "category": "concert",
-      "date": "2026-07-23T18:00:00.000Z",
-      "venue": {
-        "name": "Kültürpark Açıkhava Tiyatrosu",
-        "city": "İzmir",
-        "district": "Konak",
-        "lat": 38.42897,
-        "lng": 27.135215
-      },
-      "priceMin": 1100,
-      "priceMax": 1870,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/zengin-mutfagi--51952.png",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/izmir/etkinlik/zengin-mutfagi-",
-          "title": "Zengin Mutfağı",
-          "priceMin": 1100,
-          "priceMax": 1870
-        }
-      ]
-    },
-    {
       "id": "and candles echoes fabrikasi havagazi tarihi|2026-06-21|3844,2714",
       "title": "Candles and Echoes - Tarihi Havagazı Fabrikası",
       "category": "concert",
@@ -2310,6 +2285,31 @@
           "title": "Candles and Echoes - Tarihi Havagazı Fabrikası",
           "priceMin": 1190,
           "priceMax": 1190
+        }
+      ]
+    },
+    {
+      "id": "mutfagi zengin|2026-07-23|3843,2714",
+      "title": "Zengin Mutfağı",
+      "category": "concert",
+      "date": "2026-07-23T18:00:00.000Z",
+      "venue": {
+        "name": "Kültürpark Açıkhava Tiyatrosu",
+        "city": "İzmir",
+        "district": "Konak",
+        "lat": 38.42897,
+        "lng": 27.135215
+      },
+      "priceMin": 1100,
+      "priceMax": 1870,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/zengin-mutfagi--51952.png",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/izmir/etkinlik/zengin-mutfagi-",
+          "title": "Zengin Mutfağı",
+          "priceMin": 1100,
+          "priceMax": 1870
         }
       ]
     },
@@ -2350,16 +2350,16 @@
         "lat": 38.42897,
         "lng": 27.135215
       },
-      "priceMin": 1395,
-      "priceMax": 1395,
+      "priceMin": 1695,
+      "priceMax": 1695,
       "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/imany-women-deserve-rage-38162.jpg",
       "sources": [
         {
           "source": "bubilet",
           "url": "https://www.bubilet.com.tr/izmir/etkinlik/imany-women-deserve-rage",
           "title": "IMANY - Women Deserve Rage",
-          "priceMin": 1395,
-          "priceMax": 1395
+          "priceMin": 1695,
+          "priceMax": 1695
         }
       ]
     },
@@ -2389,10 +2389,10 @@
       ]
     },
     {
-      "id": "hurmuz kocali|2026-06-20|3838,2694",
+      "id": "hurmuz kocali|2026-06-21|3838,2694",
       "title": "7 Kocalı Hürmüz Müzikali",
       "category": "musical",
-      "date": "2026-06-20T18:00:00.000Z",
+      "date": "2026-06-21T18:00:00.000Z",
       "venue": {
         "name": "Çeşme Açıkhava Tiyatrosu",
         "city": "İzmir",
@@ -2489,31 +2489,6 @@
       ]
     },
     {
-      "id": "hasoglu tahsin|2026-06-23|3847,2711",
-      "title": "Tahsin Hasoğlu",
-      "category": "concert",
-      "date": "2026-06-23T17:30:00.000Z",
-      "venue": {
-        "name": "Bostanlı Suat Taşer Tiyatrosu",
-        "city": "İzmir",
-        "district": "Karşıyaka",
-        "lat": 38.4744,
-        "lng": 27.107
-      },
-      "priceMin": 1000,
-      "priceMax": 1000,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/tahsin-hasoglu-36003.png",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/izmir/etkinlik/tahsin-hasoglu",
-          "title": "Tahsin Hasoğlu",
-          "priceMin": 1000,
-          "priceMax": 1000
-        }
-      ]
-    },
-    {
       "id": "klein mahmut orhan sommer|2026-08-23|3838,2694",
       "title": "Mahmut Orhan | Sommer Klein",
       "category": "concert",
@@ -2539,27 +2514,27 @@
       ]
     },
     {
-      "id": "brando effekt guven jordan okan on roof|2026-06-20|3843,2714",
-      "title": "Effekt On The Roof: Jordan Brando + Okan Guven",
+      "id": "hasoglu tahsin|2026-06-23|3847,2711",
+      "title": "Tahsin Hasoğlu",
       "category": "concert",
-      "date": "2026-06-20T14:00:00.000Z",
+      "date": "2026-06-23T17:30:00.000Z",
       "venue": {
-        "name": "İzmir Marriott Hotel",
+        "name": "Bostanlı Suat Taşer Tiyatrosu",
         "city": "İzmir",
-        "district": "Konak",
-        "lat": 38.42897,
-        "lng": 27.135215
+        "district": "Karşıyaka",
+        "lat": 38.4744,
+        "lng": 27.107
       },
-      "priceMin": 950,
-      "priceMax": 950,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/effekt-on-the-roof-jordan-brando-okan-guven-20260605152319490-a52d036f6b52.png",
+      "priceMin": 1000,
+      "priceMax": 1000,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/tahsin-hasoglu-36003.png",
       "sources": [
         {
           "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/izmir/etkinlik/effekt-on-the-roof-jordan-brando-okan-guven",
-          "title": "Effekt On The Roof: Jordan Brando + Okan Guven",
-          "priceMin": 950,
-          "priceMax": 950
+          "url": "https://www.bubilet.com.tr/izmir/etkinlik/tahsin-hasoglu",
+          "title": "Tahsin Hasoğlu",
+          "priceMin": 1000,
+          "priceMax": 1000
         }
       ]
     },
@@ -2614,52 +2589,27 @@
       ]
     },
     {
-      "id": "hyde jekyll|2026-06-20|3703,3533",
-      "title": "Jekyll & Hyde",
+      "id": "mabel matiz|2026-09-12|3844,2714",
+      "title": "Mabel Matiz",
       "category": "concert",
-      "date": "2026-06-20T18:00:00.000Z",
+      "date": "2026-09-12T18:00:00.000Z",
       "venue": {
-        "name": "Adana Çukurova Üniversitesi Açıkhava Tiyatrosu",
-        "city": "Adana",
-        "district": "Çukurova",
-        "lat": 37.032552,
-        "lng": 35.331724
+        "name": "Alsancak Tarihi Havagazı Fabrikası",
+        "city": "İzmir",
+        "district": "Konak",
+        "lat": 38.4421,
+        "lng": 27.144
       },
-      "priceMin": 1425,
-      "priceMax": 1425,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/jekyll-hyde-20789.jpg",
+      "priceMin": 1200,
+      "priceMax": 1200,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/mabel-matiz-20260612105521881-be37c9d9c5c5.png",
       "sources": [
         {
           "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/adana/etkinlik/jekyll-hyde",
-          "title": "Jekyll & Hyde",
-          "priceMin": 1425,
-          "priceMax": 1425
-        }
-      ]
-    },
-    {
-      "id": "mustafa sandal|2026-10-13|3703,3533",
-      "title": "Mustafa Sandal Konseri",
-      "category": "concert",
-      "date": "2026-10-13T18:00:00.000Z",
-      "venue": {
-        "name": "Adana Çukurova Üniversitesi Açıkhava Tiyatrosu",
-        "city": "Adana",
-        "district": "Çukurova",
-        "lat": 37.032552,
-        "lng": 35.331724
-      },
-      "priceMin": 1803,
-      "priceMax": 1803,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/mustafa-sandal-konseri-70862.jpeg",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/adana/etkinlik/mustafa-sandal-konseri",
-          "title": "Mustafa Sandal Konseri",
-          "priceMin": 1803,
-          "priceMax": 1803
+          "url": "https://www.bubilet.com.tr/izmir/etkinlik/-mabel-matiz-",
+          "title": "Mabel Matiz",
+          "priceMin": 1200,
+          "priceMax": 1200
         }
       ]
     },
@@ -2689,6 +2639,31 @@
       ]
     },
     {
+      "id": "mustafa sandal|2026-10-13|3703,3533",
+      "title": "Mustafa Sandal Konseri",
+      "category": "concert",
+      "date": "2026-10-13T18:00:00.000Z",
+      "venue": {
+        "name": "Adana Çukurova Üniversitesi Açıkhava Tiyatrosu",
+        "city": "Adana",
+        "district": "Çukurova",
+        "lat": 37.032552,
+        "lng": 35.331724
+      },
+      "priceMin": 1803,
+      "priceMax": 1803,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/mustafa-sandal-konseri-70862.jpeg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/adana/etkinlik/mustafa-sandal-konseri",
+          "title": "Mustafa Sandal Konseri",
+          "priceMin": 1803,
+          "priceMax": 1803
+        }
+      ]
+    },
+    {
       "id": "buray|2026-09-22|3703,3533",
       "title": "Buray",
       "category": "concert",
@@ -2708,6 +2683,31 @@
           "source": "bubilet",
           "url": "https://www.bubilet.com.tr/adana/etkinlik/buray",
           "title": "Buray",
+          "priceMin": 1250,
+          "priceMax": 1250
+        }
+      ]
+    },
+    {
+      "id": "balkir ender|2026-12-14|3699,3533",
+      "title": "Ender Balkır Konseri",
+      "category": "concert",
+      "date": "2026-12-14T17:30:00.000Z",
+      "venue": {
+        "name": "01 Burda PGM Sahne - Adana",
+        "city": "Adana",
+        "district": "Seyhan",
+        "lat": 36.98636,
+        "lng": 35.325286
+      },
+      "priceMin": 1250,
+      "priceMax": 1250,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/ender-balkir-konseri-60463.png",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/adana/etkinlik/ender-balkir-konseri",
+          "title": "Ender Balkır Konseri",
           "priceMin": 1250,
           "priceMax": 1250
         }
@@ -2735,31 +2735,6 @@
           "title": "Anadolu Ateşi",
           "priceMin": 2300,
           "priceMax": 2300
-        }
-      ]
-    },
-    {
-      "id": "balkir ender|2026-12-14|3699,3533",
-      "title": "Ender Balkır Konseri",
-      "category": "concert",
-      "date": "2026-12-14T17:30:00.000Z",
-      "venue": {
-        "name": "01 Burda PGM Sahne - Adana",
-        "city": "Adana",
-        "district": "Seyhan",
-        "lat": 36.98636,
-        "lng": 35.325286
-      },
-      "priceMin": 1250,
-      "priceMax": 1250,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/ender-balkir-konseri-60463.png",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/adana/etkinlik/ender-balkir-konseri",
-          "title": "Ender Balkır Konseri",
-          "priceMin": 1250,
-          "priceMax": 1250
         }
       ]
     },
@@ -2864,31 +2839,6 @@
       ]
     },
     {
-      "id": "kirac kokler la|2026-09-16|3699,3533",
-      "title": "Kıraç'la Kökler Konseri",
-      "category": "concert",
-      "date": "2026-09-16T18:00:00.000Z",
-      "venue": {
-        "name": "Adana Merkez Park Amfi Tiyatro",
-        "city": "Adana",
-        "district": "Adana",
-        "lat": 36.98636,
-        "lng": 35.325286
-      },
-      "priceMin": 850,
-      "priceMax": 850,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/kirac-konseri-70147.jpeg",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/adana/etkinlik/kiracla-kokler-konseri",
-          "title": "Kıraç'la Kökler Konseri",
-          "priceMin": 850,
-          "priceMax": 850
-        }
-      ]
-    },
-    {
       "id": "erdal eroglu erzincan musa|2026-07-05|3699,3533",
       "title": "Musa Eroğlu & Erdal Erzincan Konseri",
       "category": "concert",
@@ -2910,6 +2860,31 @@
           "title": "Musa Eroğlu & Erdal Erzincan Konseri",
           "priceMin": 1250,
           "priceMax": 1250
+        }
+      ]
+    },
+    {
+      "id": "kirac kokler la|2026-09-16|3699,3533",
+      "title": "Kıraç'la Kökler Konseri",
+      "category": "concert",
+      "date": "2026-09-16T18:00:00.000Z",
+      "venue": {
+        "name": "Adana Merkez Park Amfi Tiyatro",
+        "city": "Adana",
+        "district": "Adana",
+        "lat": 36.98636,
+        "lng": 35.325286
+      },
+      "priceMin": 850,
+      "priceMax": 850,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/kirac-konseri-70147.jpeg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/adana/etkinlik/kiracla-kokler-konseri",
+          "title": "Kıraç'la Kökler Konseri",
+          "priceMin": 850,
+          "priceMax": 850
         }
       ]
     },
@@ -3064,31 +3039,6 @@
       ]
     },
     {
-      "id": "fis melis|2026-10-31|3699,3533",
-      "title": "Melis Fis Konseri",
-      "category": "concert",
-      "date": "2026-10-31T14:00:00.000Z",
-      "venue": {
-        "name": "01 Burda PGM Sahne - Adana",
-        "city": "Adana",
-        "district": "Seyhan",
-        "lat": 36.98636,
-        "lng": 35.325286
-      },
-      "priceMin": 1350,
-      "priceMax": 1350,
-      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/melis-fis--konseri-55119.jpg",
-      "sources": [
-        {
-          "source": "bubilet",
-          "url": "https://www.bubilet.com.tr/adana/etkinlik/melis-fis--konseri",
-          "title": "Melis Fis Konseri",
-          "priceMin": 1350,
-          "priceMax": 1350
-        }
-      ]
-    },
-    {
       "id": "adana akademi bale gosterisi sonu yil|2026-06-27|3699,3533",
       "title": "Adana Bale Akademi Yıl Sonu Gösterisi",
       "category": "concert",
@@ -3114,6 +3064,31 @@
       ]
     },
     {
+      "id": "fis melis|2026-10-31|3699,3533",
+      "title": "Melis Fis Konseri",
+      "category": "concert",
+      "date": "2026-10-31T14:00:00.000Z",
+      "venue": {
+        "name": "01 Burda PGM Sahne - Adana",
+        "city": "Adana",
+        "district": "Seyhan",
+        "lat": 36.98636,
+        "lng": 35.325286
+      },
+      "priceMin": 1350,
+      "priceMax": 1350,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/melis-fis--konseri-55119.jpg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/adana/etkinlik/melis-fis--konseri",
+          "title": "Melis Fis Konseri",
+          "priceMin": 1350,
+          "priceMax": 1350
+        }
+      ]
+    },
+    {
       "id": "capella timbrfifths|2026-11-21|3699,3533",
       "title": "A Capella TimbrFifths",
       "category": "concert",
@@ -3135,6 +3110,31 @@
           "title": "A Capella TimbrFifths",
           "priceMin": 950,
           "priceMax": 950
+        }
+      ]
+    },
+    {
+      "id": "ankara echoes|2026-06-27|3699,3533",
+      "title": "Ankara Echoes",
+      "category": "concert",
+      "date": "2026-06-27T19:00:00.000Z",
+      "venue": {
+        "name": "Holly Stone Performance Hall Adana",
+        "city": "Adana",
+        "district": "Seyhan",
+        "lat": 36.98636,
+        "lng": 35.325286
+      },
+      "priceMin": 850,
+      "priceMax": 850,
+      "imageUrl": "https://cdn.bubilet.com.tr/cdn-cgi/image/width=1200,quality=100/files/Etkinlik/ankara-echoes--57294.jpeg",
+      "sources": [
+        {
+          "source": "bubilet",
+          "url": "https://www.bubilet.com.tr/adana/etkinlik/ankara-echoes-",
+          "title": "Ankara Echoes",
+          "priceMin": 850,
+          "priceMax": 850
         }
       ]
     },
@@ -3239,5 +3239,5 @@
       ]
     }
   ],
-  "ingestedAt": "2026-06-20T08:19:36.794Z"
+  "ingestedAt": "2026-06-21T08:56:10.218Z"
 }
