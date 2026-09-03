@@ -1,10 +1,10 @@
 {
   "events": [
     {
-      "id": "stanbul tarkan|2026-09-16|4109,2902",
+      "id": "stanbul tarkan|2026-09-17|4109,2902",
       "title": "Tarkan İstanbul Konseri",
       "category": "concert",
-      "date": "2026-09-16T21:00:00.000Z",
+      "date": "2026-09-17T21:00:00.000Z",
       "venue": {
         "name": "Volkswagen Arena",
         "city": "İstanbul",
@@ -33,10 +33,10 @@
       ]
     },
     {
-      "id": "aksu sezen|2026-09-24|4105,2899",
+      "id": "aksu sezen|2026-09-25|4105,2899",
       "title": "Sezen Aksu - Harbiye",
       "category": "concert",
-      "date": "2026-09-24T21:00:00.000Z",
+      "date": "2026-09-25T21:00:00.000Z",
       "venue": {
         "name": "Harbiye Cemil Topuzlu Açıkhava",
         "city": "İstanbul",
@@ -72,10 +72,10 @@
       ]
     },
     {
-      "id": "mabel matiz|2026-10-02|4105,2899",
+      "id": "mabel matiz|2026-10-03|4105,2899",
       "title": "Mabel Matiz Konseri",
       "category": "concert",
-      "date": "2026-10-02T21:00:00.000Z",
+      "date": "2026-10-03T21:00:00.000Z",
       "venue": {
         "name": "KüçükÇiftlik Park",
         "city": "İstanbul",
@@ -104,10 +104,10 @@
       ]
     },
     {
-      "id": "besiktas teoman|2026-09-09|4104,2901",
+      "id": "besiktas teoman|2026-09-10|4104,2901",
       "title": "Teoman - IF Beşiktaş",
       "category": "concert",
-      "date": "2026-09-09T22:00:00.000Z",
+      "date": "2026-09-10T22:00:00.000Z",
       "venue": {
         "name": "IF Performance Hall Beşiktaş",
         "city": "İstanbul",
@@ -129,10 +129,10 @@
       ]
     },
     {
-      "id": "mor otesi|2026-09-27|4107,2902",
+      "id": "mor otesi|2026-09-28|4107,2902",
       "title": "Mor ve Ötesi Konseri",
       "category": "concert",
-      "date": "2026-09-27T21:00:00.000Z",
+      "date": "2026-09-28T21:00:00.000Z",
       "venue": {
         "name": "Zorlu PSM",
         "city": "İstanbul",
@@ -168,10 +168,10 @@
       ]
     },
     {
-      "id": "erener sertab|2026-10-12|4108,2903",
+      "id": "erener sertab|2026-10-13|4108,2903",
       "title": "SERTAB ERENER Konseri",
       "category": "concert",
-      "date": "2026-10-12T21:00:00.000Z",
+      "date": "2026-10-13T21:00:00.000Z",
       "venue": {
         "name": "UNIQ İstanbul",
         "city": "İstanbul",
@@ -200,10 +200,10 @@
       ]
     },
     {
-      "id": "derbi fb gs|2026-09-11|4110,2899",
+      "id": "derbi fb gs|2026-09-12|4110,2899",
       "title": "GS - FB Derbi",
       "category": "sport",
-      "date": "2026-09-11T19:00:00.000Z",
+      "date": "2026-09-12T19:00:00.000Z",
       "venue": {
         "name": "Türk Telekom Stadyumu",
         "city": "İstanbul",
@@ -225,10 +225,10 @@
       ]
     },
     {
-      "id": "ankara hadise|2026-09-14|3995,3286",
+      "id": "ankara hadise|2026-09-15|3995,3286",
       "title": "Hadise - Ankara Arena",
       "category": "concert",
-      "date": "2026-09-14T21:00:00.000Z",
+      "date": "2026-09-15T21:00:00.000Z",
       "venue": {
         "name": "Ankara Arena",
         "city": "Ankara",
@@ -257,10 +257,10 @@
       ]
     },
     {
-      "id": "ankara athena|2026-09-08|3991,3286",
+      "id": "ankara athena|2026-09-09|3991,3286",
       "title": "Athena Ankara",
       "category": "concert",
-      "date": "2026-09-08T22:00:00.000Z",
+      "date": "2026-09-09T22:00:00.000Z",
       "venue": {
         "name": "Jolly Joker Ankara",
         "city": "Ankara",
@@ -289,10 +289,10 @@
       ]
     },
     {
-      "id": "cem cmylmz firsat firsat yilmaz|2026-09-30|3991,3278",
+      "id": "cem cmylmz firsat firsat yilmaz|2026-10-01|3991,3278",
       "title": "Cem Yılmaz - CMYLMZ FIRSAT BU FIRSAT",
       "category": "stand-up",
-      "date": "2026-09-30T20:00:00.000Z",
+      "date": "2026-10-01T20:00:00.000Z",
       "venue": {
         "name": "ATO Congresium",
         "city": "Ankara",
@@ -314,10 +314,10 @@
       ]
     },
     {
-      "id": "aassm bastik zeynep zmir|2026-09-23|3842,2713",
+      "id": "aassm bastik zeynep zmir|2026-09-24|3842,2713",
       "title": "Zeynep Bastık - AASSM İzmir",
       "category": "concert",
-      "date": "2026-09-23T21:00:00.000Z",
+      "date": "2026-09-24T21:00:00.000Z",
       "venue": {
         "name": "Ahmed Adnan Saygun Sanat Merkezi",
         "city": "İzmir",
@@ -346,10 +346,10 @@
       ]
     },
     {
-      "id": "aspendos bale opera|2026-10-22|3694,3117",
+      "id": "aspendos bale opera|2026-10-23|3694,3117",
       "title": "Aspendos Opera ve Bale Festivali",
       "category": "festival",
-      "date": "2026-10-22T21:00:00.000Z",
+      "date": "2026-10-23T21:00:00.000Z",
       "venue": {
         "name": "Aspendos Antik Tiyatrosu",
         "city": "Antalya",
@@ -371,16 +371,16 @@
       ]
     },
     {
-      "id": "antalya yalin|2026-09-19|3689,3071",
+      "id": "antalya yalin|2026-09-20|3691,3064",
       "title": "YALIN Antalya",
       "category": "concert",
-      "date": "2026-09-19T21:00:00.000Z",
+      "date": "2026-09-20T21:00:00.000Z",
       "venue": {
         "name": "Antalya Spor Salonu",
         "city": "Antalya",
-        "lat": 36.887294,
-        "lng": 30.707455,
-        "district": "Antalya"
+        "lat": 36.906021,
+        "lng": 30.644618,
+        "district": "Kepez"
       },
       "priceMin": 800,
       "priceMax": 2200,
@@ -403,10 +403,10 @@
       ]
     },
     {
-      "id": "devlet hamlet tiyatrolari|2026-09-15|4020,2905",
+      "id": "devlet hamlet tiyatrolari|2026-09-16|4020,2905",
       "title": "Hamlet - Devlet Tiyatroları",
       "category": "theater",
-      "date": "2026-09-15T20:00:00.000Z",
+      "date": "2026-09-16T20:00:00.000Z",
       "venue": {
         "name": "Merinos AKKM",
         "city": "Bursa",
@@ -428,10 +428,10 @@
       ]
     },
     {
-      "id": "bir kafamda tuhaflik|2026-09-26|4107,2902",
+      "id": "bir kafamda tuhaflik|2026-09-27|4107,2902",
       "title": "Kafamda Bir Tuhaflık Müzikali",
       "category": "musical",
-      "date": "2026-09-26T20:00:00.000Z",
+      "date": "2026-09-27T20:00:00.000Z",
       "venue": {
         "name": "Zorlu PSM",
         "city": "İstanbul",
@@ -460,10 +460,10 @@
       ]
     },
     {
-      "id": "tarkan volkswagen|2026-09-16|4109,2902",
+      "id": "tarkan volkswagen|2026-09-17|4109,2902",
       "title": "TARKAN - Volkswagen Arena",
       "category": "concert",
-      "date": "2026-09-16T21:00:00.000Z",
+      "date": "2026-09-17T21:00:00.000Z",
       "venue": {
         "name": "Volkswagen Arena",
         "city": "İstanbul",
@@ -485,10 +485,10 @@
       ]
     },
     {
-      "id": "ezhel|2026-09-20|4105,2899",
+      "id": "ezhel|2026-09-21|4105,2899",
       "title": "Ezhel Konseri",
       "category": "concert",
-      "date": "2026-09-20T21:00:00.000Z",
+      "date": "2026-09-21T21:00:00.000Z",
       "venue": {
         "name": "KüçükÇiftlik Park",
         "city": "İstanbul",
@@ -524,10 +524,10 @@
       ]
     },
     {
-      "id": "manga|2026-09-13|4096,2910",
+      "id": "manga|2026-09-14|4096,2910",
       "title": "MANGA Konseri",
       "category": "concert",
-      "date": "2026-09-13T21:00:00.000Z",
+      "date": "2026-09-14T21:00:00.000Z",
       "venue": {
         "name": "Bostancı Gösteri Merkezi",
         "city": "İstanbul",
@@ -556,10 +556,10 @@
       ]
     },
     {
-      "id": "ceza stanbul|2026-10-07|4105,2899",
+      "id": "ceza stanbul|2026-10-08|4105,2899",
       "title": "CEZA İstanbul",
       "category": "concert",
-      "date": "2026-10-07T21:00:00.000Z",
+      "date": "2026-10-08T21:00:00.000Z",
       "venue": {
         "name": "KüçükÇiftlik Park",
         "city": "İstanbul",
@@ -588,10 +588,10 @@
       ]
     },
     {
-      "id": "fenerbahce galatasaray lig super|2026-09-11|4110,2899",
+      "id": "fenerbahce galatasaray lig super|2026-09-12|4110,2899",
       "title": "Galatasaray - Fenerbahçe Süper Lig",
       "category": "sport",
-      "date": "2026-09-11T19:00:00.000Z",
+      "date": "2026-09-12T19:00:00.000Z",
       "venue": {
         "name": "Türk Telekom Stadyumu",
         "city": "İstanbul",
@@ -613,10 +613,10 @@
       ]
     },
     {
-      "id": "besiktas fenerbahce|2026-09-18|4099,2904",
+      "id": "besiktas fenerbahce|2026-09-19|4099,2904",
       "title": "Fenerbahçe - Beşiktaş",
       "category": "sport",
-      "date": "2026-09-18T19:00:00.000Z",
+      "date": "2026-09-19T19:00:00.000Z",
       "venue": {
         "name": "Ülker Stadyumu",
         "city": "İstanbul",
@@ -638,10 +638,10 @@
       ]
     },
     {
-      "id": "cem stand up yilmaz|2026-09-30|3991,3278",
+      "id": "cem stand up yilmaz|2026-10-01|3991,3278",
       "title": "CEM YILMAZ Stand-up",
       "category": "stand-up",
-      "date": "2026-09-30T20:00:00.000Z",
+      "date": "2026-10-01T20:00:00.000Z",
       "venue": {
         "name": "ATO Congresium",
         "city": "Ankara",
@@ -663,10 +663,10 @@
       ]
     },
     {
-      "id": "buray zmir|2026-10-05|3845,2717",
+      "id": "buray zmir|2026-10-06|3845,2717",
       "title": "BURAY İzmir Arena",
       "category": "concert",
-      "date": "2026-10-05T21:00:00.000Z",
+      "date": "2026-10-06T21:00:00.000Z",
       "venue": {
         "name": "İzmir Arena",
         "city": "İzmir",
@@ -695,10 +695,10 @@
       ]
     },
     {
-      "id": "aspendos|2026-10-22|3694,3117",
+      "id": "aspendos|2026-10-23|3694,3117",
       "title": "Aspendos Festival",
       "category": "festival",
-      "date": "2026-10-22T21:00:00.000Z",
+      "date": "2026-10-23T21:00:00.000Z",
       "venue": {
         "name": "Aspendos Antik Tiyatrosu",
         "city": "Antalya",
@@ -720,10 +720,10 @@
       ]
     },
     {
-      "id": "bursaspor lig sakaryaspor|2026-09-10|4018,2907",
+      "id": "bursaspor lig sakaryaspor|2026-09-11|4018,2907",
       "title": "Bursaspor - Sakaryaspor 1.Lig",
       "category": "sport",
-      "date": "2026-09-10T19:00:00.000Z",
+      "date": "2026-09-11T19:00:00.000Z",
       "venue": {
         "name": "Bursa Atatürk Stadyumu",
         "city": "Bursa",
@@ -745,10 +745,10 @@
       ]
     },
     {
-      "id": "ankara can hasan kaya|2026-09-21|3989,3286",
+      "id": "ankara can hasan kaya|2026-09-22|3989,3286",
       "title": "HASAN CAN KAYA Ankara",
       "category": "stand-up",
-      "date": "2026-09-21T21:00:00.000Z",
+      "date": "2026-09-22T21:00:00.000Z",
       "venue": {
         "name": "IF Performance Hall Ankara",
         "city": "Ankara",
@@ -777,10 +777,10 @@
       ]
     },
     {
-      "id": "bursa hamlet|2026-09-15|4020,2905",
+      "id": "bursa hamlet|2026-09-16|4020,2905",
       "title": "HAMLET Bursa",
       "category": "theater",
-      "date": "2026-09-15T20:00:00.000Z",
+      "date": "2026-09-16T20:00:00.000Z",
       "venue": {
         "name": "Merinos AKKM",
         "city": "Bursa",
@@ -802,10 +802,10 @@
       ]
     },
     {
-      "id": "akustik gece teoman|2026-09-09|4104,2901",
+      "id": "akustik gece teoman|2026-09-10|4104,2901",
       "title": "Teoman Akustik Gece",
       "category": "concert",
-      "date": "2026-09-09T22:00:00.000Z",
+      "date": "2026-09-10T22:00:00.000Z",
       "venue": {
         "name": "IF Performance Hall Beşiktaş",
         "city": "İstanbul",
@@ -827,10 +827,10 @@
       ]
     },
     {
-      "id": "ankara hadi se|2026-09-14|3995,3286",
+      "id": "ankara hadi se|2026-09-15|3995,3286",
       "title": "HADİSE Ankara Konseri",
       "category": "concert",
-      "date": "2026-09-14T21:00:00.000Z",
+      "date": "2026-09-15T21:00:00.000Z",
       "venue": {
         "name": "Ankara Arena",
         "city": "Ankara",
@@ -852,5 +852,5 @@
       ]
     }
   ],
-  "ingestedAt": "2026-09-02T09:10:55.633Z"
+  "ingestedAt": "2026-09-03T09:18:42.556Z"
 }
