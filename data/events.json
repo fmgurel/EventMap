@@ -1,10 +1,10 @@
 {
   "events": [
     {
-      "id": "stanbul tarkan|2026-10-12|4109,2902",
+      "id": "stanbul tarkan|2026-10-13|4109,2902",
       "title": "Tarkan İstanbul Konseri",
       "category": "concert",
-      "date": "2026-10-12T21:00:00.000Z",
+      "date": "2026-10-13T21:00:00.000Z",
       "venue": {
         "name": "Volkswagen Arena",
         "city": "İstanbul",
@@ -33,10 +33,10 @@
       ]
     },
     {
-      "id": "aksu sezen|2026-10-20|4105,2899",
+      "id": "aksu sezen|2026-10-21|4105,2899",
       "title": "Sezen Aksu - Harbiye",
       "category": "concert",
-      "date": "2026-10-20T21:00:00.000Z",
+      "date": "2026-10-21T21:00:00.000Z",
       "venue": {
         "name": "Harbiye Cemil Topuzlu Açıkhava",
         "city": "İstanbul",
@@ -65,10 +65,10 @@
       ]
     },
     {
-      "id": "mabel matiz|2026-10-28|4105,2899",
+      "id": "mabel matiz|2026-10-29|4105,2899",
       "title": "Mabel Matiz Konseri",
       "category": "concert",
-      "date": "2026-10-28T21:00:00.000Z",
+      "date": "2026-10-29T21:00:00.000Z",
       "venue": {
         "name": "KüçükÇiftlik Park",
         "city": "İstanbul",
@@ -97,10 +97,10 @@
       ]
     },
     {
-      "id": "besiktas teoman|2026-10-05|4104,2901",
+      "id": "besiktas teoman|2026-10-06|4104,2901",
       "title": "Teoman - IF Beşiktaş",
       "category": "concert",
-      "date": "2026-10-05T22:00:00.000Z",
+      "date": "2026-10-06T22:00:00.000Z",
       "venue": {
         "name": "IF Performance Hall Beşiktaş",
         "city": "İstanbul",
@@ -122,10 +122,10 @@
       ]
     },
     {
-      "id": "mor otesi|2026-10-23|4107,2902",
+      "id": "mor otesi|2026-10-24|4107,2902",
       "title": "Mor ve Ötesi Konseri",
       "category": "concert",
-      "date": "2026-10-23T21:00:00.000Z",
+      "date": "2026-10-24T21:00:00.000Z",
       "venue": {
         "name": "Zorlu PSM",
         "city": "İstanbul",
@@ -154,10 +154,10 @@
       ]
     },
     {
-      "id": "erener sertab|2026-11-07|4108,2903",
+      "id": "erener sertab|2026-11-08|4108,2903",
       "title": "SERTAB ERENER Konseri",
       "category": "concert",
-      "date": "2026-11-07T21:00:00.000Z",
+      "date": "2026-11-08T21:00:00.000Z",
       "venue": {
         "name": "UNIQ İstanbul",
         "city": "İstanbul",
@@ -186,10 +186,10 @@
       ]
     },
     {
-      "id": "derbi fb gs|2026-10-07|4110,2899",
+      "id": "derbi fb gs|2026-10-08|4110,2899",
       "title": "GS - FB Derbi",
       "category": "sport",
-      "date": "2026-10-07T19:00:00.000Z",
+      "date": "2026-10-08T19:00:00.000Z",
       "venue": {
         "name": "Türk Telekom Stadyumu",
         "city": "İstanbul",
@@ -211,10 +211,10 @@
       ]
     },
     {
-      "id": "ankara hadise|2026-10-10|3995,3286",
+      "id": "ankara hadise|2026-10-11|3995,3286",
       "title": "Hadise - Ankara Arena",
       "category": "concert",
-      "date": "2026-10-10T21:00:00.000Z",
+      "date": "2026-10-11T21:00:00.000Z",
       "venue": {
         "name": "Ankara Arena",
         "city": "Ankara",
@@ -243,10 +243,10 @@
       ]
     },
     {
-      "id": "ankara athena|2026-10-04|3991,3286",
+      "id": "ankara athena|2026-10-05|3991,3286",
       "title": "Athena Ankara",
       "category": "concert",
-      "date": "2026-10-04T22:00:00.000Z",
+      "date": "2026-10-05T22:00:00.000Z",
       "venue": {
         "name": "Jolly Joker Ankara",
         "city": "Ankara",
@@ -275,10 +275,10 @@
       ]
     },
     {
-      "id": "cem cmylmz firsat firsat yilmaz|2026-10-26|3991,3278",
+      "id": "cem cmylmz firsat firsat yilmaz|2026-10-27|3991,3278",
       "title": "Cem Yılmaz - CMYLMZ FIRSAT BU FIRSAT",
       "category": "stand-up",
-      "date": "2026-10-26T20:00:00.000Z",
+      "date": "2026-10-27T20:00:00.000Z",
       "venue": {
         "name": "ATO Congresium",
         "city": "Ankara",
@@ -300,10 +300,10 @@
       ]
     },
     {
-      "id": "aassm bastik zeynep zmir|2026-10-19|3842,2713",
+      "id": "aassm bastik zeynep zmir|2026-10-20|3842,2713",
       "title": "Zeynep Bastık - AASSM İzmir",
       "category": "concert",
-      "date": "2026-10-19T21:00:00.000Z",
+      "date": "2026-10-20T21:00:00.000Z",
       "venue": {
         "name": "Ahmed Adnan Saygun Sanat Merkezi",
         "city": "İzmir",
@@ -332,10 +332,10 @@
       ]
     },
     {
-      "id": "aspendos bale opera|2026-11-17|3694,3117",
+      "id": "aspendos bale opera|2026-11-18|3694,3117",
       "title": "Aspendos Opera ve Bale Festivali",
       "category": "festival",
-      "date": "2026-11-17T21:00:00.000Z",
+      "date": "2026-11-18T21:00:00.000Z",
       "venue": {
         "name": "Aspendos Antik Tiyatrosu",
         "city": "Antalya",
@@ -357,10 +357,10 @@
       ]
     },
     {
-      "id": "antalya yalin|2026-10-15|3691,3064",
+      "id": "antalya yalin|2026-10-16|3691,3064",
       "title": "YALIN Antalya",
       "category": "concert",
-      "date": "2026-10-15T21:00:00.000Z",
+      "date": "2026-10-16T21:00:00.000Z",
       "venue": {
         "name": "Antalya Spor Salonu",
         "city": "Antalya",
@@ -389,10 +389,10 @@
       ]
     },
     {
-      "id": "devlet hamlet tiyatrolari|2026-10-11|4020,2905",
+      "id": "devlet hamlet tiyatrolari|2026-10-12|4020,2905",
       "title": "Hamlet - Devlet Tiyatroları",
       "category": "theater",
-      "date": "2026-10-11T20:00:00.000Z",
+      "date": "2026-10-12T20:00:00.000Z",
       "venue": {
         "name": "Merinos AKKM",
         "city": "Bursa",
@@ -414,10 +414,10 @@
       ]
     },
     {
-      "id": "bir kafamda tuhaflik|2026-10-22|4107,2902",
+      "id": "bir kafamda tuhaflik|2026-10-23|4107,2902",
       "title": "Kafamda Bir Tuhaflık Müzikali",
       "category": "musical",
-      "date": "2026-10-22T20:00:00.000Z",
+      "date": "2026-10-23T20:00:00.000Z",
       "venue": {
         "name": "Zorlu PSM",
         "city": "İstanbul",
@@ -439,27 +439,6 @@
       ]
     },
     {
-      "id": "amed koma|2026-09-30|4105,2899",
-      "title": "Koma Amed",
-      "category": "concert",
-      "date": "2026-09-30T21:00:00.000Z",
-      "venue": {
-        "name": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
-        "city": "İstanbul",
-        "district": "Şişli",
-        "lat": 41.0463,
-        "lng": 28.9874
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/07092026121120-koma_amed_070926.jpg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/koma-amed-harbiye-acikhava-biletleri",
-          "title": "Koma Amed"
-        }
-      ]
-    },
-    {
       "id": "cave mahmut modundayiz orhan sunar|2026-10-02|4107,2902",
       "title": "Modundayız Sunar: Mahmut Orhan “Cave”",
       "category": "concert",
@@ -477,6 +456,27 @@
           "source": "passo",
           "url": "https://www.passo.com.tr/tr/etkinlik/mahmut-orhan-cave-elektronik-muzik-biletleri-zorlupsm-turkcell-sahnesi-passo",
           "title": "Modundayız Sunar: Mahmut Orhan “Cave”"
+        }
+      ]
+    },
+    {
+      "id": "amed koma|2026-09-30|4105,2899",
+      "title": "Koma Amed",
+      "category": "concert",
+      "date": "2026-09-30T21:00:00.000Z",
+      "venue": {
+        "name": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+        "city": "İstanbul",
+        "district": "Şişli",
+        "lat": 41.0463,
+        "lng": 28.9874
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/07092026121120-koma_amed_070926.jpg?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/koma-amed-harbiye-acikhava-biletleri",
+          "title": "Koma Amed"
         }
       ]
     },
@@ -817,52 +817,51 @@
       ]
     },
     {
-      "id": "28 atolyesi eylul seramik|2026-09-28|4104,2892",
-      "title": "28 Eylül | Seramik Atölyesi",
+      "id": "29 atolyesi eylul tezhip|2026-09-29|4101,2897",
+      "title": "29 Eylül | Tezhip Atölyesi",
       "category": "concert",
-      "date": "2026-09-28T14:00:00.000Z",
+      "date": "2026-09-29T15:00:00.000Z",
       "venue": {
-        "name": "Atölye Sahi",
+        "name": "Fabrikafa Make&Coffee",
         "city": "İstanbul",
-        "district": "Eyüpsultan",
-        "lat": 41.038099,
-        "lng": 28.923009
+        "district": "İstanbul",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/24052026195348-passoseramik1920.jpg?w=760&h=400",
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/05022026100101-tezhip_sanati_atolyesi.jpg?w=760&h=400",
       "sources": [
         {
           "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/seramik-atolyesi-atolye-sahi-uskudar-workshop-biletleri-passo",
-          "title": "28 Eylül | Seramik Atölyesi"
+          "url": "https://www.passo.com.tr/tr/etkinlik/parfum-tasarim-atolyesi-worksop-istanbul-uskudar",
+          "title": "29 Eylül | Parfüm Tasarımı Atölyesi"
+        },
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/tezhip-atolyesi-worksop-istanbul-uskudar",
+          "title": "29 Eylül | Tezhip Atölyesi"
+        },
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/vitray-atolyesi-worksop-istanbul-uskudar",
+          "title": "29 Eylül | Vitray Atölyesi"
+        },
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/vitray-atolyesi-worksop-istanbul-uskudar",
+          "title": "29 Eylül | Vitray Atölyesi"
+        },
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/parfum-tasarim-atolyesi-worksop-istanbul-uskudar",
+          "title": "29 Eylül | Parfüm Tasarımı Atölyesi"
         }
       ]
     },
     {
-      "id": "atolyesi aylik kurs seramik|2026-09-28|4104,2892",
-      "title": "Seramik Atölyesi (Aylık Kurs)",
+      "id": "29 bilim doga eylul muzesi ozel|2026-09-29|4107,2895",
+      "title": "29 Eylül | Özel Doğa Bilim Müzesi",
       "category": "concert",
-      "date": "2026-09-28T14:00:00.000Z",
-      "venue": {
-        "name": "Atölye Sahi",
-        "city": "İstanbul",
-        "district": "Eyüpsultan",
-        "lat": 41.038099,
-        "lng": 28.923009
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/01062026155729-seramikaylik1920.jpg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/seramik-atolyesi-atolye-sahi-uskudar-workshop-biletleri-passo",
-          "title": "Seramik Atölyesi (Aylık Kurs)"
-        }
-      ]
-    },
-    {
-      "id": "28 bilim doga eylul muzesi ozel|2026-09-28|4107,2895",
-      "title": "28 Eylül | Özel Doğa Bilim Müzesi",
-      "category": "concert",
-      "date": "2026-09-28T08:55:00.000Z",
+      "date": "2026-09-29T08:55:00.000Z",
       "venue": {
         "name": "Natural Science Museums",
         "city": "İstanbul",
@@ -875,41 +874,15 @@
         {
           "source": "passo",
           "url": "https://www.passo.com.tr/tr/etkinlik/ozel-doga-bilim-muzesi-istanbul",
-          "title": "28 Eylül | Özel Doğa Bilim Müzesi"
+          "title": "29 Eylül | Özel Doğa Bilim Müzesi"
         }
       ]
     },
     {
-      "id": "28 atolyesi eylul lamba mozaik|2026-09-28|4109,2899",
-      "title": "28 Eylül | Mozaik Lamba Atölyesi",
+      "id": "29 atolyesi cam cerceveli eylul hat kaligrafi pirinc sanati uzerine|2026-09-29|4101,2897",
+      "title": "29 Eylül | Pirinç Çerçeveli Cam Üzerine Hat/Kaligrafi Sanatı Atölyesi",
       "category": "concert",
-      "date": "2026-09-28T15:00:00.000Z",
-      "venue": {
-        "name": "Bağımsız Sanat Vakfı",
-        "city": "İstanbul",
-        "district": "Kağıthane",
-        "lat": 41.09445,
-        "lng": 28.99355
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/24042026113930-lamba1920.jpg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/mozaik-lamba-atolyesi-worksop-istanbul-fatih-biletleri-passo",
-          "title": "28 Eylül | Mozaik Lamba Atölyesi"
-        },
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/mozaik-lamba-atolyesi-worksop-istanbul-fatih-biletleri-passo",
-          "title": "28 Eylül | Mozaik Lamba Atölyesi"
-        }
-      ]
-    },
-    {
-      "id": "28 atolyesi cam cerceveli eylul hat kaligrafi pirinc sanati uzerine|2026-09-28|4101,2897",
-      "title": "28 Eylül | Pirinç Çerçeveli Cam Üzerine Hat/Kaligrafi Sanatı Atölyesi",
-      "category": "concert",
-      "date": "2026-09-28T15:00:00.000Z",
+      "date": "2026-09-29T15:00:00.000Z",
       "venue": {
         "name": "Fabrikafa Make&Coffee",
         "city": "İstanbul",
@@ -922,51 +895,41 @@
         {
           "source": "passo",
           "url": "https://www.passo.com.tr/tr/etkinlik/pirinc-cerceveli-cam-uzerine-hat-kaligrafi-sanat-atolyesi-worksop-istnabul-uskudar",
-          "title": "28 Eylül | Pirinç Çerçeveli Cam Üzerine Hat/Kaligrafi Sanatı Atölyesi"
+          "title": "29 Eylül | Pirinç Çerçeveli Cam Üzerine Hat/Kaligrafi Sanatı Atölyesi"
         }
       ]
     },
     {
-      "id": "28 atolyesi eylul vitray|2026-09-28|4101,2897",
-      "title": "28 Eylül | Vitray Atölyesi",
+      "id": "29 atolyesi eylul lamba mozaik|2026-09-29|4109,2899",
+      "title": "29 Eylül | Mozaik Lamba Atölyesi",
       "category": "concert",
-      "date": "2026-09-28T15:00:00.000Z",
+      "date": "2026-09-29T15:00:00.000Z",
       "venue": {
-        "name": "Fabrikafa Make&Coffee",
+        "name": "Bağımsız Sanat Vakfı",
         "city": "İstanbul",
-        "district": "İstanbul",
-        "lat": 41.009043,
-        "lng": 28.9661
+        "district": "Kağıthane",
+        "lat": 41.09445,
+        "lng": 28.99355
       },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/05022026120508-vitray_cam_boyama_atolyesi.jpg?w=760&h=400",
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/24042026113930-lamba1920.jpg?w=760&h=400",
       "sources": [
         {
           "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/deri-isciligi-atolyesi-worksop-istanbul-uskudar",
-          "title": "28 Eylül | Deri İşçiliği Atölyesi"
+          "url": "https://www.passo.com.tr/tr/etkinlik/mozaik-lamba-atolyesi-worksop-istanbul-fatih-biletleri-passo",
+          "title": "29 Eylül | Mozaik Lamba Atölyesi"
         },
         {
           "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/vitray-atolyesi-worksop-istanbul-uskudar",
-          "title": "28 Eylül | Vitray Atölyesi"
-        },
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/vitray-atolyesi-worksop-istanbul-uskudar",
-          "title": "28 Eylül | Vitray Atölyesi"
-        },
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/tezhip-atolyesi-worksop-istanbul-uskudar",
-          "title": "28 Eylül | Tezhip Atölyesi"
+          "url": "https://www.passo.com.tr/tr/etkinlik/mozaik-lamba-atolyesi-worksop-istanbul-fatih-biletleri-passo",
+          "title": "29 Eylül | Mozaik Lamba Atölyesi"
         }
       ]
     },
     {
-      "id": "28 atolyesi cini eylul resim sanati turk|2026-09-28|4101,2897",
-      "title": "28 Eylül | Türk Çini Resim Sanatı Atölyesi",
+      "id": "29 atolyesi cini eylul resim sanati turk|2026-09-29|4101,2897",
+      "title": "29 Eylül | Türk Çini Resim Sanatı Atölyesi",
       "category": "concert",
-      "date": "2026-09-28T15:00:00.000Z",
+      "date": "2026-09-29T15:00:00.000Z",
       "venue": {
         "name": "Fabrikafa Make&Coffee",
         "city": "İstanbul",
@@ -979,15 +942,57 @@
         {
           "source": "passo",
           "url": "https://www.passo.com.tr/tr/etkinlik/turk-cini-resim-sanat-atolyesi-worksop-istanbul-uskudar",
-          "title": "28 Eylül | Türk Çini Resim Sanatı Atölyesi"
+          "title": "29 Eylül | Türk Çini Resim Sanatı Atölyesi"
         }
       ]
     },
     {
-      "id": "28 ayasofya deneyim eylul muzesi tarih|2026-09-28|4105,2908",
-      "title": "28 Eylül | Ayasofya Tarih ve Deneyim Müzesi",
+      "id": "29 atolyesi deri eylul sciligi|2026-09-29|4101,2897",
+      "title": "29 Eylül | Deri İşçiliği Atölyesi",
       "category": "concert",
-      "date": "2026-09-28T08:00:00.000Z",
+      "date": "2026-09-29T15:00:00.000Z",
+      "venue": {
+        "name": "Fabrikafa Make&Coffee",
+        "city": "İstanbul",
+        "district": "İstanbul",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/30012026120132-deri_isciligi_atolyesi.jpg?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/deri-isciligi-atolyesi-worksop-istanbul-uskudar",
+          "title": "29 Eylül | Deri İşçiliği Atölyesi"
+        }
+      ]
+    },
+    {
+      "id": "lady macbeth|2026-09-29|4104,2898",
+      "title": "Lady Macbeth",
+      "category": "concert",
+      "date": "2026-09-29T16:00:00.000Z",
+      "venue": {
+        "name": "Taksim İstiklal Sahne",
+        "city": "İstanbul",
+        "district": "Beyoğlu",
+        "lat": 41.036822,
+        "lng": 28.983766
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/05082026164136-ladymacbeth1920.png?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/lady-macbeth-taksim-istiklal-sahne-tiyatro-biletleri-passo",
+          "title": "Lady Macbeth"
+        }
+      ]
+    },
+    {
+      "id": "29 ayasofya deneyim eylul muzesi tarih|2026-09-29|4105,2908",
+      "title": "29 Eylül | Ayasofya Tarih ve Deneyim Müzesi",
+      "category": "concert",
+      "date": "2026-09-29T08:00:00.000Z",
       "venue": {
         "name": "Ayasofya Tarih ve Deneyim Müzesi",
         "city": "İstanbul",
@@ -1000,36 +1005,36 @@
         {
           "source": "passo",
           "url": "https://www.passo.com.tr/tr/etkinlik/ayasofya-tarih-deneyim-muzesi-istanbul",
-          "title": "28 Eylül | Ayasofya Tarih ve Deneyim Müzesi"
+          "title": "29 Eylül | Ayasofya Tarih ve Deneyim Müzesi"
         }
       ]
     },
     {
-      "id": "fransiz macaron nesil pasta tart yeni|2026-09-28|4107,2895",
-      "title": "Fransız Pasta: Yeni Nesil Tart ve Macaron",
+      "id": "kuyucakli muazzez yusuf|2026-09-29|4104,2898",
+      "title": "Kuyucaklı Yusuf Muazzez",
       "category": "concert",
-      "date": "2026-09-28T19:00:00.000Z",
+      "date": "2026-09-29T18:00:00.000Z",
       "venue": {
-        "name": "Academic Kitchen",
+        "name": "Taksim İstiklal Sahne",
         "city": "İstanbul",
-        "district": "Eyüpsultan",
-        "lat": 41.065737,
-        "lng": 28.946793
+        "district": "Beyoğlu",
+        "lat": 41.036822,
+        "lng": 28.983766
       },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/30072026125936-09_macaron.jpg?w=760&h=400",
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/26082026102806-kuyucakli1920.jpg?w=760&h=400",
       "sources": [
         {
           "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/yeni-nesil-tart-ve-macaron-academic-kitchen-workshop-gebze-kocaeli",
-          "title": "Fransız Pasta: Yeni Nesil Tart ve Macaron"
+          "url": "https://www.passo.com.tr/tr/etkinlik/kuyucakli-yusuf-muazzez-taksim-istiklal-sahne-tiyatro-biletleri-passo",
+          "title": "Kuyucaklı Yusuf Muazzez"
         }
       ]
     },
     {
-      "id": "ezhel|2026-10-16|4105,2899",
+      "id": "ezhel|2026-10-17|4105,2899",
       "title": "Ezhel Konseri",
       "category": "concert",
-      "date": "2026-10-16T21:00:00.000Z",
+      "date": "2026-10-17T21:00:00.000Z",
       "venue": {
         "name": "KüçükÇiftlik Park",
         "city": "İstanbul",
@@ -1058,10 +1063,10 @@
       ]
     },
     {
-      "id": "manga|2026-10-09|4096,2910",
+      "id": "manga|2026-10-10|4096,2910",
       "title": "MANGA Konseri",
       "category": "concert",
-      "date": "2026-10-09T21:00:00.000Z",
+      "date": "2026-10-10T21:00:00.000Z",
       "venue": {
         "name": "Bostancı Gösteri Merkezi",
         "city": "İstanbul",
@@ -1083,10 +1088,10 @@
       ]
     },
     {
-      "id": "ankara can hasan kaya|2026-10-17|3989,3286",
+      "id": "ankara can hasan kaya|2026-10-18|3989,3286",
       "title": "HASAN CAN KAYA Ankara",
       "category": "stand-up",
-      "date": "2026-10-17T21:00:00.000Z",
+      "date": "2026-10-18T21:00:00.000Z",
       "venue": {
         "name": "IF Performance Hall Ankara",
         "city": "Ankara",
@@ -1115,10 +1120,10 @@
       ]
     },
     {
-      "id": "buray zmir|2026-10-31|3845,2717",
+      "id": "buray zmir|2026-11-01|3845,2717",
       "title": "Buray Konseri İzmir",
       "category": "concert",
-      "date": "2026-10-31T21:00:00.000Z",
+      "date": "2026-11-01T21:00:00.000Z",
       "venue": {
         "name": "İzmir Arena",
         "city": "İzmir",
@@ -1140,10 +1145,10 @@
       ]
     },
     {
-      "id": "bursa hamlet|2026-10-11|4020,2905",
+      "id": "bursa hamlet|2026-10-12|4020,2905",
       "title": "HAMLET Bursa",
       "category": "theater",
-      "date": "2026-10-11T20:00:00.000Z",
+      "date": "2026-10-12T20:00:00.000Z",
       "venue": {
         "name": "Merinos AKKM",
         "city": "Bursa",
@@ -1165,10 +1170,10 @@
       ]
     },
     {
-      "id": "akustik gece teoman|2026-10-05|4104,2901",
+      "id": "akustik gece teoman|2026-10-06|4104,2901",
       "title": "Teoman Akustik Gece",
       "category": "concert",
-      "date": "2026-10-05T22:00:00.000Z",
+      "date": "2026-10-06T22:00:00.000Z",
       "venue": {
         "name": "IF Performance Hall Beşiktaş",
         "city": "İstanbul",
@@ -1190,10 +1195,10 @@
       ]
     },
     {
-      "id": "ceza|2026-11-02|4105,2899",
+      "id": "ceza|2026-11-03|4105,2899",
       "title": "Ceza - KüçükÇiftlik Park",
       "category": "concert",
-      "date": "2026-11-02T21:00:00.000Z",
+      "date": "2026-11-03T21:00:00.000Z",
       "venue": {
         "name": "KüçükÇiftlik Park",
         "city": "İstanbul",
@@ -1215,10 +1220,10 @@
       ]
     },
     {
-      "id": "ankara hadi se|2026-10-10|3995,3286",
+      "id": "ankara hadi se|2026-10-11|3995,3286",
       "title": "HADİSE Ankara Konseri",
       "category": "concert",
-      "date": "2026-10-10T21:00:00.000Z",
+      "date": "2026-10-11T21:00:00.000Z",
       "venue": {
         "name": "Ankara Arena",
         "city": "Ankara",
@@ -1240,5 +1245,5 @@
       ]
     }
   ],
-  "ingestedAt": "2026-09-28T11:20:27.015Z"
+  "ingestedAt": "2026-09-29T10:58:55.928Z"
 }
