@@ -1,10 +1,10 @@
 {
   "events": [
     {
-      "id": "stanbul tarkan|2026-11-10|4109,2902",
+      "id": "stanbul tarkan|2026-11-11|4109,2902",
       "title": "Tarkan İstanbul Konseri",
       "category": "concert",
-      "date": "2026-11-10T21:00:00.000Z",
+      "date": "2026-11-11T21:00:00.000Z",
       "venue": {
         "name": "Volkswagen Arena",
         "city": "İstanbul",
@@ -33,10 +33,10 @@
       ]
     },
     {
-      "id": "aksu sezen|2026-11-18|4105,2899",
+      "id": "aksu sezen|2026-11-19|4105,2899",
       "title": "Sezen Aksu - Harbiye",
       "category": "concert",
-      "date": "2026-11-18T21:00:00.000Z",
+      "date": "2026-11-19T21:00:00.000Z",
       "venue": {
         "name": "Harbiye Cemil Topuzlu Açıkhava",
         "city": "İstanbul",
@@ -65,10 +65,10 @@
       ]
     },
     {
-      "id": "mabel matiz|2026-11-26|4105,2899",
+      "id": "mabel matiz|2026-11-27|4105,2899",
       "title": "Mabel Matiz Konseri",
       "category": "concert",
-      "date": "2026-11-26T21:00:00.000Z",
+      "date": "2026-11-27T21:00:00.000Z",
       "venue": {
         "name": "KüçükÇiftlik Park",
         "city": "İstanbul",
@@ -97,10 +97,10 @@
       ]
     },
     {
-      "id": "besiktas teoman|2026-11-03|4104,2901",
+      "id": "besiktas teoman|2026-11-04|4104,2901",
       "title": "Teoman - IF Beşiktaş",
       "category": "concert",
-      "date": "2026-11-03T22:00:00.000Z",
+      "date": "2026-11-04T22:00:00.000Z",
       "venue": {
         "name": "IF Performance Hall Beşiktaş",
         "city": "İstanbul",
@@ -122,10 +122,10 @@
       ]
     },
     {
-      "id": "mor otesi|2026-11-21|4107,2902",
+      "id": "mor otesi|2026-11-22|4107,2902",
       "title": "Mor ve Ötesi Konseri",
       "category": "concert",
-      "date": "2026-11-21T21:00:00.000Z",
+      "date": "2026-11-22T21:00:00.000Z",
       "venue": {
         "name": "Zorlu PSM",
         "city": "İstanbul",
@@ -154,10 +154,10 @@
       ]
     },
     {
-      "id": "erener sertab|2026-12-06|4108,2903",
+      "id": "erener sertab|2026-12-07|4108,2903",
       "title": "SERTAB ERENER Konseri",
       "category": "concert",
-      "date": "2026-12-06T21:00:00.000Z",
+      "date": "2026-12-07T21:00:00.000Z",
       "venue": {
         "name": "UNIQ İstanbul",
         "city": "İstanbul",
@@ -186,10 +186,10 @@
       ]
     },
     {
-      "id": "derbi fb gs|2026-11-05|4110,2899",
+      "id": "derbi fb gs|2026-11-06|4110,2899",
       "title": "GS - FB Derbi",
       "category": "sport",
-      "date": "2026-11-05T19:00:00.000Z",
+      "date": "2026-11-06T19:00:00.000Z",
       "venue": {
         "name": "Türk Telekom Stadyumu",
         "city": "İstanbul",
@@ -211,10 +211,10 @@
       ]
     },
     {
-      "id": "ankara hadise|2026-11-08|3995,3286",
+      "id": "ankara hadise|2026-11-09|3995,3286",
       "title": "Hadise - Ankara Arena",
       "category": "concert",
-      "date": "2026-11-08T21:00:00.000Z",
+      "date": "2026-11-09T21:00:00.000Z",
       "venue": {
         "name": "Ankara Arena",
         "city": "Ankara",
@@ -243,10 +243,10 @@
       ]
     },
     {
-      "id": "ankara athena|2026-11-02|3991,3286",
+      "id": "ankara athena|2026-11-03|3991,3286",
       "title": "Athena Ankara",
       "category": "concert",
-      "date": "2026-11-02T22:00:00.000Z",
+      "date": "2026-11-03T22:00:00.000Z",
       "venue": {
         "name": "Jolly Joker Ankara",
         "city": "Ankara",
@@ -275,10 +275,10 @@
       ]
     },
     {
-      "id": "cem cmylmz firsat firsat yilmaz|2026-11-24|3991,3278",
+      "id": "cem cmylmz firsat firsat yilmaz|2026-11-25|3991,3278",
       "title": "Cem Yılmaz - CMYLMZ FIRSAT BU FIRSAT",
       "category": "stand-up",
-      "date": "2026-11-24T20:00:00.000Z",
+      "date": "2026-11-25T20:00:00.000Z",
       "venue": {
         "name": "ATO Congresium",
         "city": "Ankara",
@@ -300,10 +300,10 @@
       ]
     },
     {
-      "id": "aassm bastik zeynep zmir|2026-11-17|3842,2713",
+      "id": "aassm bastik zeynep zmir|2026-11-18|3842,2713",
       "title": "Zeynep Bastık - AASSM İzmir",
       "category": "concert",
-      "date": "2026-11-17T21:00:00.000Z",
+      "date": "2026-11-18T21:00:00.000Z",
       "venue": {
         "name": "Ahmed Adnan Saygun Sanat Merkezi",
         "city": "İzmir",
@@ -332,10 +332,10 @@
       ]
     },
     {
-      "id": "aspendos bale opera|2026-12-16|3694,3117",
+      "id": "aspendos bale opera|2026-12-17|3694,3117",
       "title": "Aspendos Opera ve Bale Festivali",
       "category": "festival",
-      "date": "2026-12-16T21:00:00.000Z",
+      "date": "2026-12-17T21:00:00.000Z",
       "venue": {
         "name": "Aspendos Antik Tiyatrosu",
         "city": "Antalya",
@@ -357,10 +357,10 @@
       ]
     },
     {
-      "id": "antalya yalin|2026-11-13|3691,3064",
+      "id": "antalya yalin|2026-11-14|3691,3064",
       "title": "YALIN Antalya",
       "category": "concert",
-      "date": "2026-11-13T21:00:00.000Z",
+      "date": "2026-11-14T21:00:00.000Z",
       "venue": {
         "name": "Antalya Spor Salonu",
         "city": "Antalya",
@@ -389,10 +389,10 @@
       ]
     },
     {
-      "id": "devlet hamlet tiyatrolari|2026-11-09|4020,2905",
+      "id": "devlet hamlet tiyatrolari|2026-11-10|4020,2905",
       "title": "Hamlet - Devlet Tiyatroları",
       "category": "theater",
-      "date": "2026-11-09T20:00:00.000Z",
+      "date": "2026-11-10T20:00:00.000Z",
       "venue": {
         "name": "Merinos AKKM",
         "city": "Bursa",
@@ -414,10 +414,10 @@
       ]
     },
     {
-      "id": "bir kafamda tuhaflik|2026-11-20|4107,2902",
+      "id": "bir kafamda tuhaflik|2026-11-21|4107,2902",
       "title": "Kafamda Bir Tuhaflık Müzikali",
       "category": "musical",
-      "date": "2026-11-20T20:00:00.000Z",
+      "date": "2026-11-21T20:00:00.000Z",
       "venue": {
         "name": "Zorlu PSM",
         "city": "İstanbul",
@@ -439,27 +439,6 @@
       ]
     },
     {
-      "id": "by mix modundayiz|2026-11-06|4107,2902",
-      "title": "MIX Festival by Modundayız",
-      "category": "festival",
-      "date": "2026-11-06T17:00:00.000Z",
-      "venue": {
-        "name": "Zorlu PSM",
-        "city": "İstanbul",
-        "district": "Beşiktaş",
-        "lat": 41.0681,
-        "lng": 29.0151
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/15102026175243-passo_3.jpg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/mix-festival-2026-10th-anniversary-zorlupsm-passo",
-          "title": "MIX Festival by Modundayız"
-        }
-      ]
-    },
-    {
       "id": "bilet borusan filarmoni orkestrasi seri stanbul|2027-05-14|4109,2875",
       "title": "Borusan İstanbul Filarmoni Orkestrası - Seri Bilet",
       "category": "concert",
@@ -477,6 +456,48 @@
           "source": "passo",
           "url": "https://www.passo.com.tr/tr/etkinlik/borusan-filarmoni-orkestrasi-seri-bilet-konser-bileti",
           "title": "Borusan İstanbul Filarmoni Orkestrası - Seri Bilet"
+        }
+      ]
+    },
+    {
+      "id": "dark elegance halloween karas party|2026-10-31|4101,2897",
+      "title": "Karas Halloween Party – Dark Elegance",
+      "category": "concert",
+      "date": "2026-10-31T20:00:00.000Z",
+      "venue": {
+        "name": "Canopy by Hilton İstanbul Taksim",
+        "city": "İstanbul",
+        "district": "İstanbul",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/27102026142111-passo_sanitized_by_opswat_metadefender_aa9fa4d3b4a1411380a2b6661883123c.jpg?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/karas-halloween-party-dark-elagance-canopy-by-istanbul-bileleri-passo",
+          "title": "Karas Halloween Party – Dark Elegance"
+        }
+      ]
+    },
+    {
+      "id": "by mix modundayiz|2026-11-06|4107,2902",
+      "title": "MIX Festival by Modundayız",
+      "category": "festival",
+      "date": "2026-11-06T17:00:00.000Z",
+      "venue": {
+        "name": "Zorlu PSM",
+        "city": "İstanbul",
+        "district": "Beşiktaş",
+        "lat": 41.0681,
+        "lng": 29.0151
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/15102026175243-passo_3.jpg?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/mix-festival-2026-10th-anniversary-zorlupsm-passo",
+          "title": "MIX Festival by Modundayız"
         }
       ]
     },
@@ -775,426 +796,6 @@
       ]
     },
     {
-      "id": "ayvalikgucu belediyespor grup sariyer sms|2026-10-27|4108,2898",
-      "title": "SMS Grup Sarıyer - Ayvalıkgücü Belediyespor",
-      "category": "sport",
-      "date": "2026-10-27T15:00:00.000Z",
-      "venue": {
-        "name": "Yusuf Ziya Öniş Stadyumu",
-        "city": "İstanbul",
-        "district": "Kağıthane",
-        "lat": 41.075502,
-        "lng": 28.984229
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/21102026121038-13683319.jpg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/sariyer-ayvalikgucubelediyespor-ziraat-turkiye-kupasi-mac-bileti-passo",
-          "title": "SMS Grup Sarıyer - Ayvalıkgücü Belediyespor"
-        }
-      ]
-    },
-    {
-      "id": "boluspor karsiyaka|2026-10-27|4101,2910",
-      "title": "Boluspor - Karşıyaka",
-      "category": "sport",
-      "date": "2026-10-27T15:30:00.000Z",
-      "venue": {
-        "name": "Bolu Atatürk Stadyumu",
-        "city": "İstanbul",
-        "district": "Ümraniye",
-        "lat": 41.014545,
-        "lng": 29.101697
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/24102026112822-13669322.jpg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/boluspor-karsiyaka-ziraat-turkiye-kupasi-mac-bileti-passo",
-          "title": "Boluspor - Karşıyaka"
-        }
-      ]
-    },
-    {
-      "id": "bir dam gunu mahkumunun son|2026-10-27|4109,2878",
-      "title": "Bir İdam Mahkumunun Son Günü",
-      "category": "concert",
-      "date": "2026-10-27T18:00:00.000Z",
-      "venue": {
-        "name": "Kadıköy BBS Sahne",
-        "city": "İstanbul",
-        "district": "Başakşehir",
-        "lat": 41.092067,
-        "lng": 28.781229
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/19102026225949-biridammahkumununsongunu.jpeg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/biridammahkumununsongunu-kadikoybbs-passo",
-          "title": "Bir İdam Mahkumunun Son Günü"
-        }
-      ]
-    },
-    {
-      "id": "kurk madonna mantolu|2026-10-27|4104,2898",
-      "title": "Kürk Mantolu Madonna",
-      "category": "concert",
-      "date": "2026-10-27T18:15:00.000Z",
-      "venue": {
-        "name": "Taksim İstiklal Sahne",
-        "city": "İstanbul",
-        "district": "Beyoğlu",
-        "lat": 41.036822,
-        "lng": 28.983766
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/15082026145726-kurkmantolumadonna.png?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/kurkmantolumadonna-taksim-istiklal-sahne-tiyatro-biletleri-passo",
-          "title": "Kürk Mantolu Madonna"
-        }
-      ]
-    },
-    {
-      "id": "deneyimi halic kano tarihi te|2026-10-27|4107,2895",
-      "title": "Tarihi Haliç’te Kano Deneyimi",
-      "category": "concert",
-      "date": "2026-10-27T06:30:00.000Z",
-      "venue": {
-        "name": "Heyamola Rowing Club",
-        "city": "İstanbul",
-        "district": "Eyüpsultan",
-        "lat": 41.065737,
-        "lng": 28.946793
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/15102026170638-halic-te-kano_passo_ana-gorsel_1920x1080_1.jpg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/tarihi-halicte-kano-deneyimi",
-          "title": "Tarihi Haliç’te Kano Deneyimi"
-        }
-      ]
-    },
-    {
-      "id": "fosfat kocaelispor mazidag spor|2026-10-27|4101,2908",
-      "title": "Kocaelispor - E.G Mazıdag Fosfat Spor",
-      "category": "sport",
-      "date": "2026-10-27T18:00:00.000Z",
-      "venue": {
-        "name": "Turka Araç Muayene Kocaeli Stadyumu",
-        "city": "İstanbul",
-        "district": "Üsküdar",
-        "lat": 41.012467,
-        "lng": 29.084114
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/22102026131741-13659320.jpg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/kocaelispor-mazidag-fosfatspor-mac-bileti-passo",
-          "title": "Kocaelispor - E.G Mazıdag Fosfat Spor"
-        }
-      ]
-    },
-    {
-      "id": "ceza suc|2026-10-27|4109,2878",
-      "title": "Suç ve Ceza",
-      "category": "concert",
-      "date": "2026-10-27T19:30:00.000Z",
-      "venue": {
-        "name": "Kadıköy BBS Sahne",
-        "city": "İstanbul",
-        "district": "Başakşehir",
-        "lat": 41.092067,
-        "lng": 28.781229
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/19102026230142-sucveceza.jpg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/sucveceza-kadikoybbs-passo",
-          "title": "Suç ve Ceza"
-        }
-      ]
-    },
-    {
-      "id": "dman kulubu mersin mus spor yeni yurdu|2026-10-27|4116,2891",
-      "title": "Yeni Mersin İdman Yurdu A.Ş -  Muş Spor Kulübü",
-      "category": "sport",
-      "date": "2026-10-27T19:00:00.000Z",
-      "venue": {
-        "name": "Mersin Stadyumu",
-        "city": "İstanbul",
-        "district": "Eyüpsultan",
-        "lat": 41.160705,
-        "lng": 28.912998
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/25102026085012-whatsapp_image_2026-10-24_at_23_45_11.jpeg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/yeni-mersin-idman-yurdu-mus-spor-mersin-stadyumu",
-          "title": "Yeni Mersin İdman Yurdu A.Ş -  Muş Spor Kulübü"
-        }
-      ]
-    },
-    {
-      "id": "hayalet operadaki|2026-10-27|4109,2878",
-      "title": "Operadaki Hayalet",
-      "category": "musical",
-      "date": "2026-10-27T20:30:00.000Z",
-      "venue": {
-        "name": "Kadıköy BBS Sahne",
-        "city": "İstanbul",
-        "district": "Başakşehir",
-        "lat": 41.092067,
-        "lng": 28.781229
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/19102026233031-operadakihayalet.png?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/operadakihayalet-kadikoybbs-passo",
-          "title": "Operadaki Hayalet"
-        }
-      ]
-    },
-    {
-      "id": "muhabbet nese zmir|2026-10-27|4101,2920",
-      "title": "Neşe-i Muhabbet | İzmir",
-      "category": "concert",
-      "date": "2026-10-27T20:30:00.000Z",
-      "venue": {
-        "name": "Hikmet Şimşek Sanat Merkezi",
-        "city": "İstanbul",
-        "district": "Sancaktepe",
-        "lat": 41.007568,
-        "lng": 29.201332
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/16092026200713-nesei-muhabbet-bilet-passo.jpg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/nesei-muhabbet-tiyatro-bileti-hikmet-simsek-sanat-merkezi-izmir-passo",
-          "title": "Neşe-i Muhabbet | İzmir"
-        }
-      ]
-    },
-    {
-      "id": "cambazin cenazesi stanbul|2026-10-27|4106,2891",
-      "title": "Cambazın Cenazesi | İstanbul",
-      "category": "concert",
-      "date": "2026-10-27T20:30:00.000Z",
-      "venue": {
-        "name": "İBB Şile Kültür Merkezi",
-        "city": "İstanbul",
-        "district": "Gaziosmanpaşa",
-        "lat": 41.059417,
-        "lng": 28.906946
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/16092026192649-cambazin-cenazesi.jpg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/cambazin-cenazesi-tiyatro-bileti-ibb-sile-kultur-merkezi-istanbul-passo",
-          "title": "Cambazın Cenazesi | İstanbul"
-        }
-      ]
-    },
-    {
-      "id": "galalari ksv musk|2026-10-27|4099,2903",
-      "title": "İKSV Galaları: Musk",
-      "category": "concert",
-      "date": "2026-10-27T19:30:00.000Z",
-      "venue": {
-        "name": "Kadıköy Sineması",
-        "city": "İstanbul",
-        "district": "Kadıköy",
-        "lat": 40.99002,
-        "lng": 29.025478
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/20102026173548-musk-passo.jpg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/iksv-galalari-musk-kadikoy-sinemasi-film-biletleri",
-          "title": "İKSV Galaları: Musk"
-        }
-      ]
-    },
-    {
-      "id": "baba|2026-10-27|4107,2902",
-      "title": "Baba",
-      "category": "concert",
-      "date": "2026-10-27T20:30:00.000Z",
-      "venue": {
-        "name": "Zorlu PSM - Turkcell Platinum Sahnesi",
-        "city": "İstanbul",
-        "district": "Sarıyer",
-        "lat": 41.0681,
-        "lng": 29.0151
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/05092025191309-baba_1920x1080_passo.jpg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/baba-bilet-zorlupsm-passo",
-          "title": "Baba"
-        }
-      ]
-    },
-    {
-      "id": "kardes kiz masa olga rina uc yine|2026-10-27|4107,2902",
-      "title": "Olga, Maşa, İrina Yine Üç Kız Kardeş",
-      "category": "concert",
-      "date": "2026-10-27T20:30:00.000Z",
-      "venue": {
-        "name": "Zorlu PSM - %100 Studio",
-        "city": "İstanbul",
-        "district": "Beşiktaş",
-        "lat": 41.0681,
-        "lng": 29.0151
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/23092026155257-123.png?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/olga-masa-irina-yine-uc-kiz-kardes-zorlu-psm-studio-tiyatro-bilet-passo",
-          "title": "Olga, Maşa, İrina Yine Üç Kız Kardeş"
-        }
-      ]
-    },
-    {
-      "id": "adam agzi cicekli|2026-10-27|4101,2903",
-      "title": "Ağzı Çiçekli Adam",
-      "category": "concert",
-      "date": "2026-10-27T20:30:00.000Z",
-      "venue": {
-        "name": "Cafe Theatre Koşuyolu",
-        "city": "İstanbul",
-        "district": "Kadıköy",
-        "lat": 41.007126,
-        "lng": 29.03476
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/22062026101722-agzicicekli1920.jpeg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/agzi-cicekli-adam-tiyatro-cafe-theatre-kadikoy",
-          "title": "Ağzı Çiçekli Adam"
-        }
-      ]
-    },
-    {
-      "id": "galalari ksv musk|2026-10-27|4107,2895",
-      "title": "İKSV Galaları: Musk",
-      "category": "concert",
-      "date": "2026-10-27T19:30:00.000Z",
-      "venue": {
-        "name": "Cinewam City's 7 Sineması",
-        "city": "İstanbul",
-        "district": "Eyüpsultan",
-        "lat": 41.065737,
-        "lng": 28.946793
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/20102026174401-musk-passo.jpg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/iksv-galalari-musk-film-biletleri",
-          "title": "İKSV Galaları: Musk"
-        }
-      ]
-    },
-    {
-      "id": "12 alanyaspor bingol corendon spor|2026-10-27|4103,2898",
-      "title": "Corendon Alanyaspor - 12 Bingöl Spor",
-      "category": "sport",
-      "date": "2026-10-27T20:30:00.000Z",
-      "venue": {
-        "name": "Alanya Oba Stadyumu",
-        "city": "İstanbul",
-        "district": "Beyoğlu",
-        "lat": 41.032144,
-        "lng": 28.984361
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/25102026191117-13753319.jpg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/alanyaspor-12bingolspor-ziraat-turkiye-kupasi-mac-bileti-passo",
-          "title": "Corendon Alanyaspor - 12 Bingöl Spor"
-        }
-      ]
-    },
-    {
-      "id": "27 ekim night trivia|2026-10-27|4105,2908",
-      "title": "27 Ekim | Trivia Night",
-      "category": "concert",
-      "date": "2026-10-27T20:30:00.000Z",
-      "venue": {
-        "name": "Sanat Performance",
-        "city": "İstanbul",
-        "district": "Üsküdar",
-        "lat": 41.054473,
-        "lng": 29.075582
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/11072025101706-2025_trivia_template_fb_copy.jpg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/trivia-night-sanat-performance-biletler-passo",
-          "title": "27 Ekim | Trivia Night"
-        }
-      ]
-    },
-    {
-      "id": "mustafa sandal stanbul|2026-10-27|4105,2899",
-      "title": "Mustafa Sandal | İstanbul",
-      "category": "concert",
-      "date": "2026-10-27T21:00:00.000Z",
-      "venue": {
-        "name": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
-        "city": "İstanbul",
-        "district": "Şişli",
-        "lat": 41.0463,
-        "lng": 28.9874
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/13102026142908-mustafa_290926.jpg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/mustafa-sandal-harbiye-acikhava-biletleri",
-          "title": "Mustafa Sandal | İstanbul"
-        }
-      ]
-    },
-    {
-      "id": "bayindir didem edebiyat gulcan hamlet in kaygusuz le ozer sema shakespeare|2026-10-27|4103,2897",
-      "title": "Didem Bayındır ile Edebiyat Salonu: Sema Kaygusuz ve Gülcan Özer’le Shakespeare’in “Hamlet”i",
-      "category": "concert",
-      "date": "2026-10-27T20:00:00.000Z",
-      "venue": {
-        "name": "Fiba Salon İKSV",
-        "city": "İstanbul",
-        "district": "Beyoğlu",
-        "lat": 41.0303,
-        "lng": 28.9737
-      },
-      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/31082026152217-salon26-edebiyatsalonu1-passo.jpg?w=760&h=400",
-      "sources": [
-        {
-          "source": "passo",
-          "url": "https://www.passo.com.tr/tr/etkinlik/didem-bayindir-ile-edebiyat-salonu-sema-kaygusuz-ve-gulcan-ozerle-shakespearein-hamleti-fibasalon-iksv-etkinlik-biletleri",
-          "title": "Didem Bayındır ile Edebiyat Salonu: Sema Kaygusuz ve Gülcan Özer’le Shakespeare’in “Hamlet”i"
-        }
-      ]
-    },
-    {
       "id": "golcukspor kizilkaya sanliurfaspor tarim|2026-10-28|4102,2915",
       "title": "Kızılkaya Tarım  Şanlıurfaspor - Gölcükspor",
       "category": "sport",
@@ -1342,10 +943,414 @@
       ]
     },
     {
-      "id": "ezhel|2026-11-14|4105,2899",
+      "id": "bursa bursa gecesi stand up|2026-10-28|4103,2898",
+      "title": "Bursa Stand Up Gecesi | Bursa",
+      "category": "stand-up",
+      "date": "2026-10-28T21:30:00.000Z",
+      "venue": {
+        "name": "Studyou Sahne Bursa",
+        "city": "İstanbul",
+        "district": "Beyoğlu",
+        "lat": 41.034376,
+        "lng": 28.977502
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/06102026233519-bursa.jpg?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/bursaacikmikrofonstandup-studyou-cafe-bursa-tiyatro-biletleri-passo",
+          "title": "Bursa Açık Mikrofon Stand Up Gecesi | Bursa"
+        },
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/bursastandupgecesi-studyou-cafe-bursa-passo",
+          "title": "Bursa Stand Up Gecesi | Bursa"
+        }
+      ]
+    },
+    {
+      "id": "beker bengu stanbul|2026-10-28|4098,2912",
+      "title": "Bengü Beker | İstanbul",
+      "category": "concert",
+      "date": "2026-10-28T20:00:00.000Z",
+      "venue": {
+        "name": "Muamma Plus Ataşehir",
+        "city": "İstanbul",
+        "district": "Ataşehir",
+        "lat": 40.975976,
+        "lng": 29.119402
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/25092026125738-bengu-beker-muamma.jpg?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/bengu-beker-konser-bileti-muamma-atasehir-istanbul-passo",
+          "title": "Bengü Beker | İstanbul"
+        }
+      ]
+    },
+    {
+      "id": "anna karenina|2026-10-28|4109,2878",
+      "title": "Anna Karenina",
+      "category": "concert",
+      "date": "2026-10-28T20:30:00.000Z",
+      "venue": {
+        "name": "Kadıköy BBS Sahne",
+        "city": "İstanbul",
+        "district": "Başakşehir",
+        "lat": 41.092067,
+        "lng": 28.781229
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/19102026225511-anna_karenina.png?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/annakarenina-kadikoybbs-passo",
+          "title": "Anna Karenina"
+        }
+      ]
+    },
+    {
+      "id": "cocktail consultancy design istanbul jigger kokteyl workshop|2026-10-28|4107,2895",
+      "title": "Kokteyl Workshop - Jigger Istanbul Cocktail Design & Consultancy",
+      "category": "concert",
+      "date": "2026-10-28T18:30:00.000Z",
+      "venue": {
+        "name": "Assembly Buildings | Ferko Signature",
+        "city": "İstanbul",
+        "district": "Eyüpsultan",
+        "lat": 41.065737,
+        "lng": 28.946793
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/19102026134704-passo_jigger.jpg?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/kokteyl-workshop-jigger-istanbul-biletleri",
+          "title": "Kokteyl Workshop - Jigger Istanbul Cocktail Design & Consultancy"
+        }
+      ]
+    },
+    {
+      "id": "ascq besiktas boa lm villeneuve|2026-10-28|4104,2901",
+      "title": "Beşiktaş Boa - Villeneuve d'Ascq LM",
+      "category": "concert",
+      "date": "2026-10-28T20:00:00.000Z",
+      "venue": {
+        "name": "Beşiktaş Akatlar Spor Kompleksi",
+        "city": "İstanbul",
+        "district": "Beşiktaş",
+        "lat": 41.041941,
+        "lng": 29.005674
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/20102026165623-adsiz_tasarim_94.jpg?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/besiktas-boa-villeneuve-basketbol-mac-bileti",
+          "title": "Beşiktaş Boa - Villeneuve d'Ascq LM"
+        }
+      ]
+    },
+    {
+      "id": "hayat kabare lukus|2026-10-28|4101,2903",
+      "title": "Lüküs Hayat Kabare",
+      "category": "concert",
+      "date": "2026-10-28T20:30:00.000Z",
+      "venue": {
+        "name": "Cafe Theatre Koşuyolu",
+        "city": "İstanbul",
+        "district": "Kadıköy",
+        "lat": 41.007126,
+        "lng": 29.03476
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/22122025124100-adsiz_tasarim_20251218_182416_0000.jpg?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/lukus-hayat-kabare-tiyatro-cafe-theatre-kadikoy",
+          "title": "Lüküs Hayat Kabare"
+        }
+      ]
+    },
+    {
+      "id": "ne ne yasamaz yasar yasar|2026-10-28|4101,2903",
+      "title": "Yaşar Ne Yaşar Ne Yaşamaz",
+      "category": "concert",
+      "date": "2026-10-28T20:30:00.000Z",
+      "venue": {
+        "name": "Cafe Theatre Koşuyolu",
+        "city": "İstanbul",
+        "district": "Kadıköy",
+        "lat": 41.007126,
+        "lng": 29.03476
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/19122025163912-yasarneyasar-metinz.jpg?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/yasar-ne-yasar-ne-yasamaz-tiyatro-cafe-theatre-kadikoy",
+          "title": "Yaşar Ne Yaşar Ne Yaşamaz"
+        }
+      ]
+    },
+    {
+      "id": "basket carolo fenerbahce flammes tarfin|2026-10-28|4106,2897",
+      "title": "Fenerbahçe Tarfin -  Flammes Carolo Basket",
+      "category": "sport",
+      "date": "2026-10-28T20:00:00.000Z",
+      "venue": {
+        "name": "Ülker Spor ve Etkinlik Salonu",
+        "city": "İstanbul",
+        "district": "Şişli",
+        "lat": 41.056136,
+        "lng": 28.973667
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/09102026162937-adsiz_tasarim_86.jpg?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/fenerbahce-tarfin-flammes-carolo-basket-mac-bileti",
+          "title": "Fenerbahçe Tarfin -  Flammes Carolo Basket"
+        }
+      ]
+    },
+    {
+      "id": "la rosa solanch|2026-10-28|4107,2902",
+      "title": "Solanch De La Rosa",
+      "category": "concert",
+      "date": "2026-10-28T21:00:00.000Z",
+      "venue": {
+        "name": "Zorlu PSM - touché by N Kolay",
+        "city": "İstanbul",
+        "district": "Beşiktaş",
+        "lat": 41.0681,
+        "lng": 29.0151
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/26092023151326-sdlr_1920x1080_psso.png?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/solanch-de-la-rosa-zorlupsm-touche",
+          "title": "Solanch De La Rosa"
+        }
+      ]
+    },
+    {
+      "id": "bekir gecen unluataer yuzyil|2026-10-28|4107,2902",
+      "title": "Bekir Ünlüataer 'Geçen Yüzyıl'",
+      "category": "concert",
+      "date": "2026-10-28T21:00:00.000Z",
+      "venue": {
+        "name": "Zorlu PSM - Turkcell Platinum Sahnesi",
+        "city": "İstanbul",
+        "district": "Sarıyer",
+        "lat": 41.0681,
+        "lng": 29.0151
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/21082026154538-123123.jpg?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/bekir-unluataer-gecen-yuzyil-bilet-zorlupsm-passo",
+          "title": "Bekir Ünlüataer 'Geçen Yüzyıl'"
+        }
+      ]
+    },
+    {
+      "id": "besiktas olympiacos piraeus|2026-10-28|4109,2898",
+      "title": "Beşiktaş - Olympiacos Piraeus",
+      "category": "concert",
+      "date": "2026-10-28T20:30:00.000Z",
+      "venue": {
+        "name": "Turkcell Basketbol Gelişim Merkezi",
+        "city": "İstanbul",
+        "district": "Kağıthane",
+        "lat": 41.085433,
+        "lng": 28.981607
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/19102026185530-adsiz_tasarim_95.jpg?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/besiktas-olympiacos-basketbol-mac-bileti",
+          "title": "Beşiktaş - Olympiacos Piraeus"
+        }
+      ]
+    },
+    {
+      "id": "biraz her promiyer sey yalan|2026-10-28|4107,2901",
+      "title": "Her Şey Biraz Yalan (Prömiyer)",
+      "category": "concert",
+      "date": "2026-10-28T20:30:00.000Z",
+      "venue": {
+        "name": "Trump Sahne",
+        "city": "İstanbul",
+        "district": "Şişli",
+        "lat": 41.069,
+        "lng": 29.014
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/02102026094222-hbyy.png?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/her-sey-biraz-yalan-tiyatro-biletleri-trumpsahne-istanbul-passo",
+          "title": "Her Şey Biraz Yalan (Prömiyer)"
+        }
+      ]
+    },
+    {
+      "id": "bora oztoprak stanbul|2026-10-28|4108,2899",
+      "title": "Bora Öztoprak | İstanbul",
+      "category": "concert",
+      "date": "2026-10-28T22:30:00.000Z",
+      "venue": {
+        "name": "Kalamış Paysage Restaurant",
+        "city": "İstanbul",
+        "district": "Kağıthane",
+        "lat": 41.076716,
+        "lng": 28.988217
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/01102026122852-bora-oztoprak.jpg?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/bora-oztoprak-konser-bileti-kalamis-paysage-restaurant-istanbul-passo",
+          "title": "Bora Öztoprak | İstanbul"
+        }
+      ]
+    },
+    {
+      "id": "rana turkyilmaz|2026-10-28|4103,2897",
+      "title": "Rana Türkyılmaz",
+      "category": "concert",
+      "date": "2026-10-28T21:00:00.000Z",
+      "venue": {
+        "name": "Babylon",
+        "city": "İstanbul",
+        "district": "Beyoğlu",
+        "lat": 41.0294,
+        "lng": 28.9744
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/25082026161154-rt_1920x1080.jpg?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/rana-turkyilmaz-babylon-konser-etkinlik-bilet",
+          "title": "Rana Türkyılmaz"
+        }
+      ]
+    },
+    {
+      "id": "90 chalet garden lar pop turkce|2026-10-28|3992,4118",
+      "title": "Chalet Garden 90'lar Türkçe Pop",
+      "category": "concert",
+      "date": "2026-10-28T19:30:00.000Z",
+      "venue": {
+        "name": "Swissôtel The Bosphorus",
+        "city": "Chalet Garden",
+        "district": "Aziziye",
+        "lat": 39.915901,
+        "lng": 41.180648
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/17042026162618-1920x1080-100.jpg?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/chalet-garden-90-lar-turkce-pop-chalet-garden-swiss-otel-the-bosphorus",
+          "title": "Chalet Garden 90'lar Türkçe Pop"
+        }
+      ]
+    },
+    {
+      "id": "av feder modundayiz sunar|2026-10-28|4107,2902",
+      "title": "Modundayız Sunar: Feder (AV)",
+      "category": "concert",
+      "date": "2026-10-28T21:30:00.000Z",
+      "venue": {
+        "name": "Zorlu PSM - %100 Studio",
+        "city": "İstanbul",
+        "district": "Beşiktaş",
+        "lat": 41.0681,
+        "lng": 29.0151
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/21092026152628-feder.jpg?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/feder-av-konser-bilet-passo",
+          "title": "Modundayız Sunar: Feder (AV)"
+        }
+      ]
+    },
+    {
+      "id": "edepsiz komedi|2026-10-28|4101,2903",
+      "title": "Edepsiz Komedi",
+      "category": "concert",
+      "date": "2026-10-28T23:00:00.000Z",
+      "venue": {
+        "name": "Cafe Theatre Koşuyolu",
+        "city": "İstanbul",
+        "district": "Kadıköy",
+        "lat": 41.007126,
+        "lng": 29.03476
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/22122025144721-edepsiz.jpg?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/edepsiz-komedi-tiyatro-cafe-theatre-kadikoy",
+          "title": "Edepsiz Komedi"
+        }
+      ]
+    },
+    {
+      "id": "babyconcerts cocuk cumhuriyet gozuyle|2026-10-29|4107,2902",
+      "title": "BabyConcerts ile Çocuk Gözüyle Cumhuriyet",
+      "category": "sport",
+      "date": "2026-10-29T11:00:00.000Z",
+      "venue": {
+        "name": "Zorlu PSM - %100 Studio",
+        "city": "İstanbul",
+        "district": "Beşiktaş",
+        "lat": 41.0681,
+        "lng": 29.0151
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/06102026094300-cocuk_gozu.jpg?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/babyconcerts-ile-cocuk-gozuyle-cumhuriyet-zorlu-psm-studio-tiyatro-bilet-passo",
+          "title": "BabyConcerts ile Çocuk Gözüyle Cumhuriyet"
+        }
+      ]
+    },
+    {
+      "id": "pooh winnie|2026-10-29|4099,2913",
+      "title": "Winnie The Pooh",
+      "category": "concert",
+      "date": "2026-10-29T15:00:00.000Z",
+      "venue": {
+        "name": "Watergarden Performans Merkezi Duru Ataşehir",
+        "city": "İstanbul",
+        "district": "Ataşehir",
+        "lat": 40.9911,
+        "lng": 29.1314
+      },
+      "imageUrl": "https://image.passo.com.tr/api/r/tr/p/eventimg/09092026231305-yty.jpeg?w=760&h=400",
+      "sources": [
+        {
+          "source": "passo",
+          "url": "https://www.passo.com.tr/tr/etkinlik/tiyatro-winniethepooh-watergarden-atasehir-passo",
+          "title": "Winnie The Pooh"
+        }
+      ]
+    },
+    {
+      "id": "ezhel|2026-11-15|4105,2899",
       "title": "Ezhel Konseri",
       "category": "concert",
-      "date": "2026-11-14T21:00:00.000Z",
+      "date": "2026-11-15T21:00:00.000Z",
       "venue": {
         "name": "KüçükÇiftlik Park",
         "city": "İstanbul",
@@ -1374,10 +1379,10 @@
       ]
     },
     {
-      "id": "manga|2026-11-07|4096,2910",
+      "id": "manga|2026-11-08|4096,2910",
       "title": "MANGA Konseri",
       "category": "concert",
-      "date": "2026-11-07T21:00:00.000Z",
+      "date": "2026-11-08T21:00:00.000Z",
       "venue": {
         "name": "Bostancı Gösteri Merkezi",
         "city": "İstanbul",
@@ -1399,10 +1404,10 @@
       ]
     },
     {
-      "id": "ankara can hasan kaya|2026-11-15|3989,3286",
+      "id": "ankara can hasan kaya|2026-11-16|3989,3286",
       "title": "HASAN CAN KAYA Ankara",
       "category": "stand-up",
-      "date": "2026-11-15T21:00:00.000Z",
+      "date": "2026-11-16T21:00:00.000Z",
       "venue": {
         "name": "IF Performance Hall Ankara",
         "city": "Ankara",
@@ -1431,10 +1436,10 @@
       ]
     },
     {
-      "id": "buray zmir|2026-11-29|3845,2717",
+      "id": "buray zmir|2026-11-30|3845,2717",
       "title": "Buray Konseri İzmir",
       "category": "concert",
-      "date": "2026-11-29T21:00:00.000Z",
+      "date": "2026-11-30T21:00:00.000Z",
       "venue": {
         "name": "İzmir Arena",
         "city": "İzmir",
@@ -1456,10 +1461,10 @@
       ]
     },
     {
-      "id": "bursa hamlet|2026-11-09|4020,2905",
+      "id": "bursa hamlet|2026-11-10|4020,2905",
       "title": "HAMLET Bursa",
       "category": "theater",
-      "date": "2026-11-09T20:00:00.000Z",
+      "date": "2026-11-10T20:00:00.000Z",
       "venue": {
         "name": "Merinos AKKM",
         "city": "Bursa",
@@ -1481,10 +1486,10 @@
       ]
     },
     {
-      "id": "akustik gece teoman|2026-11-03|4104,2901",
+      "id": "akustik gece teoman|2026-11-04|4104,2901",
       "title": "Teoman Akustik Gece",
       "category": "concert",
-      "date": "2026-11-03T22:00:00.000Z",
+      "date": "2026-11-04T22:00:00.000Z",
       "venue": {
         "name": "IF Performance Hall Beşiktaş",
         "city": "İstanbul",
@@ -1506,10 +1511,10 @@
       ]
     },
     {
-      "id": "ceza|2026-12-01|4105,2899",
+      "id": "ceza|2026-12-02|4105,2899",
       "title": "Ceza - KüçükÇiftlik Park",
       "category": "concert",
-      "date": "2026-12-01T21:00:00.000Z",
+      "date": "2026-12-02T21:00:00.000Z",
       "venue": {
         "name": "KüçükÇiftlik Park",
         "city": "İstanbul",
@@ -1531,10 +1536,10 @@
       ]
     },
     {
-      "id": "ankara hadi se|2026-11-08|3995,3286",
+      "id": "ankara hadi se|2026-11-09|3995,3286",
       "title": "HADİSE Ankara Konseri",
       "category": "concert",
-      "date": "2026-11-08T21:00:00.000Z",
+      "date": "2026-11-09T21:00:00.000Z",
       "venue": {
         "name": "Ankara Arena",
         "city": "Ankara",
@@ -1556,5 +1561,5 @@
       ]
     }
   ],
-  "ingestedAt": "2026-10-27T10:17:01.401Z"
+  "ingestedAt": "2026-10-28T10:54:04.558Z"
 }
